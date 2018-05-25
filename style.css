@@ -32,11 +32,12 @@ html, body {
     border: none;
     outline: none;
     cursor: pointer;
-    padding: 12px 50px;
+    padding: 12px 30px;
     transition: 0.3s;
     font-size: 16pt;
     font-family: 'Times New Roman';
     font-weight: bold;
+
 }
 
 /* Change background color of buttons on hover */
@@ -56,6 +57,7 @@ html, body {
     padding: 6px 12px;
     border: 1px solid #ccc;
     border-top: none;
+    
 }
 * {
     box-sizing: border-box;
@@ -72,4 +74,17 @@ html, body {
     content: "";
     clear: both;
     display: table;
+}
+
+.table {
+    width: 750t;
+    border-spacing: 30px 5px;
+
+    text-align: left;
+}
+.td{
+    width: 50%;
+}
+div.sk {
+    text-indent: 40px;
 }
