@@ -5,10 +5,13 @@ permalink: /cv/
 ---
 
 # Education
+---
+------------------|:-------------------------------------------------------------------------:|
 07.2017 – Present | M.S. of Computer Science, National Chiao Tung University, Hsinchu, Taiwan
 09.2011 - 06.2015 | B.S. of Psychology, National Cheng Kung University, Tainan, Taiwan
 
 # Experience
+---
 11.2016 - 01.2017 | Research Assistant, Institute of Psychology, TU Chemnitz, Chemnitz, Germany
 08.2015 - 09.2016 | Substitute military service, Tainan, Taiwan
 02 - 06.2015      | Teaching Assistant, "Statistics in Psychology and education: Computer application." Dept. of Psychology, NCKU
