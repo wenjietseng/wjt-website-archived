@@ -3,11 +3,12 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
+# Research Projects
+FacePush: Introducing Normal Force on Face with Head-Mounted Displays
 
-Project page
+Creating Shiny Applications for Teaching Statistical Concepts
 
-Research Projects
+# Course Projects
+FoodForYou
 
-Course Projects
-
-Side Projects
+# Side Projects
