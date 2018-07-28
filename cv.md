@@ -12,7 +12,7 @@ permalink: /cv/
 * 11.2016 - 01.2017  Research Assistant, Institute of Psychology, TU Chemnitz, Chemnitz, Germany
 * 08.2015 - 09.2016  Substitute military service, Tainan, Taiwan
 
-## Teaching Assitant
+_Teaching Assistant_
 * Fall 2017 - Introduction to Computers and Programming, Dept. of Computer Science, NCTU
 * Spring 2015 - Statistics in Psychology and education: Computer application, Dept. of Psychology, NCKU
 
