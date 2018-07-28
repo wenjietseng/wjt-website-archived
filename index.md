@@ -5,8 +5,11 @@
 layout: home
 image: assets/images/me.jpg
 ---
+<center>
+Welcome to Wen-Jie's personal homepage!
+</center>
 
-![My helpful screenshot]({{ "/assets/images/me.JPG"}})
+<!-- ![]({{ "/assets/images/me.JPG"}}) -->
 
 <!-- {% if page.image %}
 <center>
