@@ -4,4 +4,14 @@ title: CV
 permalink: /cv/
 ---
 
-test cv?
+# Education
+---
+
+# Experience
+---
+
+# Publications
+---
+
+# Skills
+---
