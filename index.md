@@ -6,8 +6,10 @@ layout: home
 image: assets/images/me.jpg
 ---
 
-{% if page.image %}
+![My helpful screenshot]({{ "/assets/images/me.jpg"}})
+
+<!-- {% if page.image %}
 <center>
     <img src="{{site.baseurl}}/{{page.image}}" width="400" height="600">
 </center>
-{% endif %}
+{% endif %} -->
