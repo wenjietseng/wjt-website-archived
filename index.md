@@ -4,3 +4,7 @@
 
 layout: home
 ---
+
+<center>
+    <img src="./assets/images/me.JPG" width="400" height="600">
+</center>
