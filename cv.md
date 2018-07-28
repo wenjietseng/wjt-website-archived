@@ -7,8 +7,8 @@ permalink: /cv/
 # Education
 ---
 ------------------|:-------------------------------------------------------------------------:|
-07.2017 – Present | M.S. of Computer Science, National Chiao Tung University, Hsinchu, Taiwan
-09.2011 - 06.2015 | B.S. of Psychology, National Cheng Kung University, Tainan, Taiwan
+07.2017 – Present | M.S. of Computer Science, National Chiao Tung University, Hsinchu, Taiwan |
+09.2011 - 06.2015 | B.S. of Psychology, National Cheng Kung University, Tainan, Taiwan        |
 
 # Experience
 ---
