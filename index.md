@@ -6,7 +6,7 @@ layout: home
 image: assets/images/me.jpg
 ---
 
-![My helpful screenshot]({{ "/assets/images/me.jpg"}})
+![My helpful screenshot]({{ "/assets/images/me.JPG"}})
 
 <!-- {% if page.image %}
 <center>
