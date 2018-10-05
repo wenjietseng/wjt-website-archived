@@ -11,7 +11,7 @@ permalink: /projects/
 
 # Creating Shiny Applications for Teaching Statistical Concepts
 
-![](/assets/images/sdt.png)
+![ ](_site/assets/images/sdt.png)
 
 We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics. 
 
