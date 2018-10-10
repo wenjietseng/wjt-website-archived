@@ -25,9 +25,9 @@ Introduction to Computers and Programming, Dept. of Computer Science, NCTU
 Statistics in Psychology and education: Computer application, Dept. of Psychology, NCKU
 
 # Publications
-1. Hong-Yu Chang, __Wen-Jie Tseng(co-author)__, Chia-En Tsai, Hsin-Yu Chen, Roshan Lalintha Peiris and Liwei Chan. 2018. FacePush: Introducing Normal Force on Face with Head-Mounted Displays. In Proceedings of the 31th Annual Symposium on User Interface Software and Technology (UIST '18). ACM, Berlin, Germany. To be appeared.
-2. __Wen-Jie Tseng__ and Ching-Fan Sheu. 2015. Creating Shiny Applications for Teaching Statistical Concepts. Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL.
-3. __Wen-Jie Tseng__ and Chung-Ping Cheng. 2014. Estimating Mediation Effect of Nonlinear Models by Coefficient Product. Poster presented at the 53rd Annual Meeting of Taiwanese Psychological Association. Taipei, Taiwan (in Chinese).
++ Hong-Yu Chang, __Wen-Jie Tseng(co-author)__, Chia-En Tsai, Hsin-Yu Chen, Roshan Lalintha Peiris and Liwei Chan. 2018. FacePush: Introducing Normal Force on Face with Head-Mounted Displays. In Proceedings of the 31th Annual Symposium on User Interface Software and Technology (UIST '18). ACM, Berlin, Germany. To be appeared.
++ __Wen-Jie Tseng__ and Ching-Fan Sheu. 2015. Creating Shiny Applications for Teaching Statistical Concepts. Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL.
++ __Wen-Jie Tseng__ and Chung-Ping Cheng. 2014. Estimating Mediation Effect of Nonlinear Models by Coefficient Product. Poster presented at the 53rd Annual Meeting of Taiwanese Psychological Association. Taipei, Taiwan (in Chinese).
 
 # Skills
 * Programming languages: Unity (C#), Python, R, C, Arduino 
