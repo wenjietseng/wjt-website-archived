@@ -13,7 +13,11 @@ FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to gene
 
 <h4>Creating Shiny Applications for Teaching Statistical Concepts</h4>
 
-![ ](_site/assets/images/sdt.png){:class="img-responsive"}
+<ul>
+<li  markdown="1">
+![]({{site.url}}/assets/images/sdt.png)
+</li>
+</ul>
 
 We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics. 
 
