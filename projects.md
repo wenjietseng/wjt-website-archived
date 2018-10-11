@@ -6,14 +6,13 @@ permalink: /projects/
 
 <h3>Research Projects</h3>
 
-<h4>FacePush: Introducing Normal Force on Face with Head-Mounted Displays</h4>
+<h4><i>FacePush: Introducing Normal Force on Face with Head-Mounted Displays</i></h4>
 
 <img src="https://wenjietseng.github.io/images/facepush.jpeg">
 
 FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user’s face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user’s face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. We develop three applications, including boxing, diving, and 360 guidance in virtual reality.
 
-
-<h4>Creating Shiny Applications for Teaching Statistical Concepts</h4>
+<h4><i>Creating Shiny Applications for Teaching Statistical Concepts</i></h4>
 
 <img src="https://wenjietseng.github.io/images/sdt.png">
 
@@ -23,7 +22,7 @@ We use R package, shiny, to build web application and create interactive graphic
 + Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL.
 
 <h3>Course Projects</h3>
-<h4>FoodForYou</h4>
+<h4><i>FoodForYou</i></h4>
 
 <img src="https://wenjietseng.github.io/images/food4U.png">
 
