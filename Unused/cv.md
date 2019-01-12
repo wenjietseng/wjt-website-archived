@@ -1,10 +1,10 @@
----
+<!-- ---
 layout: page
 title: CV
 permalink: /cv/
 ---
 
-<a href="http://wenjietseng.github.io/documents/WJT_CV.pdf">CV</a>
+<a href="http://wenjietseng.github.io/documents/WJT_CV.pdf">CV</a> -->
 
 <!-- 
 # Education
