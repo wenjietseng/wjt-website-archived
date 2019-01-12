@@ -4,9 +4,8 @@
 
 layout: home
 ---
+<center>Mt. Jade Dec. 2017</center>
 <center>
 <img src="https://wenjietseng.github.io/images/me.JPG" height=427 width=640>
-</br>
-Mt. Jade, Dec. 2017.
 </center>
 
