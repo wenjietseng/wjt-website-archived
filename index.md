@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-image: assets/images/me.jpg
 ---
 <center>
 Welcome to Wen-Jie's personal homepage! Have a look into my bio, cv, and projects.
