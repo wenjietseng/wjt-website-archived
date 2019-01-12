@@ -4,6 +4,9 @@ title: CV
 permalink: /cv/
 ---
 
+<a href="http://wenjietseng.github.io/documents/WJT_CV.pdf">CV</a>
+
+<!-- 
 # Education
 + 07.2017 – Present <br>
 M.S. of Computer Science, National Chiao Tung University, Hsinchu, Taiwan
@@ -31,4 +34,4 @@ Statistics in Psychology and education: Computer application, Dept. of Psycholog
 
 # Skills
 * Programming languages: Unity (C#), Python, R, C, Arduino 
-* Languages: English, German, Chinese, Taiwanese
+* Languages: English, German, Chinese, Taiwanese -->
