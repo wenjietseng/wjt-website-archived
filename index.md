@@ -5,13 +5,7 @@
 layout: home
 ---
 <center>
-Welcome to Wen-Jie's personal homepage! Have a look into my bio, cv, and projects.
+<img src="https://wenjietseng.github.io/images/me.JPG">
+Mt. Jade, Dec. 2017.
 </center>
 
-<!-- ![]({{ "/assets/images/me.JPG"}}) -->
-
-<!-- {% if page.image %}
-<center>
-    <img src="{{site.baseurl}}/{{page.image}}" width="400" height="600">
-</center>
-{% endif %} -->
