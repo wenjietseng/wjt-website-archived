@@ -1,10 +1,9 @@
 ---
 layout: page
-title: Projects
 permalink: /projects/
 ---
 
-<h3>Research Projects</h3>
+<h2>Research Projects</h2>
 
 <h4><i>FacePush: Introducing Normal Force on Face with Head-Mounted Displays</i></h4>
 
@@ -21,7 +20,11 @@ We use R package, shiny, to build web application and create interactive graphic
 + [Project Link](https://github.com/wenjietseng/shinyapps) <br>
 + Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL.
 
-<h3>Course Projects</h3>
+
+<h2>Art Installations</h2>
+<h4><i>National Palace Museum x NCTU</i></h4>
+
+<h2>Course Projects</h2>
 <h4><i>FoodForYou</i></h4>
 
 <img src="https://wenjietseng.github.io/images/food4U.png">

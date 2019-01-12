@@ -5,10 +5,12 @@ permalink: /about/
 ---
 
 # Wen-Jie Tseng
-**Academic CV** <a href="http://wenjietseng.github.io/documents/WJT_CV.pdf">PDF</a>
+**Academic CV:** <a href="http://wenjietseng.github.io/documents/WJT_CV.pdf">PDF</a>
 
 **Keywords:** CS, NCTU, Taiwan / Technical HCI / Psychology / Bass
 
-**Bio:** I am a Master Student in CS, NCTU, Hsinchu, Taiwan. My research interest is Human-Computer Interaction (HCI), especially in technical HCI. When I was a student in Psychology, I found there exist lots of psychological issues in technology, from usability of a design to psychophysics that how user is perceiving the interaction of a system. Creating novel interaction, prototyping new system, and generating the design/media of the future are incredibly fascinating for me.  Currently I am working on haptic feedbacks and tangible user interface in virtual reality. I am interesting in exploring the novel input/output user interface and actuating human body with the latest techniques.
+**Bio:** I am a Master Student in CS, NCTU, Hsinchu, Taiwan. My research interest is Human-Computer Interaction (HCI), especially in technical HCI.
+
+Currently I am working on input technique in virtual reality. I am interesting in exploring the novel input/output user interfaces and actuating human body with the latest techniques.
 
 Besides the research, I like to go to swimming, art museum and live house. Love drinking beer. Sometimes go mountain climbing. Now I am learning how to play bass and enjoy the musics.
