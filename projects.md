@@ -16,22 +16,34 @@ permalink: /projects/
     <tbody>
         <tr>
             <td width="1000px" colspan="3" valign="top">
-                <h3>
-                    <a class="project" href="http://wenjietseng.github.io/projects/FacePush">
-                    FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a> == $0
-                </h3>
+                <h4>
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" color="black">
+                    FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
+                </h4>
             </td>
         </tr>
+            <td width="100px" valign="top">
+                <div class="img">
+                    <span class="noborderimg">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
+                    <img src="https://wenjietseng.github.io/images/facepush.jpeg">
+                    </a>
+                    </span>
+                </div>
+            </td>
+            <td width="900px" valigh="top">
+                <p>
+                "FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user’s face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user’s face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. We develop three applications, including boxing, diving, and 360 guidance in virtual reality."
+                </p>
+            </td>
         <tr>
         </tr>
     </tbody>
 </table>
 
-<h4><i></i></h4>
 
-<img src="https://wenjietseng.github.io/images/facepush.jpeg">
 
-FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user’s face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user’s face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. We develop three applications, including boxing, diving, and 360 guidance in virtual reality.
+
 
 <h4><i>Creating Shiny Applications for Teaching Statistical Concepts</i></h4>
 
