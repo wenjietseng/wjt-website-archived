@@ -4,9 +4,30 @@ title: Projects
 permalink: /projects/
 ---
 
-<h2>Research Projects</h2>
 
-<h4><i>FacePush: Introducing Normal Force on Face with Head-Mounted Displays</i></h4>
+
+
+<h2>Research Projects</h2>
+<p class="vspace">
+    <br>
+</p>
+
+<table width="1000px" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="1000px" colspan="3" valign="top">
+                <h3>
+                    <a class="project" href="http://wenjietseng.github.io/projects/FacePush">
+                    FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a> == $0
+                </h3>
+            </td>
+        </tr>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+<h4><i></i></h4>
 
 <img src="https://wenjietseng.github.io/images/facepush.jpeg">
 
