@@ -22,7 +22,7 @@ permalink: /projects/
                 </h4>
             </td>
         </tr>
-            <td width="100px" valign="top">
+            <td width="100px" valign="middle">
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
@@ -31,7 +31,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="900px" valigh="top">
+            <td width="900px" valigh="middle">
                 <p>
                 "FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user’s face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user’s face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. We develop three applications, including boxing, diving, and 360 guidance in virtual reality."
                 </p>
