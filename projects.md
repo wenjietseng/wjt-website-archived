@@ -3,10 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
-
-
-
 <h2>Research Projects</h2>
 <p class="vspace">
     <br>
@@ -17,7 +13,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" color="black">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
                 </h4>
             </td>

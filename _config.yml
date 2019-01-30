@@ -36,7 +36,6 @@ plugins:
 # exclude:
   - Gemfile
   - Gemfile.lock
-  - _site/assets/main.css
   # - node_modules
   # - vendor/bundle/
   # - vendor/cache/
