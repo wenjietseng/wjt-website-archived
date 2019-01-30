@@ -29,7 +29,7 @@ permalink: /projects/
             </td>
             <td width="900px" valigh="middle">
                 <p>
-                "FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user’s face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user’s face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. We develop three applications, including boxing, diving, and 360 guidance in virtual reality."
+                FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user’s face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user’s face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. We develop three applications, including boxing, diving, and 360 guidance in virtual reality.
                 </p>
             </td>
         <tr>
@@ -59,7 +59,7 @@ permalink: /projects/
             </td>
             <td width="900px" valigh="middle">
                 <p>
-                "We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics."
+                We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics.
                 </p>
             </td>
         <tr>
