@@ -18,7 +18,7 @@ permalink: /projects/
                 </h4>
             </td>
         </tr>
-            <td width="100px" valign="middle">
+            <td width="100px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
@@ -27,7 +27,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="900px" valigh="middle">
+            <td width="900px" valigh="middle" background-color="#fdfdfd">
                 <p>
                 FacePush is a Head-Mounted Display (HMD) integrated with a pulley system to generate normal forces on a user’s face in virtual reality (VR). The mechanism of FacePush is obtained by shifting torques provided by two motors that press upon a user’s face via utilization of a pulley system. FacePush can generate normal forces of varying strengths and apply those to the surface of the face. We develop three applications, including boxing, diving, and 360 guidance in virtual reality.
                 </p>
@@ -41,14 +41,14 @@ permalink: /projects/
 <table width="1000px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="1000px" colspan="3" valign="top" color="#fdfdfd">
+            <td width="1000px" colspan="3" valign="top">
                 <h4>
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
                     Creating Shiny Applications for Teaching Statistical Concepts</a>
                 </h4>
             </td>
         </tr>
-            <td width="100px" valign="middle" color="#fdfdfd">
+            <td width="100px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
@@ -57,7 +57,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="900px" valigh="middle" color="#fdfdfd">
+            <td width="900px" valigh="middle" background-color="#fdfdfd">
                 <p>
                 We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics.
                 </p>
