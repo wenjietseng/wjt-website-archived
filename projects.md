@@ -38,17 +38,42 @@ permalink: /projects/
 </table>
 
 
+<table width="1000px" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="1000px" colspan="3" valign="top">
+                <h4>
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
+                    Creating Shiny Applications for Teaching Statistical Concepts</a>
+                </h4>
+            </td>
+        </tr>
+            <td width="100px" valign="middle">
+                <div class="img">
+                    <span class="noborderimg">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
+                    <img src="https://wenjietseng.github.io/images/sdt.png">
+                    </a>
+                    </span>
+                </div>
+            </td>
+            <td width="900px" valigh="middle">
+                <p>
+                "We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics."
+                </p>
+            </td>
+        <tr>
+        </tr>
+    </tbody>
+</table>
 
 
 
-<h4><i>Creating Shiny Applications for Teaching Statistical Concepts</i></h4>
 
-<img src="https://wenjietseng.github.io/images/sdt.png">
 
-We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics. 
 
-+ [Project Link](https://github.com/wenjietseng/shinyapps) <br>
-+ Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL.
+<!-- + [Project Link](https://github.com/wenjietseng/shinyapps) <br> -->
+<!-- + Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL. -->
 
 
 <h2>Art Installations</h2>
