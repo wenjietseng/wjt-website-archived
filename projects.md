@@ -43,7 +43,7 @@ permalink: /projects/
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats">
-                    <img src="https://wenjietseng.github.io/images/sdt.png">
+                    <img src="https://wenjietseng.github.io/images/sdt-thumb.png">
                     </a>
                     </span>
                 </div>
@@ -94,7 +94,7 @@ permalink: /projects/
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u">
-                    <img src="https://wenjietseng.github.io/images/food4U.png">
+                    <img src="https://wenjietseng.github.io/images/food-for-u.png">
                     </a>
                     </span>
                 </div>

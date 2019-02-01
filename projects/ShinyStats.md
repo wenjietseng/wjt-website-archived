@@ -4,7 +4,7 @@ permalink: /projects/ShinyStats/
 ---
 <h3><b>Creating Shiny Applications for Teaching Statistical Concepts</b></h3>
 
-
+<img src="https://wenjietseng.github.io/images/sdt.png">
 
 <br>
 <p>

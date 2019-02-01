@@ -19,4 +19,4 @@ Artifact Inspiration: Touring the Imperial Gardens in Spring, Chao Po-chu, Song 
 </p><p>
 Creative Team: Hsu Chun-Cheng (Associate Professor, Institute of Applied Arts, NCTU), Chan Li-Wei (Assistant Professor, Institute of Computer Science, NCTU), Tsai Cheng-Chieh, Chen Hsin-Ju, Hsiao Yi-Tzu, Yao Hsin-Yu, Wang Li-Yang, Lee Yi-Chen, Tseng Wen-Jie
 </p>
-<a href="https://theme.npm.edu.tw/exh107/NPMxNCTU/en/page-2.html#main">[Website]</a>
+<a href="https://theme.npm.edu.tw/exh107/NPMxNCTU/en/page-2.html#main">[Exhibition Website]</a>
