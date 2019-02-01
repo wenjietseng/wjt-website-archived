@@ -102,7 +102,7 @@ permalink: /projects/
             <td width="1000px" colspan="3" valign="top">
                 <h4>
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u" style="text-decoration : none; color : #000000;">
-                    FoodForYou</a>
+                    FoodForYou: Sharing Surplus Food Efficiently with the Community Nearby</a>
                 </h4>
             </td>
         </tr>
