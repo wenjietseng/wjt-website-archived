@@ -3,10 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<h3>Research Projects</h3>
-<p class="vspace">
-    <br>
-</p>
 
 <table width="1000px" cellpadding="0" cellspacing="0">
     <tbody>
@@ -43,7 +39,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats" style="text-decoration : none; color : #000000;">
                     Creating Shiny Applications for Teaching Statistical Concepts</a>
                 </h4>
             </td>
@@ -51,7 +47,7 @@ permalink: /projects/
             <td width="100px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats">
                     <img src="https://wenjietseng.github.io/images/sdt.png">
                     </a>
                     </span>
@@ -66,10 +62,6 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
-
-
-
-
 
 
 <!-- + [Project Link](https://github.com/wenjietseng/shinyapps) <br> -->
@@ -77,16 +69,12 @@ permalink: /projects/
 
 
 
-
-
-<h3>Art Installations</h3>
-
 <table width="1000px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing" style="text-decoration : none; color : #000000;">
                     National Palace Museum x NCTU</a>
                 </h4>
             </td>
@@ -94,7 +82,7 @@ permalink: /projects/
             <td width="100px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing">
                     <img src="https://wenjietseng.github.io/images/sdt.png">
                     </a>
                     </span>
@@ -110,18 +98,12 @@ permalink: /projects/
     </tbody>
 </table>
 
-
-
-
-
-<h3>Course Projects</h3>
-
 <table width="1000px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u" style="text-decoration : none; color : #000000;">
                     FoodForYou</a>
                 </h4>
             </td>
@@ -129,7 +111,7 @@ permalink: /projects/
             <td width="100px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u">
                     <img src="https://wenjietseng.github.io/images/food4U.png">
                     </a>
                     </span>
@@ -145,14 +127,6 @@ We create a mobile application prototype, FoodForYou, as a channel to share surp
         </tr>
     </tbody>
 </table>
-
-
-
-
-
-
-
-
 
 <!-- 
 + Poster presented at TAICHI 2018.
