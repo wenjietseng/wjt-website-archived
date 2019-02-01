@@ -13,16 +13,16 @@ permalink: /projects/
                 </h4>
             </td>
         </tr>
-            <td width="100px" valign="middle" background-color="#fdfdfd">
+            <td width="150px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
-                    <img src="https://wenjietseng.github.io/images/facepush.jpeg">
+                    <img src="https://wenjietseng.github.io/images/facepush.png">
                     </a>
                     </span>
                 </div>
             </td>
-            <td width="900px" valigh="middle" >
+            <td width="850px" valigh="middle" >
             "text"
             </td>
         <tr>
@@ -39,7 +39,7 @@ permalink: /projects/
                 </h4>
             </td>
         </tr>
-            <td width="100px" valign="middle" >
+            <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats">
@@ -48,7 +48,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="900px" valigh="middle" >
+            <td width="850px" valigh="middle" >
             "text"
             </td>
         <tr>
@@ -65,16 +65,16 @@ permalink: /projects/
                 </h4>
             </td>
         </tr>
-            <td width="100px" valign="middle" >
+            <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing">
-                    <img src="https://wenjietseng.github.io/images/sdt.png">
+                    <img src="https://wenjietseng.github.io/images/fisherman-thumb.png">
                     </a>
                     </span>
                 </div>
             </td>
-            <td width="900px" valigh="middle" >
+            <td width="850px" valigh="middle" >
             "text"</td>
         <tr>
         </tr>
@@ -90,16 +90,16 @@ permalink: /projects/
                 </h4>
             </td>
         </tr>
-            <td width="100px" valign="middle" >
+            <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u">
-                    <img src="https://wenjietseng.github.io/images/food4U.png">
+                    <img src="https://wenjietseng.github.io/images/food4u.png">
                     </a>
                     </span>
                 </div>
             </td>
-            <td width="900px" valigh="middle" >
+            <td width="850px" valigh="middle" >
                 "text"
             </td>
         <tr>
