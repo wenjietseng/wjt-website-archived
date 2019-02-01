@@ -23,7 +23,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            "text"
+            FacePush exerts normal forces on the user's face using DC motors incorporated with the HMD. Through this force, we can create haptic feedback on the facial region for VR experience, e.g., boxing, underwater diving.
             </td>
         <tr>
         </tr>
