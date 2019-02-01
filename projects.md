@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-<h2>Research Projects</h2>
+<h3>Research Projects</h3>
 <p class="vspace">
     <br>
 </p>
@@ -76,16 +76,87 @@ permalink: /projects/
 <!-- + Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL. -->
 
 
-<h2>Art Installations</h2>
-<h4><i>National Palace Museum x NCTU</i></h4>
+
+
+
+<h3>Art Installations</h3>
+
+<table width="1000px" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="1000px" colspan="3" valign="top">
+                <h4>
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
+                    National Palace Museum x NCTU</a>
+                </h4>
+            </td>
+        </tr>
+            <td width="100px" valign="middle" >
+                <div class="img">
+                    <span class="noborderimg">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
+                    <img src="https://wenjietseng.github.io/images/sdt.png">
+                    </a>
+                    </span>
+                </div>
+            </td>
+            <td width="900px" valigh="middle" >
+                <p>
+                We use R package, shiny, to build web application and create interactive graphics to demonstrate statistical concept for students in psychology. Statistical analysis is an important part in educating a psychology student. However, many people still need many effort to understand the materials provided in traditional textbook. We believe the interactive graphics help people to better understand the concept of statistics.
+                </p>
+            </td>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+
+
+
 
 <h2>Course Projects</h2>
-<h4><i>FoodForYou</i></h4>
 
-<img src="https://wenjietseng.github.io/images/food4U.png">
 
-FoodForYou is our final project in User-Centered Interaction Design 2017 Fall.
+<h3>Art Installations</h3>
+
+<table width="1000px" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="1000px" colspan="3" valign="top">
+                <h4>
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
+                    FoodForYou</a>
+                </h4>
+            </td>
+        </tr>
+            <td width="100px" valign="middle" >
+                <div class="img">
+                    <span class="noborderimg">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush">
+                    <img src="https://wenjietseng.github.io/images/food4U.png">
+                    </a>
+                    </span>
+                </div>
+            </td>
+            <td width="900px" valigh="middle" >
+                <p>
+                FoodForYou is our final project in User-Centered Interaction Design 2017 Fall.
 We create a mobile application prototype, FoodForYou, as a channel to share surplus food with people nearby and take what she/he needs from others’ sharing. User can search their favorite food sharing nearby their location, start a sharing, or participate in one. Unlike existing surplus food and leftover sharing group on social media (e.g. Facebook), FoodForYou contains personalized recommendation system, dealing procedure, and a reputation system to enhance user’s willing to start or participate a surplus food sharing. With the intention of helping people build a support network which will ease the various waste of food. FoodForYou can be a low-cost and efficient solution for surplus food sharing in the future.
+                </p>
+            </td>
+        <tr>
+        </tr>
+    </tbody>
+</table>
 
+
+
+
+
+
+
+
+
+<!-- 
 + Poster presented at TAICHI 2018.
-+ My contributions to this work: design thinking, prototyping, writing.
++ My contributions to this work: design thinking, prototyping, writing. -->
