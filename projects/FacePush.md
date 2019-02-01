@@ -3,9 +3,9 @@ layout: default
 permalink: /projects/FacePush/
 ---
 
-<h3>FacePush: Introducing Normal Force on Face with Head-Mounted Displays</h3>
+<h3><b>FacePush: Introducing Normal Force on Face with Head-Mounted Displays</b></h3>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=IPLVCdbvWyI" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/IPLVCdbvWyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <br>
 <p>

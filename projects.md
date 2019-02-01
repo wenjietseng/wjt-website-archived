@@ -64,8 +64,6 @@ permalink: /projects/
 </table>
 
 
-<!-- + [Project Link](https://github.com/wenjietseng/shinyapps) <br> -->
-<!-- + Paper presented at the 45th Annual Meeting of the Society for Computers in Psychology. Chicago, IL. -->
 
 
 
@@ -127,7 +125,3 @@ We create a mobile application prototype, FoodForYou, as a channel to share surp
         </tr>
     </tbody>
 </table>
-
-<!-- 
-+ Poster presented at TAICHI 2018.
-+ My contributions to this work: design thinking, prototyping, writing. -->
