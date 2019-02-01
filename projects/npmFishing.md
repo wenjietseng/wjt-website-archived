@@ -4,8 +4,6 @@ permalink: /projects/npmFishing/
 ---
 <h3><b>NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</b></h3>
 <iframe src="https://player.vimeo.com/video/274839879" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-<p><a href="https://vimeo.com/274839879">虛擬實境創作：《漁樂》與《漠北秋獵》</a> from <a href="https://vimeo.com/user28712168">Cheng-Jay Tsai</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-<br>
 
 <h3>Fishermen's Delights VR Installation</h3>
 <p>

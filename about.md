@@ -13,4 +13,4 @@ permalink: /about/
 
 Currently I am working on input technique in virtual reality. I am interesting in exploring the novel input/output user interfaces and actuating human body with the latest techniques.
 
-Besides the research, I like to go to swimming, art museum and live house. Love drinking beer. Sometimes go mountain climbing. Now I am learning how to play bass and enjoy the musics.
+Besides research, I go swimming and play bass. Love drinking beer and music. Sometimes go mountain climbing.
