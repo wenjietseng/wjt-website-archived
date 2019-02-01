@@ -114,10 +114,7 @@ permalink: /projects/
 
 
 
-<h2>Course Projects</h2>
-
-
-<h3>Art Installations</h3>
+<h3>Course Projects</h3>
 
 <table width="1000px" cellpadding="0" cellspacing="0">
     <tbody>
