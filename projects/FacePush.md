@@ -11,6 +11,8 @@ This paper presents FacePush, a Head-Mounted Display (HMD) integrated with a pul
 <a href="https://dl.acm.org/citation.cfm?id=3242588">
 [paper]
 </a>
+<br>
+
 <img src="https://wenjietseng.github.io/images/SA-Tokyo.jpg">
 <p>Emerging Technology Demo, Siggraph Asia, 2018. <a href="https://dl.acm.org/citation.cfm?id=3275480">
 [paper]

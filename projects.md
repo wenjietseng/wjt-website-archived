@@ -94,7 +94,7 @@ permalink: /projects/
                 <div class="img">
                     <span class="noborderimg">
                     <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u">
-                    <img src="https://wenjietseng.github.io/images/food4u.png">
+                    <img src="https://wenjietseng.github.io/images/food4U.png">
                     </a>
                     </span>
                 </div>
