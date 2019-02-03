@@ -17,8 +17,8 @@ permalink: /projects/
             <td width="150px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
-                    <a href="http://wenjietseng.github.io/projects/FacePush">
-                    <img class="project-img" src="https://wenjietseng.github.io/images/facepush.png">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
+                    <img src="https://wenjietseng.github.io/images/facepush.png">
                     </a>
                     </span>
                 </div>
