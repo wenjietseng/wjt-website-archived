@@ -50,7 +50,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            <i>Fisherman's Delights</i></td> is a VR art exhibition inspired by the Jin Ming Pool in Northen Song capital Kaifeng. We implemented a fishing rod to provide haptic feedback for this VR experience.
+            <i>Fisherman's Delights</i> is a VR art exhibition inspired by the Jin Ming Pool in Northen Song capital Kaifeng. We implemented a fishing rod to provide haptic feedback for this VR experience.</td> 
         <tr>
         </tr>
     </tbody>
