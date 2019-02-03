@@ -110,6 +110,17 @@ h1, h2, h3, h4, h5, h6 {
  * Links
  */
 a {
+  // add custom hover effect
+  .project-title-link {
+    color: #000000;
+    
+    &:hover {
+      color: #828282;
+      text-decoration: none;
+    }
+  }
+  // add custom hover effect
+
   color: $brand-color;
   text-decoration: none;
 
@@ -121,16 +132,6 @@ a {
     color: $text-color;
     text-decoration: underline;
   }
-  // add custom hover effect
-  .project-title-link {
-    color: #000000;
-    
-    &:hover {
-      color: #828282;
-      text-decoration: none;
-    }
-  }
-  // add custom hover effect
 
   .social-media-list &:hover {
     text-decoration: none;
