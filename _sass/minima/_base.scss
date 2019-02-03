@@ -57,8 +57,15 @@ main {
 img {
   max-width: 100%;
   vertical-align: middle;
-}
 
+  .project-img &:hover {
+    // opacity: 0.8; /* 1 = 100%, 0 = 0% */
+
+    /* or the drop-shadow effect */
+    
+    box-shadow: 0 1px 8px black; /* goes x-axis, y-axis, blur, (stretch factor on x-axis, not used here), colour */
+  }
+}
 
 
 /**
@@ -115,16 +122,9 @@ a {
     text-decoration: underline;
   }
   // add custom hover effect
-  #project-title-link:hover {
+  .project-title-link &:hover {
     color: #828282;
     text-decoration: none;
-  }
-  #img-shade:hover {
-    // opacity: 0.8; /* 1 = 100%, 0 = 0% */
-
-    /* or the drop-shadow effect */
-    
-    box-shadow: 0 1px 8px black; /* goes x-axis, y-axis, blur, (stretch factor on x-axis, not used here), colour */
   }
   // add custom hover effect
 
