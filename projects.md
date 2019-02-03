@@ -8,7 +8,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #828282;">
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
                 </h4>
             </td>
@@ -23,7 +23,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            FacePush exerts normal forces on the user's face using DC motors incorporated with the HMD. Through this force, we can create haptic feedback on the facial region for VR experience, e.g., boxing, underwater diving.
+            Haptic feedback makes the virtual reality experience more immersive. FacePush exerts normal forces on the user's face using DC motors incorporated with the HMD. Through this implementation, we can create haptic feedback on the facial region for VR experience, e.g., boxing, underwater diving.
             </td>
         <tr>
         </tr>
@@ -35,7 +35,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing" style="text-decoration : none; color : #828282;">
                     NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</a>
                 </h4>
             </td>
@@ -50,7 +50,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            <i>Fisherman's Delights</i> is a VR art exhibition inspired by the Jin Ming Pool in Northen Song capital Kaifeng. We implemented a fishing rod to provide haptic feedback for this VR experience.</td> 
+            <i>Fisherman's Delights</i> is a VR art exhibition inspired by the Jin Ming Pool in Northen Song capital Kaifeng. We implement a fishing experience bringing user back to the ancient Northen Song as a fisherman. When fish are caught by the hook, the device will give a visual and haptic response.</td> 
         <tr>
         </tr>
     </tbody>
@@ -60,7 +60,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u" style="text-decoration : none; color : #828282;">
                     FoodForYou: Sharing Surplus Food Efficiently with the Community Nearby</a>
                 </h4>
             </td>
@@ -87,7 +87,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats" style="text-decoration : none; color : #828282;">
                     Creating Shiny Applications for Teaching Statistical Concepts</a>
                 </h4>
             </td>
