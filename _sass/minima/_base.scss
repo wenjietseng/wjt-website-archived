@@ -114,6 +114,11 @@ a {
     color: $text-color;
     text-decoration: underline;
   }
+  // add custom hover effect
+  #project-title-link:hover {
+    color: #828282;
+    text-decoration: none;
+  }
 
   .social-media-list &:hover {
     text-decoration: none;
