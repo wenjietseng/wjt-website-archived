@@ -8,7 +8,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush"
+                    <a class="project-title-link" href="http://wenjietseng.github.io/projects/FacePush"
                     style="text-decoration : none; color : #000000; hover : #828282">
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
                 </h4>
@@ -17,7 +17,7 @@ permalink: /projects/
             <td width="150px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
-                    <a id="img-shade" href="http://wenjietseng.github.io/projects/FacePush">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
                     <img src="https://wenjietseng.github.io/images/facepush.png">
                     </a>
                     </span>
