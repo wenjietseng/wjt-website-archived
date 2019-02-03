@@ -44,8 +44,8 @@ permalink: /projects/
             <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a href="http://wenjietseng.github.io/projects/npmFishing">
-                    <img class="project-img" src="https://wenjietseng.github.io/images/fisherman-thumb.png">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/npmFishing">
+                    <img src="https://wenjietseng.github.io/images/fisherman-thumb.png">
                     </a>
                     </span>
                 </div>
@@ -69,8 +69,8 @@ permalink: /projects/
             <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a href="http://wenjietseng.github.io/projects/food4u">
-                    <img class="project-img" src="https://wenjietseng.github.io/images/food-for-u.png">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/food4u">
+                    <img src="https://wenjietseng.github.io/images/food-for-u.png">
                     </a>
                     </span>
                 </div>
@@ -96,8 +96,8 @@ permalink: /projects/
             <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a href="http://wenjietseng.github.io/projects/ShinyStats">
-                    <img class="project-img" src="https://wenjietseng.github.io/images/sdt-thumb.png">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/ShinyStats">
+                    <img src="https://wenjietseng.github.io/images/sdt-thumb.png">
                     </a>
                     </span>
                 </div>
