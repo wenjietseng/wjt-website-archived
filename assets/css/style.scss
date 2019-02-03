@@ -1,8 +1,8 @@
 @import "{{site.theme}}";
 /* add custom hover effect */
-.project-title-link {
+a.project-title-link {
   color: #000000;
   text-decoration: none;} 
-.project-title-link:hover {
+a.project-title-link:hover {
   color: #828282;
   text-decoration: none; }
