@@ -8,7 +8,8 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/FacePush" style="text-decoration : none; color : #828282;">
+                    <a class="projectlink" id="project-title-link" href="http://wenjietseng.github.io/projects/FacePush">
+                    <!-- style="text-decoration : none; color : #000000;"> -->
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
                 </h4>
             </td>
@@ -35,7 +36,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing" style="text-decoration : none; color : #828282;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing" style="text-decoration : none; color : #000000;">
                     NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</a>
                 </h4>
             </td>
@@ -60,7 +61,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u" style="text-decoration : none; color : #828282;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/food4u" style="text-decoration : none; color : #000000;">
                     FoodForYou: Sharing Surplus Food Efficiently with the Community Nearby</a>
                 </h4>
             </td>
@@ -87,7 +88,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats" style="text-decoration : none; color : #828282;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/ShinyStats" style="text-decoration : none; color : #000000;">
                     Creating Shiny Applications for Teaching Statistical Concepts</a>
                 </h4>
             </td>
