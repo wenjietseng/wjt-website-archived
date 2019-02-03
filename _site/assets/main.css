@@ -89,7 +89,7 @@ a {
     text-decoration: underline; }
   
   /* add custom hover effect */
-  .project-title-link .color {
+  .project-title-link {
     color: #000000; }
   .project-title-link a:hover {
       color: #828282;
