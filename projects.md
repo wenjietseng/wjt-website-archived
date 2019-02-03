@@ -9,7 +9,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="project-title-link" href="http://wenjietseng.github.io/projects/FacePush">
+                    <a href="http://wenjietseng.github.io/projects/FacePush" class="project-title-link">
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
                 </h4>
             </td>
