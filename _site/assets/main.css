@@ -88,13 +88,6 @@ a {
   .social-media-list a:hover .username {
     text-decoration: underline; }
   
-  /* add custom hover effect */
-a.project-title-link {
-  color: #000000;
-  text-decoration: none;} 
-a.project-title-link:hover {
-  color: #828282;
-  text-decoration: none; }
 /**
  * Blockquotes
  */
