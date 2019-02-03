@@ -102,7 +102,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            Learning statistical concepts is sometimes difficult because people cannot link each component of the theory together. Shiny, a R package developed by RStudio, allows user to create interactive graphics with minimal effort. In this projects, we created examples to illustrate the ideas of common statistical concepts using interactive graphics.
+            Learning statistical concepts is sometimes frustrated because it's hard for people to link each component of the theory together. The interactive graphic has good property of showing concepts simutaneously. In this project, we implement examples to illustrate the ideas of common statistical concepts using interactive graphics created by Shiny.
             </td>
         <tr>
         </tr>
