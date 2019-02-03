@@ -119,6 +119,14 @@ a {
     color: #828282;
     text-decoration: none;
   }
+  #img-shade:hover {
+    // opacity: 0.8; /* 1 = 100%, 0 = 0% */
+
+    /* or the drop-shadow effect */
+    
+    box-shadow: 0 1px 8px black; /* goes x-axis, y-axis, blur, (stretch factor on x-axis, not used here), colour */
+  }
+  // add custom hover effect
 
   .social-media-list &:hover {
     text-decoration: none;
