@@ -3,7 +3,6 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-@import "{{site.theme}}"
 
 <table width="1000px" cellpadding="0" cellspacing="0">
     <tbody>
