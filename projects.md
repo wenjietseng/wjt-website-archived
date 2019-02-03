@@ -36,7 +36,7 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
-                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing" style="text-decoration : none; color : #000000;">
+                    <a class="projectlink" href="http://wenjietseng.github.io/projects/npmFishing" style="text-decoration : none; color : #000000; &:hover : #828282">
                     NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</a>
                 </h4>
             </td>
