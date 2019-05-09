@@ -130,7 +130,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            This is a course project of IDVR 2017 and my first project related to creating haptic feedback for VR. We implemented two prototype for creating haptic feedback in our zombie VR game. The first one is a vest with eight vibrators, which vibrate in a circulation while the player gets hurt. The second protype contains a fan and a spray and it combines these feedback to simulate the gust in the VR dungeon. 
+            This is a course project of IDVR 2017 and my first project related to creating haptic feedback for VR. We implemented two prototype for creating haptic feedback in our zombie VR game. The first one is a vest with eight vibrators, which vibrate in a circulation while the player gets hurt. The second protype contains a fan and a spray. It combines two feedback to simulate the gust in the VR dungeon. 
             </td>
         <tr>
         </tr>
