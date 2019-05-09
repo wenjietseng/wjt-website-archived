@@ -108,3 +108,31 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
+
+
+<table width="1000px" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="1000px" colspan="3" valign="top">
+                <h4>
+                    <a class="project-title-link" href="http://wenjietseng.github.io/projects/zombie">
+                    Zombie Game with Haptic Feedback - IDVR 2017</a>
+                </h4>
+            </td>
+        </tr>
+            <td width="150px" valign="middle" >
+                <div class="img">
+                    <span class="noborderimg">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/zombie">
+                    <img src="https://wenjietseng.github.io/images/zombie-thumb.png">
+                    </a>
+                    </span>
+                </div>
+            </td>
+            <td width="850px" valigh="middle" >
+            This is a course project of IDVR 2017 and my first project related to creating haptic feedback for VR. We implemented two prototype for creating haptic feedback in our zombie VR game. The first one is a vest with eight vibrators, which vibrate in a circulation while the player gets hurt. The second protype contains a fan and a spray and it combines these feedback to simulate the gust in the VR dungeon. 
+            </td>
+        <tr>
+        </tr>
+    </tbody>
+</table>
