@@ -109,7 +109,7 @@ permalink: /projects/
     </tbody>
 </table>
 
-<h2><b>Course Projects</b></h2>
+<h2>Course Projects</h2>
 
 <table width="1000px" cellpadding="0" cellspacing="0">
     <tbody>
