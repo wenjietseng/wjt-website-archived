@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 # Wen-Jie Tseng
-<a href="http://wenjietseng.github.io/documents/WJT_CV.pdf"><b>Academic CV</b></a>
+<a href="http://wenjietseng.github.io/documents/CV_wenjietseng.pdf"><b>Academic CV</b></a>
 
 **Keywords:** CS, NCTU, Taiwan / Technical HCI / Psychology / Bass
 
