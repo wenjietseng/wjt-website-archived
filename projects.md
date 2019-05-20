@@ -130,7 +130,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            This is a course project of IDVR 2017 and my first project related to creating haptic feedback for VR. We implement two prototypes, a vibrating vest and a gust generator for creating haptic feedback in a zombie shooting game in VR. 
+            This is a course project of IDVR 2017 and my first project related to creating haptic feedback for VR. We implement two prototypes, a vibrating vest and a gust generator for creating haptic feedback in a VR zombie shooting game.
             </td>
         <tr>
         </tr>

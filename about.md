@@ -7,7 +7,7 @@ permalink: /about/
 # Wen-Jie Tseng
 <a href="http://wenjietseng.github.io/documents/CV_Wen-Jie_Tseng.pdf"><b>Academic CV</b></a>
 
-**Keywords:** CS, NCTU, Taiwan / Technical HCI / Psychology / Bass
+**Keywords:** CS, NCTU, Taiwan / Technical HCI / Psychology
 
 **Bio:** I am a Master Student in CS, NCTU, Hsinchu, Taiwan. My research interest is Human-Computer Interaction (HCI), especially in technical HCI.
 
