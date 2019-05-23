@@ -7,10 +7,6 @@ permalink: /about/
 # Wen-Jie Tseng
 <a href="http://wenjietseng.github.io/documents/CV_Wen-Jie_Tseng.pdf"><b>Academic CV</b></a>
 
-**Keywords:** CS, NCTU, Taiwan / Technical HCI / Psychology
+<!-- **Keywords:** CS, NCTU, Taiwan / Technical HCI / Psychology -->
 
-**Bio:** I am a Master Student in CS, NCTU, Hsinchu, Taiwan. My research interest is Human-Computer Interaction (HCI), especially in technical HCI.
-
-Currently I am working on input technique in virtual reality. I am interesting in exploring the novel input/output user interfaces and actuating human body with the latest techniques.
-
-Besides research, I go swimming and play bass. Love drinking beer and music. Sometimes go mountain climbing.
+**Bio:** Wen-Jie is a Master Student of Computer Science at National Chiao Tung University, Taiwan. His research interest is technical HCI and currently focusing on interactions of virtual reality. One of his project, FacePush - a system introducing normal force on face with head-mounted displays, has been published on UIST 2018. He graduated from Dept. of Psychology at National Cheng Kung University. Besides research, he loves music and plays bass.
