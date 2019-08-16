@@ -9,6 +9,34 @@ permalink: /projects/
         <tr>
             <td width="1000px" colspan="3" valign="top">
                 <h4>
+                    <a href="http://wenjietseng.github.io/projects/FaceWidgets" class="project-title-link">
+                    FaceWidgets: Exploring Tangible Interaction on Face with Head-Mounted Displays</a>
+                </h4>
+            </td>
+        </tr>
+            <td width="150px" valign="middle" background-color="#fdfdfd">
+                <div class="img">
+                    <span class="noborderimg">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
+                    <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
+                    </a>
+                    </span>
+                </div>
+            </td>
+            <td width="850px" valigh="middle" >
+            FaceWidgets is my latest project, which was accepted by UIST 2019!
+            </td>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+
+
+<table width="1000px" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="1000px" colspan="3" valign="top">
+                <h4>
                     <a href="http://wenjietseng.github.io/projects/FacePush" class="project-title-link">
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
                 </h4>
