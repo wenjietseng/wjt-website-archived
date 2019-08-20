@@ -24,7 +24,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            FaceWidgets is my latest project, which was accepted by UIST 2019!
+            FaceWidgets is my latest project accepted by UIST 2019!
             </td>
         <tr>
         </tr>
