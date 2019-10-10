@@ -15,4 +15,4 @@ permalink: /about/
 <a href="http://wenjietseng.github.io/projects/FaceWidgets/"><b>FaceWidgets</b></a>.
 
  
-Besides research, he loves music and plays bass.
+Besides research, he loves beer and plays bass.
