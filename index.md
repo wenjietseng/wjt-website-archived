@@ -6,7 +6,7 @@ layout: home
 ---
 
 <center>
-<img src="https://wenjietseng.github.io/images/me.JPG">
+<img src="https://wenjietseng.github.io/images/me-berlin.JPG">
 </center>
 
-<center>Mt. Jade Dec. 2017</center>
+<center>Berlin Oct. 2018</center>
