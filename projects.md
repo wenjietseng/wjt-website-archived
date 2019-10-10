@@ -24,7 +24,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="850px" valigh="middle" >
-            **Acceped by UIST 2019!**
+            <b>Accepted by UIST 2019!</b>
             FaceWidgets is a novel HMD that integrates physical controls with a lift extender on the backside allowing for the direct manipulation for the VR interaction. We design two novel interactions to enhance direct manipulation and conduct three user studies to inform the design on the HMD backside.
             </td>
         <tr>
