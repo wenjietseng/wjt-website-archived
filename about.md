@@ -9,4 +9,10 @@ permalink: /about/
 
 <!-- **Keywords:** CS, NCTU, Taiwan / Technical HCI / Psychology -->
 
-**Bio:** Wen-Jie is a research assistant of Computer Science at National Chiao Tung University, Taiwan. His research interest is technical HCI and currently focusing on interactions of virtual reality. One of his project, FacePush - a system introducing normal force on face with head-mounted displays, has been published on UIST 2018. He graduated from Institute of Computer Science and Engineering, NCTU. Besides research, he loves music and plays bass.
+**Bio:** Wen-Jie is a research assistant in Computer Science at National Chiao Tung University, Taiwan. He received his Master's degree in CS at NCTU in June 2019. His previous projects focus on integrating input and output with the Head-Mounted Displays (HMD) for virtual reality, for example, 
+<a href="http://wenjietseng.github.io/projects/FacePush/"><b>FacePush</b></a>
+ and 
+<a href="http://wenjietseng.github.io/projects/FaceWidgets/"><b>FaceWidgets</b></a>.
+
+ 
+Besides research, he loves music and plays bass.
