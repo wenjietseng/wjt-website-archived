@@ -58,7 +58,10 @@ layout: home
 </table>
 
 # Selected Publications
-
+<table width="800px" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td width="150px" valign="middle" background-color="#fdfdfd">
 <div class="img">
     <span class="noborderimg">
     <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
@@ -66,7 +69,8 @@ layout: home
     </a>
     </span>
 </div>
-
+</td>
+<td width="150px" valign="middle" background-color="#fdfdfd">
 <div class="img">
     <span class="noborderimg">
     <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
@@ -74,3 +78,7 @@ layout: home
     </a>
     </span>
 </div>
+</td>
+</tr>
+</tbody>    
+</table>
