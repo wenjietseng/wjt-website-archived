@@ -28,20 +28,20 @@ layout: home
         <table width="100px" cellpadding="0" cellspacing="0">
         <tbody>
             <tr>
-            <td width="50px" valign="left" background-color="#fdfdfd">
+            <td width="40px" valign="left" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
-                            <img src="https://wenjietseng.github.io/images/cv.png" width="50px">
+                            <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
                         </a>
                     </span>
                 </div>
             </td>
-            <td width="50px" valign="left" background-color="#fdfdfd">
+            <td width="40px" valign="left" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                         <a href="mailto:wenjietseng@gmail.com">
-                            <img src="https://wenjietseng.github.io/images/email.png" width="50px">
+                            <img src="https://wenjietseng.github.io/images/email.png" width="40px">
                         </a>
                     </span>
                 </div>      
@@ -62,7 +62,7 @@ layout: home
 <table width="800px" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td width="150px" valign="middle" background-color="#fdfdfd">
+<td width="150px" valign="bottom" background-color="#fdfdfd">
 <div class="img">
     <span class="noborderimg">
     <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
@@ -74,7 +74,7 @@ layout: home
 </div>
 
 </td>
-<td width="150px" valign="middle" background-color="#fdfdfd">
+<td width="150px" valign="bottom" background-color="#fdfdfd">
 <div class="img">
     <span class="noborderimg">
     <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
