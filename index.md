@@ -65,7 +65,6 @@ layout: home
 <center>UIST 2019</center>
 </span>
 </div>
-
 <div style="display: inline-block;">
 <span class="noborderimg">
 <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
