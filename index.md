@@ -25,7 +25,7 @@ layout: home
     </td>
     <td width="500px" valigh="middle">
     <h1><b>Wen-Jie Tseng</b></h1>
-    <ul style="list-style-type:none">
+    <ul style="list-style-type:none" padding-left="0">
     <li> 
         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
             <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
@@ -44,10 +44,13 @@ layout: home
 </table>
 
 # Selected Publications
-<table width="800px" cellpadding="0" cellspacing="0">
+<!-- <table width="800px" cellpadding="0" cellspacing="0">
 <tbody>
 <tr>
-<td width="150px" valign="bottom" background-color="#fdfdfd">
+<td width="150px" valign="bottom" background-color="#fdfdfd"> -->
+
+<ul style="list-style-type:none">
+<li>
 <div class="img">
     <span class="noborderimg">
     <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
@@ -58,8 +61,6 @@ layout: home
     </span>
 </div>
 
-</td>
-<td width="150px" valign="bottom" background-color="#fdfdfd">
 <div class="img">
     <span class="noborderimg">
     <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
@@ -69,13 +70,5 @@ layout: home
     <center>UIST 2018</center>
     </span>
 </div>
-</td>
-<td>
-</td>
-<td>
-</td>
-<td>
-</td>
-</tr>
-</tbody>    
-</table>
+</li>
+</ul>
