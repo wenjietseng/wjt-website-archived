@@ -28,7 +28,7 @@ layout: home
         <table width="100px" cellpadding="0" cellspacing="0">
         <tbody>
             <tr>
-            <!-- <td width="50px" valign="left" background-color="#fdfdfd"> -->
+            <td width="50px" valign="left" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
@@ -36,8 +36,8 @@ layout: home
                         </a>
                     </span>
                 </div>
-            <!-- </td> -->
-            <!-- <td width="50px" valign="left" background-color="#fdfdfd"> -->
+            </td>
+            <td width="50px" valign="left" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                         <a href="mailto:wenjietseng@gmail.com">
@@ -45,7 +45,8 @@ layout: home
                         </a>
                     </span>
                 </div>      
-            <!-- </td> -->
+            </td>
+            <td></td><td></td><td></td>
             </tr>
         </tbody>
         </table>
@@ -69,6 +70,7 @@ layout: home
     </a>
     </span>
 </div>
+FaceWidgets, UIST 2019
 </td>
 <td width="150px" valign="middle" background-color="#fdfdfd">
 <div class="img">
@@ -78,6 +80,13 @@ layout: home
     </a>
     </span>
 </div>
+FacePush, UIST 2018
+</td>
+<td>
+</td>
+<td>
+</td>
+<td>
 </td>
 </tr>
 </tbody>    
