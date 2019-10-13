@@ -4,14 +4,6 @@
 
 layout: home
 ---
-<!-- <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"> -->
-
-<!-- <center>
-<img src="https://wenjietseng.github.io/images/me-berlin.JPG">
-</center>
-
-<center>Berlin Oct. 2018</center> -->
-
 <table width="800px" cellpadding="0" cellspacing="0">
     <tbody>
     <td width="300px" valign="middle" background-color="#fdfdfd">
@@ -44,13 +36,6 @@ layout: home
 </table>
 
 # Selected Publications
-<!-- <table width="800px" cellpadding="0" cellspacing="0">
-<tbody>
-<tr>
-<td width="150px" valign="bottom" background-color="#fdfdfd"> -->
-
-<!-- <ul style="list-style-type:none">
-<li> -->
 <div style="display: inline-block;">
 <ul style="list-style-type: none; margin-left: 0px;">
 <li>
@@ -64,8 +49,8 @@ layout: home
 <center>FaceWidgets</center>
 <center>UIST 2019</center>
 </span>
-</div>
-<div style="display: inline-block;">
+<!-- </div>
+<div style="display: inline-block;"> -->
 <span class="noborderimg">
 <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
 <img src="https://wenjietseng.github.io/images/facepush.png">
@@ -76,5 +61,3 @@ layout: home
 <center>UIST 2018</center>
 </span>
 </div>
-<!-- </li>
-</ul> -->
