@@ -4,10 +4,10 @@ title: Projects
 permalink: /projects/
 ---
 
-<table width="1000px" cellpadding="0" cellspacing="0">
+<table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="1000px" colspan="3" valign="top">
+            <td width="900px" colspan="3" valign="top">
                 <h4>
                     <a href="http://wenjietseng.github.io/projects/FaceWidgets" class="project-title-link">
                     FaceWidgets: Exploring Tangible Interaction on Face with Head-Mounted Displays</a>
@@ -33,10 +33,10 @@ permalink: /projects/
 </table>
 
 
-<table width="1000px" cellpadding="0" cellspacing="0">
+<table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="1000px" colspan="3" valign="top">
+            <td width="900px" colspan="3" valign="top">
                 <h4>
                     <a href="http://wenjietseng.github.io/projects/FacePush" class="project-title-link">
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
@@ -60,10 +60,10 @@ permalink: /projects/
     </tbody>
 </table>
 
-<table width="1000px" cellpadding="0" cellspacing="0">
+<table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="1000px" colspan="3" valign="top">
+            <td width="900px" colspan="3" valign="top">
                 <h4>
                     <a class="project-title-link" href="http://wenjietseng.github.io/projects/npmFishing">
                     NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</a>
@@ -85,10 +85,10 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
-<table width="1000px" cellpadding="0" cellspacing="0">
+<table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="1000px" colspan="3" valign="top">
+            <td width="900px" colspan="3" valign="top">
                 <h4>
                     <a class="project-title-link" href="http://wenjietseng.github.io/projects/food4u"> FoodForYou: Sharing Surplus Food Efficiently with the Community Nearby</a>
                 </h4>
@@ -111,10 +111,10 @@ permalink: /projects/
     </tbody>
 </table>
 
-<table width="1000px" cellpadding="0" cellspacing="0">
+<table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="1000px" colspan="3" valign="top">
+            <td width="900px" colspan="3" valign="top">
                 <h4>
                     <a class="project-title-link" href="http://wenjietseng.github.io/projects/ShinyStats">
                     Creating Shiny Applications for Teaching Statistical Concepts</a>
@@ -139,10 +139,10 @@ permalink: /projects/
 </table>
 
 
-<table width="1000px" cellpadding="0" cellspacing="0">
+<table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
-            <td width="1000px" colspan="3" valign="top">
+            <td width="900px" colspan="3" valign="top">
                 <h4>
                     <a class="project-title-link" href="http://wenjietseng.github.io/projects/zombie">
                     Zombie Game with Haptic Feedback - IDVR 2017</a>
