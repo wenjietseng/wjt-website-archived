@@ -27,24 +27,22 @@ layout: home
         <!-- <a href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf"><b>Academic CV</b></a> -->
         <table width="100px" cellpadding="0" cellspacing="0">
         <tbody>
-            <td width="50px" valign="middle" background-color="#fdfdfd">
-            <div class="img">
-                <span class="noborderimg">
-                    <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
-                        <img src="https://wenjietseng.github.io/images/cv.png" width="50px">
-                    </a>
-                </span>
-            </div>        
-            </td>
-            <td width="50px" valign="middle" background-color="#fdfdfd">
-            <div class="img">
-                <span class="noborderimg">
-                    <a href="mailto:wenjietseng@gmail.com">
-                        <img src="https://wenjietseng.github.io/images/email.png" width="50px">
-                    </a>
-                </span>
-            </div>        
-            </td>
+            <tr>
+                <div class="img">
+                    <span class="noborderimg">
+                        <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
+                            <img src="https://wenjietseng.github.io/images/cv.png" width="50px">
+                        </a>
+                    </span>
+                </div>
+                <div class="img">
+                    <span class="noborderimg">
+                        <a href="mailto:wenjietseng@gmail.com">
+                            <img src="https://wenjietseng.github.io/images/email.png" width="50px">
+                        </a>
+                    </span>
+                </div>      
+            </tr>
         </tbody>
         </table>
         <h2><b>Bio:</b></h2>
