@@ -25,8 +25,6 @@ layout: home
     <td width="500px" valigh="middle">
         <h1><b>Wen-Jie Tseng</b></h1>
         <!-- <a href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf"><b>Academic CV</b></a> -->
-        <table width="100px" cellpadding="0" cellspacing="0">
-        <tbody>
             <tr>
             <td width="50px" valign="left" background-color="#fdfdfd">
                 <div class="img">
@@ -47,8 +45,6 @@ layout: home
                 </div>      
             </td>
             </tr>
-        </tbody>
-        </table>
         <h2><b>Bio:</b></h2>
                 <p>Wen-Jie is a research assistant in Computer Science at National Chiao Tung University, Taiwan. He received his Master's degree in CS at NCTU in June 2019. His previous projects focus on integrating input and output with the Head-Mounted Displays (HMD) for virtual reality, including, <a href="http://wenjietseng.github.io/projects/FacePush/"><b>FacePush</b></a> and <a href="http://wenjietseng.github.io/projects/FaceWidgets/"><b>FaceWidgets</b></a>.
                 Beyond the research, he loves beer and plays bass.
@@ -58,7 +54,7 @@ layout: home
 </table>
 
 # Selected Publications
-
+<tr>
 <div class="img">
     <span class="noborderimg">
     <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
@@ -74,5 +70,5 @@ layout: home
     </a>
     </span>
 </div>
-
+</tr>
 
