@@ -45,12 +45,13 @@ layout: home
 </a>
 </span>
 </li>
+</ul>
 <span>
 <center>FaceWidgets</center>
 <center>UIST 2019</center>
 </span>
-<!-- </div>
-<div style="display: inline-block;"> -->
+</div>
+<div style="display: inline-block;">
 <span class="noborderimg">
 <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
 <img src="https://wenjietseng.github.io/images/facepush.png">
