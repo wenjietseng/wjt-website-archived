@@ -51,21 +51,29 @@ layout: home
 
 <!-- <ul style="list-style-type:none">
 <li> -->
-<span class="noborderimg" display="inline-block">
+<div display="inline-block">
+<ul>
+<li>
+<span class="noborderimg" >
 <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
 <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
 </a>
+</li>
+<li>
 <center>FaceWidgets</center>
 <center>UIST 2019</center>
+</li>
 </span>
+</div>
 
-
-<span class="noborderimg" display="inline-block">
+<div display="inline-block">
+<span class="noborderimg">
 <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
 <img src="https://wenjietseng.github.io/images/facepush.png">
 </a>
 <center>FacePush</center>
 <center>UIST 2018</center>
 </span>
+</div>
 <!-- </li>
 </ul> -->
