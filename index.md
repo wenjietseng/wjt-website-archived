@@ -25,7 +25,7 @@ layout: home
     </td>
     <td width="500px" valigh="middle">
     <h1><b>Wen-Jie Tseng</b></h1>
-    <ul style="list-style-type:none" margin-left="0px">
+    <ul style="list-style-type: none; margin-left: 0px;">
     <li> 
         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
             <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
@@ -51,29 +51,32 @@ layout: home
 
 <!-- <ul style="list-style-type:none">
 <li> -->
-<div display="inline-block">
-<ul style="list-style-type:none" margin-left="0px">
+<div style="display: inline-block;">
+<ul style="list-style-type: none; margin-left: 0px;">
 <li>
 <span class="noborderimg" >
 <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
 <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
 </a>
+</span>
 </li>
-<li>
+<a>
 <center>FaceWidgets</center>
 <center>UIST 2019</center>
-</li>
-</span>
+</a>
+
 </div>
 
-<div display="inline-block">
+<div style="display: inline-block;">
 <span class="noborderimg">
 <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
 <img src="https://wenjietseng.github.io/images/facepush.png">
 </a>
+</span>
+<a>
 <center>FacePush</center>
 <center>UIST 2018</center>
-</span>
+</a>
 </div>
 <!-- </li>
 </ul> -->
