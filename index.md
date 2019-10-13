@@ -60,11 +60,10 @@ layout: home
 </a>
 </span>
 </li>
-<a>
+<span>
 <center>FaceWidgets</center>
 <center>UIST 2019</center>
-</a>
-
+</span>
 </div>
 
 <div style="display: inline-block;">
@@ -73,10 +72,10 @@ layout: home
 <img src="https://wenjietseng.github.io/images/facepush.png">
 </a>
 </span>
-<a>
+<span>
 <center>FacePush</center>
 <center>UIST 2018</center>
-</a>
+</span>
 </div>
 <!-- </li>
 </ul> -->
