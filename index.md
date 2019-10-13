@@ -4,7 +4,7 @@
 
 layout: home
 ---
-<meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;">
+<!-- <meta name="viewport" content="width=device-width; initial-scale=1.0; maximum-scale=1.0; user-scalable=0;"> -->
 
 <!-- <center>
 <img src="https://wenjietseng.github.io/images/me-berlin.JPG">
@@ -12,7 +12,7 @@ layout: home
 
 <center>Berlin Oct. 2018</center> -->
 
-<table width="800px" cellpadding="0" cellspacing="0">
+<table width="800px" cellpadding="0" cellspacing="0" overflow="auto">
     <tbody>
     <td width="300px" valign="middle" background-color="#fdfdfd">
         <div class="img">
