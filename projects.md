@@ -3,7 +3,7 @@ layout: page
 title: Projects
 permalink: /projects/
 ---
-
+<div class="table-project">
 <table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
@@ -31,8 +31,9 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
+</div>
 
-
+<div class="table-project">
 <table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
@@ -59,7 +60,8 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
-
+</div>
+<div class="table-project">
 <table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
@@ -85,6 +87,8 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
+</div>
+<div class="table-project">
 <table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
@@ -110,7 +114,8 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
-
+</div>
+<div class="table-project">
 <table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
@@ -137,8 +142,8 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
-
-
+</div>
+<div class="table-project">
 <table width="900px" cellpadding="0" cellspacing="0">
     <tbody>
         <tr>
@@ -165,3 +170,4 @@ permalink: /projects/
         </tr>
     </tbody>
 </table>
+</div>

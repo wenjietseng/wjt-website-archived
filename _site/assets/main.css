@@ -504,3 +504,12 @@ table {
     color: #008080; }
   .highlight .il {
     color: #099; }
+
+.table-project {
+    width: 100%;
+    overflow-y: auto;
+    _overflow: auto;
+    margin: 0 0 1em;
+}
+
+/* pre {white-space: pre; overflow: auto;} */

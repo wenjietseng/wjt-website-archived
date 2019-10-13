@@ -25,7 +25,7 @@ layout: home
     </td>
     <td width="500px" valigh="middle">
     <h1><b>Wen-Jie Tseng</b></h1>
-    <ul style="list-style-type:none" padding-left="0">
+    <ul style="list-style-type:none">
     <li> 
         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
             <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
