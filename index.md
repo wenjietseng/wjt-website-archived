@@ -28,6 +28,7 @@ layout: home
         <table width="100px" cellpadding="0" cellspacing="0">
         <tbody>
             <tr>
+            <td>
                 <div class="img">
                     <span class="noborderimg">
                         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
@@ -35,6 +36,8 @@ layout: home
                         </a>
                     </span>
                 </div>
+            </td>
+            <td>
                 <div class="img">
                     <span class="noborderimg">
                         <a href="mailto:wenjietseng@gmail.com">
@@ -42,6 +45,7 @@ layout: home
                         </a>
                     </span>
                 </div>      
+            </td>
             </tr>
         </tbody>
         </table>
