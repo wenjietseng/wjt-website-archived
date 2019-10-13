@@ -27,14 +27,12 @@ layout: home
     <h1><b>Wen-Jie Tseng</b></h1>
     <ul style="list-style-type:none">
     <li> 
-        <p>
-                <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
-                    <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
-                </a>
-                <a href="mailto:wenjietseng@gmail.com">
-                    <img src="https://wenjietseng.github.io/images/email.png" width="40px">
-                </a>
-        </p>
+        <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
+            <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
+        </a>
+        <a href="mailto:wenjietseng@gmail.com">
+            <img src="https://wenjietseng.github.io/images/email.png" width="40px">
+        </a>
     </li>
     </ul>
         <h2><b>Bio:</b></h2>
