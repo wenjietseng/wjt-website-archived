@@ -31,7 +31,7 @@ layout: home
             <div class="img">
                 <span class="noborderimg">
                     <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
-                        <img src="https://wenjietseng.github.io/images/cv.png" width="150">
+                        <img src="https://wenjietseng.github.io/images/cv.png" width="50px">
                     </a>
                 </span>
             </div>        
@@ -39,8 +39,8 @@ layout: home
             <td width="150px" valign="middle" background-color="#fdfdfd">
             <div class="img">
                 <span class="noborderimg">
-                    <a class="email-img" href="wenjietseng@gmail.com">
-                        <img src="https://wenjietseng.github.io/images/email.png" width="150">
+                    <a href="mailto:wenjietseng@gmail.com">
+                        <img src="https://wenjietseng.github.io/images/email.png" width="50px">
                     </a>
                 </span>
             </div>        
