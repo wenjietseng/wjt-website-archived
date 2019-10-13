@@ -508,7 +508,7 @@ table {
 .table-project {
     width: 100%;
     overflow-y: auto;
-    overflow-x: auto;
+    overflow-x: scroll;
     _overflow: auto;
     margin: 0 0 1em;
 }
