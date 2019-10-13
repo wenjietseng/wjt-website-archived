@@ -28,7 +28,7 @@ layout: home
         <table width="100px" cellpadding="0" cellspacing="0">
         <tbody>
             <tr>
-            <td>
+            <td width="50px" valign="left" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
@@ -37,7 +37,7 @@ layout: home
                     </span>
                 </div>
             </td>
-            <td>
+            <td width="50px" valign="left" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                         <a href="mailto:wenjietseng@gmail.com">
@@ -56,3 +56,23 @@ layout: home
     </td>
     </tbody>    
 </table>
+
+# Selected Publications
+
+<div class="img">
+    <span class="noborderimg">
+    <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
+    <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
+    </a>
+    </span>
+</div>
+
+<div class="img">
+    <span class="noborderimg">
+    <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
+    <img src="https://wenjietseng.github.io/images/facepush.png">
+    </a>
+    </span>
+</div>
+
+
