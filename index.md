@@ -51,7 +51,7 @@ layout: home
 
 <!-- <ul style="list-style-type:none">
 <li> -->
-<span class="noborderimg">
+<span class="noborderimg" display="inline-block">
 <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
 <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
 </a>
@@ -60,7 +60,7 @@ layout: home
 </span>
 
 
-<span class="noborderimg">
+<span class="noborderimg" display="inline-block">
 <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
 <img src="https://wenjietseng.github.io/images/facepush.png">
 </a>
