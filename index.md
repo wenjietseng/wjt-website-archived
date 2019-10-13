@@ -46,7 +46,7 @@ layout: home
                     </span>
                 </div>      
             </td>
-            <td></td><td></td><td></td>
+            <td></td><td></td><td></td><td></td><td></td>
             </tr>
         </tbody>
         </table>
@@ -68,9 +68,11 @@ layout: home
     <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
     <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
     </a>
+    <center>FaceWidgets</center>
+    <center>UIST 2019</center>
     </span>
 </div>
-FaceWidgets, UIST 2019
+
 </td>
 <td width="150px" valign="middle" background-color="#fdfdfd">
 <div class="img">
@@ -78,9 +80,10 @@ FaceWidgets, UIST 2019
     <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
     <img src="https://wenjietseng.github.io/images/facepush.png">
     </a>
+    <center>FacePush</center>
+    <center>UIST 2018</center>
     </span>
 </div>
-FacePush, UIST 2018
 </td>
 <td>
 </td>
