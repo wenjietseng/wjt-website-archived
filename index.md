@@ -37,15 +37,15 @@ layout: home
 
 # Selected Publications
 <div style="display: inline-block;">
-<ul style="list-style-type: none; margin-left: 0px;">
-<li>
+<!-- <ul style="list-style-type: none; margin-left: 0px;"> -->
+<!-- <li> -->
 <span class="noborderimg" >
 <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
 <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
 </a>
 </span>
-</li>
-</ul>
+<!-- </li> -->
+<!-- </ul> -->
 <span>
 <center>FaceWidgets</center>
 <center>UIST 2019</center>
