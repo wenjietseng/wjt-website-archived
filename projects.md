@@ -23,7 +23,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="850px" valigh="middle" >
+            <td width="750px" valigh="middle" >
             <b>Accepted by UIST 2019!</b>
             FaceWidgets is a novel HMD that integrates physical controls with a lift extender on the backside allowing for the direct manipulation for the VR interaction. We design two novel interactions to enhance direct manipulation and conduct three user studies to inform the design on the HMD backside.
             </td>
@@ -52,7 +52,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="850px" valigh="middle" >
+            <td width="750px" valigh="middle" >
             Haptic feedback makes the virtual reality experience more immersive. FacePush exerts normal forces on the user's face using DC motors incorporated with the HMD. Through this implementation, we can create haptic feedback on the facial region for VR experience, e.g., boxing, underwater diving.
             </td>
         <tr>
@@ -79,7 +79,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="850px" valigh="middle" >
+            <td width="750px" valigh="middle" >
             <i>Fisherman's Delights</i> is a VR art exhibition inspired by the Jin Ming Pool in Northen Song capital Kaifeng. We implement a fishing experience bringing user back to the ancient Northen Song as a fisherman. When fish are caught by the hook, the device will give a visual and haptic response.</td> 
         <tr>
         </tr>
@@ -103,7 +103,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="850px" valigh="middle" >
+            <td width="750px" valigh="middle" >
                 FoodForYou is a design prototype aiming to share the surplus food efficiently with the community nearby. In this project, we investigated the problems of people having surplus food issue. We propose a prototype mobile app to help people build a support network which will ease the various waste of food.
             </td>
         <tr>
@@ -130,7 +130,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="850px" valigh="middle" >
+            <td width="750px" valigh="middle" >
             Learning statistical concepts is sometimes frustrated because it's hard for people to link each component of the theory together. The interactive graphic has good property of showing concepts simutaneously. In this project, we implement examples to illustrate the ideas of common statistical concepts using interactive graphics created by Shiny.
             </td>
         <tr>
@@ -158,7 +158,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="850px" valigh="middle" >
+            <td width="750px" valigh="middle" >
             This is a course project of IDVR 2017 and my first project related to creating haptic feedback for VR. We implement two prototypes, a vibrating vest and a gust generator for creating haptic feedback in a VR zombie shooting game.
             </td>
         <tr>
