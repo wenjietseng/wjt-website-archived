@@ -9,6 +9,35 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
+                    <a href="http://wenjietseng.github.io/projects/SkinStrokeDisplay" class="project-title-link">
+                    A Skin-Stroke Display on the Eye-Ring Through Head-Mounted Displays</a>
+                </h4>
+            </td>
+        </tr>
+            <td width="150px" valign="middle" background-color="#fdfdfd">
+                <div class="img">
+                    <span class="noborderimg">
+                    <a class="project-img" href="http://wenjietseng.github.io/projects/SkinStrokeDisplay">
+                    <!-- <img src="https://wenjietseng.github.io/images/facewidgets.JPG"> -->
+                    </a>
+                    </span>
+                </div>
+            </td>
+            <td width="750px" valigh="middle" >
+            <b>Accepted by CHI 2020!</b> [CHI '20 @ Honolulu] 
+            </td>
+        <tr>
+        </tr>
+    </tbody>
+</table>
+</div>
+
+<div class="table-project">
+<table width="900px" cellpadding="0" cellspacing="0">
+    <tbody>
+        <tr>
+            <td width="900px" colspan="3" valign="top">
+                <h4>
                     <a href="http://wenjietseng.github.io/projects/FaceWidgets" class="project-title-link">
                     FaceWidgets: Exploring Tangible Interaction on Face with Head-Mounted Displays</a>
                 </h4>
@@ -24,8 +53,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="750px" valigh="middle" >
-            <b>Accepted by UIST 2019!</b>
-            FaceWidgets is a novel HMD that integrates physical controls with a lift extender on the backside allowing for the direct manipulation for the VR interaction. We design two novel interactions to enhance direct manipulation and conduct three user studies to inform the design on the HMD backside.
+            [UIST '19 @ New Orleans] FaceWidgets is a novel HMD that integrates physical controls with a lift extender on the backside allowing for the direct manipulation for the VR interaction. We design two novel interactions to enhance direct manipulation and conduct three user studies to inform the design on the HMD backside. 
             </td>
         <tr>
         </tr>
@@ -54,7 +82,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="750px" valigh="middle" >
-            Haptic feedback makes the virtual reality experience more immersive. FacePush exerts normal forces on the user's face using DC motors incorporated with the HMD. Through this implementation, we can create haptic feedback on the facial region for VR experience, e.g., boxing, underwater diving.
+            [UIST '18 @ Berlin] Haptic feedback makes the virtual reality experience more immersive. FacePush exerts normal forces on the user's face using DC motors incorporated with the HMD. Through this implementation, we can create haptic feedback on the facial region for VR experience, e.g., boxing, underwater diving.
             </td>
         <tr>
         </tr>
