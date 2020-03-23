@@ -24,7 +24,7 @@ permalink: /projects/
                 </div>
             </td>
             <td width="750px" valigh="middle" >
-            <b>Accepted by CHI 2020!</b> [CHI '20 @ Honolulu] 
+            <b>CHI 2020 Honorable Mention Award!</b> [CHI '20 @ Honolulu] 
             </td>
         <tr>
         </tr>
