@@ -14,15 +14,15 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: wen-jie.tseng
-email: wenjietseng@gmail.com
+email: wen-jie.tseng@telecom-paris.fr
 # description: #>- # this means to ignore newlines until "baseurl:"
 #   Welcome to Wen-Jie's homepage!
 baseurl: # the subpath of your site, e.g. /blog
 url: "http://wenjietseng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: wenjie_tseng
+# twitter_username: wenjie_tseng
 github_username:  wenjietseng
 # linkedin_username: wen-jie-tseng-126510113
-facebook_username: wjtseng93
+# facebook_username: wjtseng93
 
 # Build settings
 markdown: kramdown
