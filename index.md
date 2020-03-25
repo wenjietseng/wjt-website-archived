@@ -10,7 +10,7 @@ layout: home
         <div class="img">
             <span class="noborderimg">
                 <a class="me-img">
-                    <img src="https://wenjietseng.github.io/images/me-berlin2.JPG" width="300">
+                    <img src="https://wenjietseng.github.io/images/me-berlin2.JPG" width="200">
                 </a>
             </span>
         </div>
@@ -36,7 +36,7 @@ layout: home
     </tbody>    
 </table>
 
-# Selected Publications
+<center> # Selected Publications </center>
 <div style="display: inline-block;">
 <!-- <ul style="list-style-type: none; margin-left: 0px;"> -->
 <!-- <li> -->
