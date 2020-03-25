@@ -36,7 +36,7 @@ layout: home
     </tbody>    
 </table>
 
-<center> # Selected Publications </center>
+# Selected Publications
 <div style="display: inline-block;">
 <!-- <ul style="list-style-type: none; margin-left: 0px;"> -->
 <!-- <li> -->
