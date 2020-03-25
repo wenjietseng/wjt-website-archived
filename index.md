@@ -10,7 +10,7 @@ layout: home
         <div class="img">
             <span class="noborderimg">
                 <a class="me-img">
-                    <img src="https://wenjietseng.github.io/images/me-berlin2.JPG" width="200">
+                    <img src="https://wenjietseng.github.io/images/me-berlin2.JPG" width="300">
                 </a>
             </span>
         </div>
