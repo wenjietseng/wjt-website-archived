@@ -21,7 +21,7 @@ Besides research, he loves beer and plays bass. -->
     <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
         <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
     </a>
-    <a href="mailto:wenjietseng@gmail.com">
+    <a href="mailto:wen-jie.tseng@telecom-paris.fr">
         <img src="https://wenjietseng.github.io/images/email.png" width="40px">
     </a>
 </li>
