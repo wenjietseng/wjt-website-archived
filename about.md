@@ -26,7 +26,7 @@ Besides research, he loves beer and plays bass. -->
     </a>
 </li>
 </ul>
-- Ph.D. student at T&eacute;l&eacute;com Paris, France
+- Ph.D. student at DIVA group, INFRES, T&eacute;l&eacute;com Paris, France
 - HCI / Mixed Reality (VR/AR) / Psychology
 - My previous work has explored integrating haptic outputs and input with head-mounted displays:
     - <a href="http://wenjietseng.github.io/projects/FacePush/"><b>FacePush</b></a>
