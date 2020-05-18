@@ -38,7 +38,7 @@ layout: home
 </table>
 
 <center>
-<h1><b>Selected Publications</b></h1>
+<h1>Selected Publications</h1>
 <div style="display: inline-block;">
 <span class="noborderimg">
 <a class="project-img" href="http://wenjietseng.github.io/projects/SkinStrokeDisplay">
