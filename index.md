@@ -37,11 +37,12 @@ layout: home
     </tbody>    
 </table>
 
-# Selected Publications
+<center>
+<h1><b>Selected Publications</b></h1>
 <div style="display: inline-block;">
 <span class="noborderimg">
 <a class="project-img" href="http://wenjietseng.github.io/projects/SkinStrokeDisplay">
-<img src="https://wenjietseng.github.io/images/skin-stroke.jpg">
+<img src="https://wenjietseng.github.io/images/skin-stroke2.jpg">
 </a>
 </span>
 <span>
@@ -75,3 +76,4 @@ layout: home
 <center>UIST 2018</center>
 </span>
 </div>
+</center>
