@@ -28,10 +28,11 @@ Besides research, he loves beer and plays bass. -->
 </ul>
 - Ph.D. student at DIVA group, INFRES, T&eacute;l&eacute;com Paris, France
 - HCI / Mixed Reality (VR/AR) / Psychology
-- My previous work has explored integrating haptic outputs and input with head-mounted displays:
+- <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW"><b>Google Scholar</b></a> and <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie"><b>dblp</b></a>
+<!-- - My previous work has explored integrating haptic outputs and input with head-mounted displays:
     - <a href="http://wenjietseng.github.io/projects/FacePush/"><b>FacePush</b></a>
     - <a href="http://wenjietseng.github.io/projects/FaceWidgets/"><b>FaceWidgets</b></a>
-    - <a href="http://wenjietseng.github.io/projects/SkinStrokeDisplay/"><b>Skin-Stroke Displays (in HMD)</b></a>
+    - <a href="http://wenjietseng.github.io/projects/SkinStrokeDisplay/"><b>Skin-Stroke Displays (in HMD)</b></a> -->
 - from Taiwan
 - love bass (funk, jazz) and beer
 <!-- <h1><b>Bio:</b></h1> -->
