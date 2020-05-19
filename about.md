@@ -27,7 +27,7 @@ Besides research, he loves beer and plays bass. -->
 </li>
 </ul>
 - Ph.D. student at DIVA, INFRES, T&eacute;l&eacute;com Paris, France
-- HCI / Mixed Reality (VR/AR) / Psychology
+- Human-Computer Interaction, Mixed Reality (Virutal Reality / Augmented Reality)
 - <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW"><b>Google Scholar</b></a> and <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie"><b>dblp</b></a>
 - from Taiwan
 - love bass (funk, jazz) and beer
