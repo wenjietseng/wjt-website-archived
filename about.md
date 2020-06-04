@@ -30,7 +30,7 @@ Besides research, he loves beer and plays bass. -->
 - Human-Computer Interaction, Mixed Reality (Virutal Reality / Augmented Reality)
 - <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW"><b>Google Scholar</b></a> and <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie"><b>dblp</b></a>
 - from Taiwan
-- love bass (funk, jazz) and beer
+<!-- - love bass (funk, jazz) and beer -->
 
 
 <!-- - My previous work has explored integrating haptic outputs and input with head-mounted displays:
