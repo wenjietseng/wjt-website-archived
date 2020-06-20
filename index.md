@@ -6,7 +6,7 @@ layout: home
 ---
 <table width="800px" cellpadding="0" cellspacing="0">
     <tbody>
-    <td width="300px" valign="middle" background-color="#fdfdfd">
+    <!-- <td width="300px" valign="middle" background-color="#fdfdfd">
         <div class="img">
             <span class="noborderimg">
                 <a class="me-img">
@@ -14,8 +14,8 @@ layout: home
                 </a>
             </span>
         </div>
-    </td>
-    <td width="500px" valigh="middle">
+    </td> -->
+    <td width="800px" valigh="middle">
     <h1><b>Wen-Jie Tseng</b></h1>
     <!-- <ul style="list-style-type: none; margin-left: 0px;">
     <li> 
