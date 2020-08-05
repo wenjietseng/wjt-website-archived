@@ -10,8 +10,8 @@ layout: home
 <a class="project-img" href="http://wenjietseng.github.io/about/">
     <img src="https://wenjietseng.github.io/images/me-berlin3.JPG" width="220">
 </a>
-</div>
 </span>
+</div>
 </center>
 
 <center>
