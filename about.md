@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 <h1><b>Wen-Jie Tseng</b></h1>
-- Ph.D. student at <a href="https://diva.telecom-paristech.fr/">DIVA</a>, INFRES, T&eacute;l&eacute;com Paris, France
+- Ph.D. student at <a href="https://diva.telecom-paristech.fr/">DIVA</a>, T&eacute;l&eacute;com Paris, France
 - Human-Computer Interaction, Mixed Reality (VR / AR), Psychology
 - <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW">Google Scholar</a> and <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie">dblp</a>
 - from Taiwan
