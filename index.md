@@ -6,7 +6,7 @@ layout: home
 ---
 <center>
 <a class="me-img">
-    <img src="https://wenjietseng.github.io/images/me-berlin2.JPG" width="150">
+    <img src="https://wenjietseng.github.io/images/me-berlin3.JPG" width="220">
 </a>
 </center>
 
