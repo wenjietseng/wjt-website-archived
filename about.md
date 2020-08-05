@@ -12,7 +12,7 @@ permalink: /about/
 <h2>Bio:</h2>
 <p>Hi, my name is Wen-Jie. I am a first year Ph.D. student at T&eacute;l&eacute;com Paris. My research interest lies in Human-Computer Interaction (HCI), and I focus on Mixed Reality, including VR and (AR).</p>
 
-<p>Before I came to France, I worked as a research assitant at NCTU, Taiwan. My previous projects in Taiwan explore integrating haptic outputs or input with VR Head-Mounted Displays. Before I started doing my Master in Computer Science, I was in Psychology. Please have a look at my <a href="http://wenjietseng.github.io/projects/">Projects</a> or <a href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
+<p>Before I came to France, I worked as a research assistant at NCTU, Taiwan. My previous projects in Taiwan explore integrating haptic outputs or input with VR Head-Mounted Displays. Before I started doing my Master in Computer Science, I was in Psychology. Please have a look at my <a href="http://wenjietseng.github.io/projects/">Projects</a> or <a href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
 
 <!-- <ul style="list-style-type: none; margin-left: 0px;">
 <li> 
