@@ -7,7 +7,7 @@ layout: home
 <center>
 <table width="500px" cellpadding="0" cellspacing="0">
     <tbody>
-    <!-- <td width="300px" valign="middle" background-color="#fdfdfd">
+    <td width="300px" valign="middle" background-color="#fdfdfd">
         <div class="img">
             <span class="noborderimg">
                 <a class="me-img">
@@ -15,10 +15,10 @@ layout: home
                 </a>
             </span>
         </div>
-    </td> -->
+    </td>
     <td width="500px" valigh="middle">
     <h1><b>Wen-Jie Tseng</b></h1>
-    <!-- <ul style="list-style-type: none; margin-left: 0px;">
+    <ul style="list-style-type: none; margin-left: 0px;">
     <li> 
         <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
             <img src="https://wenjietseng.github.io/images/cv.png" width="40px">
@@ -27,7 +27,7 @@ layout: home
             <img src="https://wenjietseng.github.io/images/email.png" width="40px">
         </a>
     </li>
-    </ul> -->
+    </ul>
         <h2><b>Bio:</b></h2>
                 <p>Wen-Jie is a Ph.D. student at T&eacute;l&eacute;com Paris. His research interest lies in Human-Computer Interaction (HCI). Currently he focuses on <i>Augmented Humanity: Exploring Ethical, Social, and Political Challenges in Mixed Reality (AR/VR).</i> Wen-Jie received his master's degree in Computer Science and worked as research assistant at NCTU, Taiwan. His previous work has explored integrating input and haptics output with VR Head-Mounted Displays (HMD).</p>
                  <!-- for VR: <a href="http://wenjietseng.github.io/projects/FaceWidgets/"><b>FaceWidgets</b></a> and <a href="http://wenjietseng.github.io/projects/FacePush/"><b>FacePush</b></a>.</p> -->
