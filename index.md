@@ -5,9 +5,13 @@
 layout: home
 ---
 <center>
-<a class="me-img">
+<div class="img">
+<span class="noborderimg">
+<a class="project-img" href="http://wenjietseng.github.io/about/">
     <img src="https://wenjietseng.github.io/images/me-berlin3.JPG" width="220">
 </a>
+</div>
+</span>
 </center>
 
 <center>
