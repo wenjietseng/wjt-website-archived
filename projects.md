@@ -23,7 +23,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="750px" svaligh="middle" >
+            <td width="750px" valigh="middle" >
             [CHI '20 <s>@ Hawaii</s> Virtual] <b>Honorable Mention Award!</b> The Skin-Stroke Display is a system mounted on the lens inside the head-mounted display, which exerts subtle yet recognizable tactile feedback on the eye-ring using a motorized air jet.
             </td>
         <tr>
