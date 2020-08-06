@@ -14,7 +14,7 @@ permalink: /projects/
                 </h4>
             </td>
         </tr>
-            <td width="150px" min-width="150px" valign="middle" background-color="#fdfdfd">
+            <td width="150px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
                     <a class="project-img" href="http://wenjietseng.github.io/projects/SkinStrokeDisplay">
@@ -23,7 +23,7 @@ permalink: /projects/
                     </span>
                 </div>
             </td>
-            <td width="750px" min-width="150px" valigh="middle" >
+            <td width="750px" svaligh="middle" >
             [CHI '20 <s>@ Hawaii</s> Virtual] <b>Honorable Mention Award!</b> The Skin-Stroke Display is a system mounted on the lens inside the head-mounted display, which exerts subtle yet recognizable tactile feedback on the eye-ring using a motorized air jet.
             </td>
         <tr>
