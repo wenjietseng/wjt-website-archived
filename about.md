@@ -5,14 +5,14 @@ permalink: /about/
 ---
 <h1><b>Wen-Jie Tseng</b></h1>
 - Ph.D. student at <a href="https://diva.telecom-paristech.fr/">DIVA</a>, T&eacute;l&eacute;com Paris, France
-- Human-Computer Interaction, Mixed Reality (VR / AR), Psychology
+- Human-Computer Interaction, Mixed Reality (Virtual Reality and Augmented Reality), Psychology
 - <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW">Google Scholar</a> and <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie">dblp</a>
 - from Taiwan
 
 <h2>Bio:</h2>
-<p>Hi, my name is Wen-Jie. I am a first year Ph.D. student at T&eacute;l&eacute;com Paris. My research interest lies in Human-Computer Interaction (HCI), and I focus on Mixed Reality, including VR and (AR).</p>
+<p>Hi, my name is Wen-Jie. I am a first year Ph.D. student at T&eacute;l&eacute;com Paris. My research interest lies in Human-Computer Interaction (HCI), and I focus on Mixed Reality, including Virtual Reality and Augmented Reality.</p>
 
-<p>Before I came to France, I worked as a research assistant at NCTU, Taiwan. My previous projects in Taiwan explore integrating haptic outputs or input with VR Head-Mounted Displays. Before I started doing my Master in Computer Science, I was in Psychology. Please have a look at my <a href="http://wenjietseng.github.io/projects/">Projects</a> or <a href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
+<p>Previously, I worked as a research assistant at NCTU, Taiwan. My research projects explore integrating haptic outputs or input with VR Head-Mounted Displays. Before I started doing my Master in Computer Science, I was in Psychology. Please have a look at my <a href="http://wenjietseng.github.io/projects/">Projects</a> or <a href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
 
 <!-- <ul style="list-style-type: none; margin-left: 0px;">
 <li> 
