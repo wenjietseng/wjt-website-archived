@@ -12,17 +12,20 @@ permalink: /experiments/FingerMapperStudy/
 - three techniques X two target layouts you will have to go through 30 task in each combination
 - after each mapping, there would be a questionnaire
 
-## The Posture
+## The Posture and Body Measurement
 - a figure of sitting with elbow sticking to lateral waist.
+- arm span
+- arm length
+- index finger length
 
 ## The Techniques
-### I> Direct
+### Direct
 intro
 video
-### II> Attach
+### Attach
 intro
 video
-### III> Physical hand
+### Physical hand
 intro
 video
 
