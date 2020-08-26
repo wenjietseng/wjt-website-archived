@@ -15,7 +15,7 @@ permalink: /experiments/
 
 ## The Posture and Body Measurement
 - a figure of sitting with elbow sticking to lateral waist.
-- arm span
+- arm span`
 - arm length
 - index finger length
 
