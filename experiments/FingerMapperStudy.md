@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /projects/FingerMapperStudy/
+permalink: /experiments/FingerMapperStudy/
 ---
 # WELCOME to User Study of FingerMapper!
 - What is FingerMapper? FingerMapper is a mapping technique that controls VR arm reaching in confined and public spaces through small finger motions
