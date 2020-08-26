@@ -13,22 +13,11 @@ Thank you for participating our study. Before sign up the consent form and start
 - a video (show real hand and virtual hand at the same time
 
 ### A.1 Three techniques
+- Direct: intro + video
+- Attach: intro + video
+- Physical hand: intro + video
 
-#### Direct
-intro
-video
-
-#### Attach
-intro
-video
-
-#### Physical hand
-intro
-video
-
-- evaluate three techniques: direct, attach, and physical hand
-- three techniques X two target layouts you will have to go through 30 task in each combination
-- after each mapping, there would be a questionnaire
+evaluate three techniques: direct, attach, and physical hand, three techniques X two target layouts you will have to go through 30 task in each combination, after each mapping, there would be a questionnaire.
 
 ### A.2 The task
 1. before each combination, there is a practicing phase.
@@ -40,7 +29,7 @@ video
 
 please see the video (here)
 
-## A.3 The questionnaire
+### A.3 The questionnaire
 Use normal hand tracking to answer a set of questionnaire (video)
 
 ## B. The Setup of Study
