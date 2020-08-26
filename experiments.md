@@ -3,7 +3,8 @@ layout: page
 title: Experiments
 permalink: /experiments/
 ---
-# WELCOME to User Study of FingerMapper!
+
+## WELCOME to User Study of FingerMapper!
 - What is FingerMapper? FingerMapper is a mapping technique that controls VR arm reaching in confined and public spaces through small finger motions
 - What FingerMapper does? FingerMapper enables users to efficiently interacting in VR with less physical movements, less fatigue, and preserving virtual body ownership.
 - a video (show real hand and virtual hand at the same time
