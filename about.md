@@ -14,6 +14,8 @@ permalink: /about/
 
 <p>Previously, I worked as a research assistant at NCTU, Taiwan. My research projects explore integrating haptic outputs or input with VR Head-Mounted Displays. Before I started doing my Master in Computer Science, I was in Psychology. Please have a look at my <a href="http://wenjietseng.github.io/projects/">Projects</a> or <a href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
 
+<p>:).</p>
+
 <!-- <ul style="list-style-type: none; margin-left: 0px;">
 <li> 
     <a class="cv-img" href="http://wenjietseng.github.io/documents/CV_Wen_Jie_Tseng.pdf">
