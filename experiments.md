@@ -7,19 +7,21 @@ permalink: /experiments/
 ## WELCOME to the User Study of FingerMapper!
 Thank you for participating our study. Before sign up the consent form and start to play, please read all the information on this page carefully. Because this is a remote study, you need to know more about what FingerMapper does, how to interact with it, and how to setup the study by yourself. Grab a cup of tea and let's go!
 
----
-
 ## A. FingerMapper and the Purpose of this Study
 - What is FingerMapper? FingerMapper is a mapping technique that controls VR arm reaching in confined and public spaces through small finger motions
 - What FingerMapper does? FingerMapper enables users to efficiently interacting in VR with less physical movements, less fatigue, and preserving virtual body ownership.
 - a video (show real hand and virtual hand at the same time
+
 ### A.1 Three techniques
+
 #### Direct
 intro
 video
+
 #### Attach
 intro
 video
+
 #### Physical hand
 intro
 video
@@ -42,18 +44,26 @@ please see the video (here)
 Use normal hand tracking to answer a set of questionnaire (video)
 
 ## B. The Setup of Study
+Please follow the instruction to setup the study environment, thank you!
+
 ### B.1 Oculus Quest
 - setup
 - link of apk
+
 ### B.2 Space
+
 ### B.3 Body measurements
 - a figure of sitting with elbow sticking to lateral waist.
 - arm span`
 - arm length
 - index finger length
+
 ### B.4 Starting posture
+
 ### B.5 Enter your dimensions
+
 ### B.6 Doing the tasks and questionnaire
+
 ### B.7 End! Send the data back
 
 ## C. Ready to Go
