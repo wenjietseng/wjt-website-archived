@@ -54,6 +54,13 @@ Please follow the instruction to setup the study environment, thank you!
 ### B.6 Doing the tasks and questionnaire
 
 ### B.7 End! Send the data back
+There are three file in this directory.
+`sdcard > android > data > com.DefaultCompany.FingerSaber
+file"UserNo"`
+_frameLog.txt
+_questionnaire.txt
+_study.text
+
 
 ## C. Ready to Go
 - Consent form
