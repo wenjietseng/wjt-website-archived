@@ -42,7 +42,7 @@ Our goal: We would like to ask you to evaluate four techniques with two differen
 3. Once you touch the first green sphere with the left virtual hand for example, the green sphere you touched turns into blue, and the task starts. 
 4. Use the same arm that you touched the first green sphere to touch the other green sphere as fast and correct as possible.
 5. To have a succeed task, you have to use the SAME arm for both greens. A beep sound occurs when the task succeed.
-6. When you feel comfortable about the practicing, touch the red cube and the formal study starts (30 tasks). The procedure is the same as 2-5
+6. When you feel comfortable about the practicing, touch the red cube and the formal study starts (30 tasks). The procedure is the same as 1-5.
 
 (video task)
 
@@ -81,13 +81,17 @@ Enter your user number. Adjust the body dimensions to your data, check if you ca
 Follow the instructions of A.2 and A.3.
 
 ### B.7 End! Send the data back
-There are three file in this directory.
-`sdcard > android > data > com.DefaultCompany.FingerSaber
-file"UserNo"`
-_frameLog.txt
-_questionnaire.txt
-_study.text
+There are three files in this directory.
+```
+sdcard > android > data > com.DefaultCompany.FingerSaber >
+file"UserNo"_frameLog.csv
+file"UserNo"_questionnaire.csv
+file"UserNo"_study.csv
 
+For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
+```
+
+(how to send back?)
 
 ## C. Ready to Go
 - Consent form (link)
