@@ -19,11 +19,12 @@ FingerMapper is a mapping technique that controls VR arm reaching in confined an
 
 (video: real + attach)
 
-- Physical hand: intro + video
+- Physical hand:
 
-(video: real)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZTEbDaKN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Raycasting: 
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combination, each has 30 tasks. After completing each technique, there would be one questionnaire.
@@ -50,10 +51,13 @@ Measure the following body dimensions (Figure to show three)
 (a figure of sitting with elbow sticking to lateral waist.)
 
 ### B.5 Reposition yourself using thumb-pinky pinch
+After reposition, please enter your user number. The user number will be sent to you after you sign up the consent form.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8KuTwtvuSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### B.6 Enter your dimensions
 Enter your user number. Adjust the body dimensions to your data, check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cR1VNQOkqpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### B.7 The task
@@ -62,17 +66,15 @@ Enter your user number. Adjust the body dimensions to your data, check if you ca
 3. Once you touch the first green sphere with the left virtual hand for example, the green sphere you touched turns into blue, and the task starts. 
 4. Use the same arm that you touched the first green sphere to touch the other green sphere as fast and correct as possible.
 5. To have a succeed task, you have to use the SAME arm for both greens. A beep sound occurs when the task succeed.
-
-(video task)
-
 6. Before each combination, there is a practicing phase. Practice the task until you are completely comfortable with the technique. Touch the red cube to end practicing and start the formal study.
 
-(video: touch end practicing)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/r8htFkI_NKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 ### B.8 The questionnaire
 After finishing one technique, there would be a questionnaire. Please fill them up as shown in the video below.
 
-(video show questionnaire)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HBYe3ZpFeok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### B.9 End! Send the data back
 There are three files in this directory.
@@ -89,8 +91,8 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 
 ## C. Ready to Go
 - Consent form (link)
-- apk link (link)
 - user no 
+- apk link (link)
 - your body dims
 - clarification and gratitudes (how?)
 - privacy, laws (how?)
