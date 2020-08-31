@@ -46,7 +46,9 @@ Measure the following body dimensions, as shown in the figure (b).
 - arm span
 - arm length
 - index finger length
+
 <img src="https://wenjietseng.github.io/images/technique-body.jpg">
+
 After that, please maintain the posture in figure (a), wear your headset then continue in VR.
 
 ### B.4 Reposition yourself using thumb-pinky pinch
