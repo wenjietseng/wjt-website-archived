@@ -10,7 +10,7 @@ Thank you for participating our study. Before sign up the consent form and start
 ## A. FingerMapper and the Purpose of this Study
 FingerMapper is a mapping technique that controls VR arm reaching in confined and public spaces through small finger motions. FingerMapper enables users to efficiently interacting in VR with less physical movements, less fatigue, and preserving virtual body ownership.
 
-### A.1 Four techniques
+### Four techniques
 - Direct: intro
 
 (video: real + direct)
@@ -24,29 +24,9 @@ FingerMapper is a mapping technique that controls VR arm reaching in confined an
 (video: real)
 
 - Raycasting: 
-
-(video: ray)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combination, each has 30 tasks. After completing each technique, there would be one questionnaire.
-
-### A.2 The task
-1. Touch the white cube in front of you with the red pointer on your virtual hand (both hands can start the task).
-2. Two targets become green. Choose one of your arm to touch one of the greens. The order of green sphere doesn't matter. 
-3. Once you touch the first green sphere with the left virtual hand for example, the green sphere you touched turns into blue, and the task starts. 
-4. Use the same arm that you touched the first green sphere to touch the other green sphere as fast and correct as possible.
-5. To have a succeed task, you have to use the SAME arm for both greens. A beep sound occurs when the task succeed.
-
-(video task)
-
-6. Before each combination, there is a practicing phase. Practice the task until you are completely comfortable with the technique. Touch the red cube to end practicing and start the formal study.
-
-(video: touch end practicing)
-
-
-### A.3 The questionnaire
-After finishing one technique, there would be a questionnaire. Please fill them up as shown in the video below.
-
-(video show questionnaire)
 
 ## B. Study Setup
 Please follow the instruction to setup the study environment, thank you!
@@ -76,10 +56,25 @@ Measure the following body dimensions (Figure to show three)
 Enter your user number. Adjust the body dimensions to your data, check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cR1VNQOkqpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### B.6 Doing the tasks and questionnaire
-Follow the instructions of A.2 and A.3.
+### B.7 The task
+1. Touch the white cube in front of you with the red pointer on your virtual hand (both hands can start the task).
+2. Two targets become green. Choose one of your arm to touch one of the greens. The order of green sphere doesn't matter. 
+3. Once you touch the first green sphere with the left virtual hand for example, the green sphere you touched turns into blue, and the task starts. 
+4. Use the same arm that you touched the first green sphere to touch the other green sphere as fast and correct as possible.
+5. To have a succeed task, you have to use the SAME arm for both greens. A beep sound occurs when the task succeed.
 
-### B.7 End! Send the data back
+(video task)
+
+6. Before each combination, there is a practicing phase. Practice the task until you are completely comfortable with the technique. Touch the red cube to end practicing and start the formal study.
+
+(video: touch end practicing)
+
+### B.8 The questionnaire
+After finishing one technique, there would be a questionnaire. Please fill them up as shown in the video below.
+
+(video show questionnaire)
+
+### B.9 End! Send the data back
 There are three files in this directory.
 ```
 sdcard > android > data > com.DefaultCompany.FingerSaber >
