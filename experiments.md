@@ -69,7 +69,10 @@ Please follow the instruction to setup the study environment, thank you!
 ### B.4 Starting posture
 (a figure of sitting with elbow sticking to lateral waist.)
 
-### B.5 Enter your dimensions
+### B.5 Reset position in VR using thumb-pinky pinch
+(video)
+
+### B.6 Enter your dimensions
 Enter your user number. Adjust the body dimensions to your data, check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
 
 (video for entering and adjusting)
