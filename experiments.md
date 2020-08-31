@@ -11,13 +11,13 @@ Thank you for participating our study. Before sign up the consent form and start
 FingerMapper is a mapping technique that controls VR arm reaching in confined and public spaces through small finger motions. FingerMapper enables users to efficiently interacting in VR with less physical movements, less fatigue, and preserving virtual body ownership.
 
 ### Four techniques
-- Direct: intro
+- Direct: 
 
-(video: real + direct)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Attach: intro + video
+- Attach: 
 
-(video: real + attach)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Physical hand:
 
