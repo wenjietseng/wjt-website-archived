@@ -61,21 +61,20 @@ Please follow the instruction to setup the study environment, thank you!
 - Remove all the possible obstructions in front, left, and right of yourself.
 
 ### B.3 Body measurements
+Measure the following body dimensions (Figure to show three)
 - arm span
 - arm length
 - index finger length
-(Figure to show three)
 
 ### B.4 Starting posture
 (a figure of sitting with elbow sticking to lateral waist.)
 
-### B.5 Reset position in VR using thumb-pinky pinch
-(video)
+### B.5 Reposition yourself using thumb-pinky pinch
+<iframe width="560" height="315" src="https://www.youtube.com/embed/f8KuTwtvuSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### B.6 Enter your dimensions
 Enter your user number. Adjust the body dimensions to your data, check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
-
-(video for entering and adjusting)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/cR1VNQOkqpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### B.6 Doing the tasks and questionnaire
 Follow the instructions of A.2 and A.3.
