@@ -42,25 +42,24 @@ Please follow the instruction to setup the study environment, thank you!
 - Remove all the possible obstructions in front, left, and right of yourself.
 
 ### B.3 Body measurements
-Measure the following body dimensions (Figure to show three)
+Measure the following body dimensions, as shown in the figure (b).
 - arm span
 - arm length
 - index finger length
+<img src="https://wenjietseng.github.io/images/technique-body.jpg">
+After that, please maintain the posture in figure (a), wear your headset then continue in VR.
 
-### B.4 Starting posture
-(a figure of sitting with elbow sticking to lateral waist.)
-
-### B.5 Reposition yourself using thumb-pinky pinch
+### B.4 Reposition yourself using thumb-pinky pinch
 After reposition, please enter your user number. The user number will be sent to you after you sign up the consent form.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/f8KuTwtvuSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### B.6 Enter your dimensions
+### B.5 Enter your dimensions
 Enter your user number. Adjust the body dimensions to your data, check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cR1VNQOkqpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### B.7 The task
+### B.6 The task
 1. Touch the white cube in front of you with the red pointer on your virtual hand (both hands can start the task).
 2. Two targets become green. Choose one of your arm to touch one of the greens. The order of green sphere doesn't matter. 
 3. Once you touch the first green sphere with the left virtual hand for example, the green sphere you touched turns into blue, and the task starts. 
@@ -70,13 +69,12 @@ Enter your user number. Adjust the body dimensions to your data, check if you ca
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r8htFkI_NKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-
-### B.8 The questionnaire
+### B.7 The questionnaire
 After finishing one technique, there would be a questionnaire. Please fill them up as shown in the video below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBYe3ZpFeok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### B.9 End! Send the data back
+### B.8 End! Send the data back
 There are three files in this directory.
 ```
 sdcard > android > data > com.DefaultCompany.FingerSaber >
