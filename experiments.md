@@ -30,12 +30,10 @@ FingerMapper is a finger mapping technique that allows users to control arm inte
 Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combination, each has 30 tasks. After completing each technique, there would be one questionnaire.
 
 ## B. Ready to Go
-- Consent form (link)
+- <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
 - Once I received your consent form and demographic data, I will send you the user number. 
 - Download the apk (link)
-- Measure your body dimensions (see C.3).
-- clarification and gratitudes (how?)
-- privacy, laws (how?)
+- Follow the setup in part C.
 
 ## C. Study Setup
 Please follow the instruction to setup the study environment, thank you!
