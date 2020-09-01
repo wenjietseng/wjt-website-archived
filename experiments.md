@@ -8,10 +8,10 @@ permalink: /experiments/
 Thank you for participating our study. First, I would introduce what FingerMapper does and how to interact with it. The next step would be sign up the consent form and provide your demographic data through the link in part B. Finally, please read all the information in part C carefully before you start the study since our study would be remote. The instructions in part C would guide you to setup the study. Grab a cup of tea and let's go!
 
 ## A. FingerMapper and the Purpose of this Study
-FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions. These small and energy efficient finger motions reduce the physical path length and fatigue during the interaction while preserving virtual body ownership inside confined spaces.
+FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions.
 
 ### Four techniques
-- Direct: the virtual arms would follow the direction of your index finger.
+- Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped 1-to-1 to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -19,7 +19,7 @@ FingerMapper is a finger mapping technique that allows users to control arm inte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Physical hand: the virtual hand is your physical hand.
+- Physical hand: the virtual hand is your physical hand, which is a 1-to-1 hand tracking.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VZTEbDaKN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -49,13 +49,15 @@ Please follow the instruction to setup the study environment, thank you!
 
 ### C.3 Body measurements
 Measure the following body dimensions, as shown in the figure (b).
-- arm span
-- arm length
-- index finger length
+- arm span (the length from one end of an individual's arms (measured at the fingertips) to the other when raised parallel to the ground at shoulder height at a 90 degrees angle.)
+- arm length (from the shouder to the wrist)
+- index finger length (from the MCP joint to the fingertip)
 
 <img src="https://wenjietseng.github.io/images/technique-body.jpg">
 
 After that, please maintain the posture in figure (a), then put on your headset then continue in VR.
+
+**Important!!** Please keep the posture in (a) throughout the whole study and interaction (except for the 1-to-1 hand tracking condition) !! Try to remember to have your elbows always be in contact with your upper body. 
 
 ### C.4 Reposition yourself using thumb-pinky pinch
 After reposition, please enter your user number. The user number will be sent to you after you signed up the consent form.
