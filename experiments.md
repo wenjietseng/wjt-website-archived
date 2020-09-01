@@ -94,5 +94,6 @@ file"UserNo"_study.csv
 
 For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 ```
-Please email the files to wen-jie.tseng@telecom-paris.fr
-if you have any further questions, please email me and let me know :).
+Zip them into `"UserNo".zip` and upload to this link
+https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv
+Please contact wen-jie.tseng@telecom-paris.fr if you have any further questions, please email me and let me know :).
