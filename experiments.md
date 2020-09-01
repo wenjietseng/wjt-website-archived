@@ -83,7 +83,7 @@ After finishing one technique (one mapping with two layouts), there would be a q
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBYe3ZpFeok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### C.8 End! Send the data back
-There are three files in this directory.
+- There are three files in this directory.
 ```
 sdcard > android > data > com.DefaultCompany.FingerSaber >
 file"UserNo"_frameLog.csv
@@ -92,6 +92,7 @@ file"UserNo"_study.csv
 
 For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 ```
-Zip them into `"UserNo".zip` and upload to this link
-https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv
+- Zip them into `"UserNo".zip`
+- <a href="https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv">Upload your `"UserNo".zip` to this LINK</a>
+
 Please contact wen-jie.tseng@telecom-paris.fr if you have any further questions, please email me and let me know :).
