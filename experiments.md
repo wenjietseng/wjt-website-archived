@@ -5,17 +5,17 @@ permalink: /experiments/
 ---
 
 ## WELCOME to the User Study of FingerMapper!
-Thank you for participating our study. First, I would introduce what FingerMapper does and how to interact with it. The next step would be sign up the consent form and provide your demographic data through the link in part B. Finally, please read all the information in part C carefully before you start the study since our study would be remote. The instruction in part C woule guide you to setup the study. Grab a cup of tea and let's go!
+Thank you for participating our study. First, I would introduce what FingerMapper does and how to interact with it. The next step would be sign up the consent form and provide your demographic data through the link in part B. Finally, please read all the information in part C carefully before you start the study since our study would be remote. The instructions in part C would guide you to setup the study. Grab a cup of tea and let's go!
 
 ## A. FingerMapper and the Purpose of this Study
 FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions. These small and energy efficient finger motions reduce the physical path length and fatigue during the interaction while preserving virtual body ownership inside confined spaces.
 
 ### Four techniques
-- Direct: 
+- Direct: the virtual arms would follow the direction of your index finger.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Attach: 
+- Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
