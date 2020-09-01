@@ -103,7 +103,10 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 - To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
 - Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.
 
-Please contact wen-jie.tseng@telecom-paris.fr if you have any further questions, email me and let me know :).
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Mym8FXqyLko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+### Contact
+- Please contact Wen-Jie Tseng (email: wen-jie.tseng@telecom-paris.fr) if you have any further questions, email me and let me know :).
 
 ### Links for the study.
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
