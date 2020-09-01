@@ -99,4 +99,12 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 - Zip them into `"UserNo".zip`
 - <a href="https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv">Upload your `"UserNo".zip` to this LINK</a>
 
-Please contact wen-jie.tseng@telecom-paris.fr if you have any further questions, please email me and let me know :).
+### C.9 Avoid tracking loss
+- To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
+- Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.
+
+Please contact wen-jie.tseng@telecom-paris.fr if you have any further questions, email me and let me know :).
+
+### Links for the study.
+- <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
+- <a href="https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv">Upload your `"UserNo".zip` to this LINK</a>
