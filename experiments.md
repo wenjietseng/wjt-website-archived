@@ -11,8 +11,6 @@ Thank you for participating our study. First, I would introduce what FingerMappe
 FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions.
 
 ### Four techniques
-- Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
-
 - Physical hand: the virtual hand is your physical hand, which is a 1-to-1 hand tracking.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VZTEbDaKN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -21,6 +19,7 @@ FingerMapper is a finger mapping technique that allows users to control arm inte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+- Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
