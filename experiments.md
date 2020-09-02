@@ -11,21 +11,21 @@ Thank you for participating our study. First, I would introduce what FingerMappe
 FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions.
 
 ### Four techniques
-- Physical hand: the virtual hand is your physical hand, which is a 1-to-1 hand tracking.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Raycasting: using a ray casting from your fingertip to select.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
+- Physical hand: the virtual hand is your physical hand, which is the one-to-one hand tracking.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/VZTEbDaKN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
+- Raycasting: using a ray casting from your fingertip to select.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combinations, each has 30 tasks. After completing each technique, there would be one questionnaire.
 
@@ -45,7 +45,7 @@ Please follow the instruction to setup the study environment, thank you!
 ### B.3 Body posture
 **Important!!** Please keep the posture in (a) throughout the whole study and interaction (except for the 1-to-1 hand tracking condition)!! Try to remember to have your elbows always be in contact with your upper body. 
 
-<img src="https://wenjietseng.github.io/images/technique-body.jpg">
+<img width="560" src="https://wenjietseng.github.io/images/technique-body.jpg">
 
 ### B.4 Body measurements
 Measure the following body dimensions, as shown in the figure (b).
@@ -111,6 +111,8 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 ### Avoid tracking loss
 - To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
 - Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.
+
+<img width="560" src="https://wenjietseng.github.io/images/quest-hand-tracking-guidelines.png">
 
 ### Links for the study
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
