@@ -13,19 +13,19 @@ FingerMapper is a finger mapping technique that allows users to control arm inte
 ### Four techniques
 - Physical hand: the virtual hand is your physical hand, which is a 1-to-1 hand tracking.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VZTEbDaKN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Raycasting: using a ray casting from your fingertip to select.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VZTEbDaKN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combinations, each has 30 tasks. After completing each technique, there would be one questionnaire.
 
