@@ -5,19 +5,13 @@ permalink: /experiments/
 ---
 
 ## WELCOME to the User Study of FingerMapper!
-Thank you for participating our study. First, I would introduce what FingerMapper does and how to interact with it. The next step would be sign up the consent form and provide your demographic data through the link in part B. Finally, please read all the information in part C carefully before you start the study since our study would be remote. The instructions in part C would guide you to setup the study. Grab a cup of tea and let's go!
+Thank you for participating our study. First, I would introduce what FingerMapper does and how to interact with it. The next step would be the setup and instructions for the study. Please read all the information in part B carefully before you start the study since our study would be remote. Finally, sign up the consent form through the link in part C and download the apk. I will then send you the user number. Let's go!
 
-## A. FingerMapper and the Purpose of this Study
+## A. FingerMapper and the purpose of this Study
 FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions.
 
 ### Four techniques
-- Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped 1-to-1 to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers. 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-- Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
 
 - Physical hand: the virtual hand is your physical hand, which is a 1-to-1 hand tracking.
 
@@ -27,49 +21,50 @@ FingerMapper is a finger mapping technique that allows users to control arm inte
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combination, each has 30 tasks. After completing each technique, there would be one questionnaire.
 
-## B. Ready to Go
-- <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
-- Once I received your consent form and demographic data, I will send you the user number. 
-- Download the apk (link)
-- Follow the setup in part C.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-## C. Study Setup
+- Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combinations, each has 30 tasks. After completing each technique, there would be one questionnaire.
+
+## B. Study Setup
 Please follow the instruction to setup the study environment, thank you!
 
-### C.1 Oculus Quest
+### B.1 Oculus Quest
 - <a href="https://support.oculus.com/guardian/">Set guardian as stationary.</a>
 - <a href="https://frl.nyu.edu/disable-guardian-on-the-oculus-quest/">Disable guardian in developer tab. The Quest has to be Developer Mode.</a>
 - <a href="https://uploadvr.com/sideloading-quest-how-to/">Upload the apk by SideQuest</a>
+- Download the apk (link)
 
-### C.2 Space
+### B.2 Space
 - Find a chair and put it in the middle of an empty space.
-- Remove all the possible obstructions in front, left, and right of yourself.
+- Remove all the possible obstructions around you.
 
-### C.3 Body measurements
+### B.3 Body posture
+**Important!!** Please keep the posture in (a) throughout the whole study and interaction (except for the 1-to-1 hand tracking condition)!! Try to remember to have your elbows always be in contact with your upper body. 
+
+<img src="https://wenjietseng.github.io/images/technique-body.jpg">
+
+### B.3 Body measurements
 Measure the following body dimensions, as shown in the figure (b).
 - arm span (the length from one end of an individual's arms (measured at the fingertips) to the other when raised parallel to the ground at shoulder height at a 90 degrees angle.)
 - arm length (from the shouder to the wrist)
 - index finger length (from the MCP joint to the fingertip)
 
-<img src="https://wenjietseng.github.io/images/technique-body.jpg">
+### B.4 Reposition yourself using thumb-pinky pinch
+At the beginnign of entering VR, right before entering user number, please use the thumb-pinky pinch to reposition yourself.
 
-After that, please maintain the posture in figure (a), then put on your headset then continue in VR.
+<img src="https://wenjietseng.github.io/images/reposition.png">
 
-**Important!!** Please keep the posture in (a) throughout the whole study and interaction (except for the 1-to-1 hand tracking condition) !! Try to remember to have your elbows always be in contact with your upper body. 
-
-### C.4 Reposition yourself using thumb-pinky pinch
-After reposition, please enter your user number. The user number will be sent to you after you signed up the consent form.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/f8KuTwtvuSo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-### C.5 Enter your dimensions
-Right after entering your user number, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
+### B.5 Adjust your body dimensions in VR
+Next, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/cR1VNQOkqpo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### C.6 The task
+### B.6 Tasks
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r8htFkI_NKY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Touch the white cube in front of you with the red pointer on your virtual hand (both hands can start the task).
@@ -79,13 +74,13 @@ Right after entering your user number, you need to adjust the body dimensions to
 5. To have a succeed task, you have to use the SAME arm for both green spheres. A beep sound occurs when the task succeed.
 6. For each condition, there is a practicing phase. Practice the task until you are completely comfortable with the technique. Touch the red cube to end practicing and start the formal study.
 
-### C.7 The questionnaire
+### B.7 Questionnaire
 After finishing one technique (one mapping with two layouts), there would be a questionnaire. Please fill them up as shown in the video below.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBYe3ZpFeok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### C.8 End! Send the data back
-- There are three files in this directory.
+### B.8 End! Send the data back
+- There are three files in this directory of your Quest.
 
 ```
 sdcard > android > data > com.DefaultCompany.FingerSaber >
@@ -99,15 +94,23 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 - Zip them into `"UserNo".zip`
 - <a href="https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv">Upload your `"UserNo".zip` to this LINK</a>
 
-### C.9 Avoid tracking loss
-- To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
-- Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Mym8FXqyLko" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ### Contact
 - Please contact Wen-Jie Tseng (email: wen-jie.tseng@telecom-paris.fr) if you have any further questions, email me and let me know :).
 
-### Links for the study.
+## C. Consent form and start
+- <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
+- Once I received your consent form, I will send you the user number. 
+- Download the apk (link)
+- Follow the setup an instructions in part B
+
+### Quick recap
+- remember to keep your posture
+
+### Avoid tracking loss
+- To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
+- Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.
+
+### Links for the study
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
 - <a href="https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv">Upload your `"UserNo".zip` to this LINK</a>
