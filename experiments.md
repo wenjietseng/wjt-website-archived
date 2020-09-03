@@ -43,7 +43,7 @@ Please follow the instruction to setup the study environment, thank you!
 - Remove all the possible obstructions around you.
 
 ### B.3 Body posture
-**Important!!** Please keep the posture in (a) throughout the whole study and interaction (except for the 1-to-1 hand tracking condition)!! Try to remember to have your elbows always be in contact with your upper body. 
+**Important!!** Please keep the posture in (a) throughout the whole study and interaction (except for the one-to-one hand tracking condition)!! Try to remember to have your elbows always be in contact with your upper body. 
 
 <img width="560" src="https://wenjietseng.github.io/images/technique-body.jpg">
 
@@ -54,20 +54,20 @@ Measure the following body dimensions, as shown in the figure (b).
 - index finger length (from the MCP joint to the fingertip)
 
 ### B.5 Reposition yourself using thumb-pinky pinch
-At the beginnign of entering VR, right before entering user number, please use the thumb-pinky pinch to reposition yourself.
+At the beginning of entering VR, right before entering user number, please use the thumb-pinky pinch to reposition yourself.
 
 <img width="560" src="https://wenjietseng.github.io/images/reposition.png">
 
 ### B.6 Adjust your body dimensions in VR
-(video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vdy5CAuR06o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Next, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
 
 ### B.7 Tasks
-(video)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/_mWjunNRBuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. Touch the white cube in front of you with the red pointer on your virtual hand (both hands can start the task).
-2. Two spheres turn green. Check their positions.
+2. Two spheres turn green. Check where they are.
 3. Choose one of your arm to touch one of the green sphere. The order of green sphere doesn't matter. 
 4. Once you touch the first green sphere (for example, with your left virtual hand), the green sphere you touched turns into blue.
 5. Use the same arm that you touched with the first green sphere to touch the other green sphere as fast and correct as possible.
@@ -105,14 +105,17 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 - Download the apk (link)
 - Follow the setup an instructions in part B
 
-### Quick recap
-- remember to keep your posture
+### Final remark
+- There are four techniques to test
+- Please remember to keep your posture during direct, attach, and raycasting.
+- Please check the green targets before you start to touch the first one
 
 ### Avoid tracking loss
 - To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
-- Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.
+- Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.s
 
 <img width="560" src="https://wenjietseng.github.io/images/quest-hand-tracking-guidelines.png">
+(from Oculus Quest)
 
 ### Links for the study
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
