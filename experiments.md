@@ -106,7 +106,7 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 - Follow the setup an instructions in part B
 
 ### Final remark
-- There are four techniques to test
+- There are four techniques to test: direct, attach, physical, and raycasting
 - Please remember to keep your posture during direct, attach, and raycasting.
 - Please check the green targets before you start to touch the first one
 
