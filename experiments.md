@@ -8,7 +8,19 @@ permalink: /experiments/
 Thank you for participating our study. First, I would introduce what FingerMapper does and how to interact with it. The next step would be the setup and instructions for the study. Please read all the information in part B carefully before you start the study since our study would be remote. Finally, sign up the consent form through the link in part C and download the apk. I will then send you the user number. Let's go!
 
 ## A. FingerMapper and the purpose of this Study
-FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions.
+FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions.In this study, we would like to ask you to evaluate four techniques
+
+- physical hand (baseline)
+- raycasting (baseline)
+- direct (FingerMapper)
+- attach (FingerMapper)
+
+with two different target layouts.
+
+- limits, the targets follow your body
+- world fixed layout
+
+There will be eight combinations, each has 30 tasks. After completing each technique, there would be one questionnaire. The setup time would be 30 mins, and the study time would be 50 mins.
 
 ### Four techniques
 - Physical hand: the virtual hand is your physical hand, which is the one-to-one hand tracking.
@@ -26,8 +38,6 @@ FingerMapper is a finger mapping technique that allows users to control arm inte
 - Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Our goal: We would like to ask you to evaluate four techniques with two different target layouts. There will be eight combinations, each has 30 tasks. After completing each technique, there would be one questionnaire.
 
 ## B. Study Setup
 Please follow the instruction to setup the study environment, thank you!
@@ -61,17 +71,17 @@ At the beginning of entering VR, right before entering user number, please use t
 ### B.6 Adjust your body dimensions in VR
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdy5CAuR06o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Next, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again.
+Next, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again. The last slider will adjust the width between to shoulder joint of the arm. Try to adjust the width if the arm does not align well.
 
 ### B.7 Tasks
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_mWjunNRBuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Touch the white cube in front of you with the red pointer on your virtual hand (both hands can start the task).
+1. Touch the white cube in front of you with the red pointer on your virtual hand. Both hands are allow to do so.
 2. Two spheres turn green. Check where they are.
 3. Choose one of your arm to touch one of the green sphere. The order of green sphere doesn't matter. 
-4. Once you touch the first green sphere (for example, with your left virtual hand), the green sphere you touched turns into blue.
-5. Use the same arm that you touched with the first green sphere to touch the other green sphere as fast and correct as possible.
-5. To have a succeed task, you have to use the SAME arm for both green spheres. A beep sound occurs when the task succeed.
+4. Once you touch the first green sphere with red pointer, for example, with your left virtual arm, the green sphere you touched turns into blue, and the task starts.
+5. Use the same red pointer that you touched with the first green sphere to touch the other green sphere.
+5. You have to use the SAME arm (pointer) for both green spheres. A beep sound occurs when the task completes successfully. Passing through other blue spheres does not count as error, but using wrong arm (pointer) will.
 6. For each condition, there is a practicing phase. Get 10 succeed tasks in practicing. You can also practice the task until you feel completely comfortable with the technique.
 7. Touch the red cube to end practicing and start the formal study.
 
@@ -112,7 +122,8 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 
 ### Avoid tracking loss
 - To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
-- Also, try not to occlude the physical hand. If there was occlusion, the tracking would break.s
+- Also, try not to occlude the physical hand. If there was occlusion, the tracking would breaks.
+- Move steadily and try not to move abruptly.
 
 <img width="560" src="https://wenjietseng.github.io/images/quest-hand-tracking-guidelines.png">
 (from Oculus Quest)
