@@ -20,19 +20,19 @@ There will be four conditions, each has 30 tasks. After completing each techniqu
 ### Four techniques
 - Physical hand: the virtual hand is your physical hand, which is the one-to-one hand tracking.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/VZTEbDaKN6M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tUxtt1CT49w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Raycasting: using a ray casting from your fingertip to select.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/C1O5Ngp2aAc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/SkfDhifwz5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/msqmXK2s9TI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/a_DfuJGGbWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 - Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/jJP5CqXA3hw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/k1btBwriptQ" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## B. Study Setup
 Please follow the instruction to setup the study environment, thank you!
@@ -40,8 +40,8 @@ Please follow the instruction to setup the study environment, thank you!
 ### B.1 Oculus Quest
 - <a href="https://support.oculus.com/guardian/">Set guardian as stationary.</a>
 - <a href="https://frl.nyu.edu/disable-guardian-on-the-oculus-quest/">Disable guardian in developer tab. The Quest has to be in the Developer Mode to do so.</a>
+- <a href="https://www.dropbox.com/s/bch0xiyiu02yxyh/StudyV3.apk?dl=0">Download the apk</a>
 - <a href="https://uploadvr.com/sideloading-quest-how-to/">Upload the apk by SideQuest</a>
-- Download the apk (link)
 
 ### B.2 Space
 - Find a chair and put it in the middle of an empty space.
@@ -69,7 +69,7 @@ At the beginning of entering VR, right before entering user number, please use t
 Next, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again. The last slider will adjust the width between to shoulder joint of the arm. Try to adjust the width of your shoulder to align the end point of the upper arm to your shoudler.
 
 ### B.7 Tasks
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_mWjunNRBuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/diW458xFvNk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 1. After the countdown, touch the white cube in front of you with the red pointer on your virtual hand. Both hands are allow to do so.
 2. Two spheres turn green. Check where they are.
@@ -107,7 +107,7 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 ## C. Consent form and start
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
 - Once I received your consent form, I will send you the user number. 
-- Download the apk (link)
+- <a href="https://www.dropbox.com/s/bch0xiyiu02yxyh/StudyV3.apk?dl=0">Download the apk</a>
 - Follow the setup and instructions in part B
 
 ### Final remark
@@ -116,7 +116,7 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 - Check target position before you start to touch the first one
 
 ### Avoid tracking loss
-- To avoid tracking issues with the Oculus Quest, we suggest that you can use an open hand during interaction.
+- To avoid tracking issues with the Oculus Quest, we suggest that you can use an open hand during interaction. Pointing gesture sometimes might have tracking loss.
 
 <img src="https://wenjietseng.github.io/images/handtype.jpg">
 
@@ -134,4 +134,5 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 
 ### Links for the study
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
+- <a href="https://www.dropbox.com/s/bch0xiyiu02yxyh/StudyV3.apk?dl=0">Download the apk</a>
 - <a href="https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv">Upload your `"UserNo".zip` to this LINK</a>
