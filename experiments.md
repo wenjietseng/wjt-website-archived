@@ -116,9 +116,17 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 - Check target position before you start to touch the first one
 
 ### Avoid tracking loss
-- To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
+- To avoid tracking issues with the Oculus Quest, we suggest that you can use an open hand during interaction.
+
+<img src="https://wenjietseng.github.io/images/handtype.jpg">
+
 - Also, try not to occlude the physical hand. If there was occlusion, the tracking would breaks.
 - Move steadily and do not move abruptly.
+
+- When pointing downwards too much, it sometimes causes tracking loss.
+
+<img width="560" src="https://wenjietseng.github.io/images/tracking-hands.jpg">
+
 - Keep your hands in front of and below the Quest as shown in the Figure below.
 
 <img width="560" src="https://wenjietseng.github.io/images/quest-hand-tracking-guidelines.png">
