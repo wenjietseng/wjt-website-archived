@@ -8,19 +8,14 @@ permalink: /experiments/
 Thank you for participating our study. First, I would introduce what FingerMapper does and how to interact with it. The next step would be the setup and instructions for the study. Please read all the information in part B carefully before you start the study since our study would be remote. Finally, sign up the consent form through the link in part C and download the apk. I will then send you the user number. Let's go!
 
 ## A. FingerMapper and the purpose of this Study
-FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions.In this study, we would like to ask you to evaluate four techniques
+FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions. In this study, we would like to ask you to evaluate four techniques
 
 - physical hand (baseline)
 - raycasting (baseline)
 - direct (FingerMapper)
 - attach (FingerMapper)
 
-with two different target layouts.
-
-- limits, the targets follow your body
-- world fixed layout
-
-There will be eight combinations, each has 30 tasks. After completing each technique, there would be one questionnaire. The setup time would be 30 mins, and the study time would be 50 mins.
+There will be four conditions, each has 30 tasks. After completing each technique, there would be one questionnaire. The instructions and setup time are around 30 mins, and the study time would be 30 mins.
 
 ### Four techniques
 - Physical hand: the virtual hand is your physical hand, which is the one-to-one hand tracking.
@@ -44,7 +39,7 @@ Please follow the instruction to setup the study environment, thank you!
 
 ### B.1 Oculus Quest
 - <a href="https://support.oculus.com/guardian/">Set guardian as stationary.</a>
-- <a href="https://frl.nyu.edu/disable-guardian-on-the-oculus-quest/">Disable guardian in developer tab. The Quest has to be Developer Mode.</a>
+- <a href="https://frl.nyu.edu/disable-guardian-on-the-oculus-quest/">Disable guardian in developer tab. The Quest has to be in the Developer Mode to do so.</a>
 - <a href="https://uploadvr.com/sideloading-quest-how-to/">Upload the apk by SideQuest</a>
 - Download the apk (link)
 
@@ -53,7 +48,7 @@ Please follow the instruction to setup the study environment, thank you!
 - Remove all the possible obstructions around you.
 
 ### B.3 Body posture
-**Important!!** Please keep the posture in (a) throughout the whole study and interaction (except for the one-to-one hand tracking condition)!! Try to remember to have your elbows always be in contact with your upper body. 
+**Important!!** Please keep the posture in (a) before you start each task!! Try to remember to have your elbows always be in contact with your upper body before you touch the white cube to start. 
 
 <img width="560" src="https://wenjietseng.github.io/images/technique-body.jpg">
 
@@ -64,31 +59,31 @@ Measure the following body dimensions, as shown in the figure (b).
 - index finger length (from the MCP joint to the fingertip)
 
 ### B.5 Reposition yourself using thumb-pinky pinch
-At the beginning of entering VR, right before entering user number, please use the thumb-pinky pinch to reposition yourself.
+At the beginning of entering VR, right before entering user number, please use the thumb-pinky pinch on you left hand to reposition yourself.
 
 <img width="560" src="https://wenjietseng.github.io/images/reposition.png">
 
 ### B.6 Adjust your body dimensions in VR
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vdy5CAuR06o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Next, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again. The last slider will adjust the width between to shoulder joint of the arm. Try to adjust the width if the arm does not align well.
+Next, you need to adjust the body dimensions to what you just measured. Remember to check if you can reach all the targets. If you cannot reach all targets, please reduce the arm span a little bit and try again. The last slider will adjust the width between to shoulder joint of the arm. Try to adjust the width of your shoulder to align the end point of the upper arm to your shoudler.
 
 ### B.7 Tasks
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_mWjunNRBuA" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-1. Touch the white cube in front of you with the red pointer on your virtual hand. Both hands are allow to do so.
+1. After the countdown, touch the white cube in front of you with the red pointer on your virtual hand. Both hands are allow to do so.
 2. Two spheres turn green. Check where they are.
-3. Choose one of your arm to touch one of the green sphere. The order of green sphere doesn't matter. 
-4. Once you touch the first green sphere with red pointer, for example, with your left virtual arm, the green sphere you touched turns into blue, and the task starts.
+3. Choose one of your arm to touch one of the green sphere. The order of green spheres doesn't matter. 
+4. Once you touch the first green sphere with the red pointer, for example, with your left virtual arm, the green sphere you touched turns into blue, and the task starts.
 5. Use the same red pointer that you touched with the first green sphere to touch the other green sphere.
-5. You have to use the SAME arm (pointer) for both green spheres. A beep sound occurs when the task completes successfully. Passing through other blue spheres does not count as error, but using wrong arm (pointer) will.
-6. For each condition, there is a practicing phase. Get 10 succeed tasks in practicing. You can also practice the task until you feel completely comfortable with the technique.
-7. Touch the red cube to end practicing and start the formal study.
+6. You have to use the SAME arm (pointer) for both green spheres. A beep sound occurs when the task completed successfully. Passing through other blue spheres does not count as an error, but using wrong arm (pointer) will.
+7. For each condition, there is a practicing phase. Get 10 succeed tasks in practicing then you are ready to go. You can also practice the task until you feel completely comfortable with the technique.
+8. Touch the red cube to end practicing and start the formal study.
 
 ### B.8 Questionnaire
-After finishing one technique (one mapping with two layouts), there would be a questionnaire. Please fill them up as shown in the video below.
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBYe3ZpFeok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+After finishing one technique, there would be a questionnaire. Please fill them up as shown in the video.
 
 ### B.9 End! Send the data back
 - There are three files in this directory of your Quest.
@@ -107,23 +102,24 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 
 
 ### Contact
-- Please contact Wen-Jie Tseng (email: wen-jie.tseng@telecom-paris.fr) if you have any further questions, email me and let me know :).
+- Please contact me (Wen-Jie Tseng, email: wen-jie.tseng@telecom-paris.fr) if you have any further questions, email me and let me know :).
 
 ## C. Consent form and start
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
 - Once I received your consent form, I will send you the user number. 
 - Download the apk (link)
-- Follow the setup an instructions in part B
+- Follow the setup and instructions in part B
 
 ### Final remark
 - There are four techniques to test: direct, attach, physical, and raycasting
-- Please remember to keep your posture during direct, attach, and raycasting.
-- Please check the green targets before you start to touch the first one
+- Please remember to keep starting posture before starting a task
+- Check target position before you start to touch the first one
 
 ### Avoid tracking loss
 - To avoid tracking issues with the Oculus Quest, we suggest that you use an open hand during interaction.
 - Also, try not to occlude the physical hand. If there was occlusion, the tracking would breaks.
-- Move steadily and try not to move abruptly.
+- Move steadily and do not move abruptly.
+- Keep your hands in front of and below the Quest as shown in the Figure below.
 
 <img width="560" src="https://wenjietseng.github.io/images/quest-hand-tracking-guidelines.png">
 (from Oculus Quest)
