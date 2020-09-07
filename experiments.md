@@ -10,25 +10,34 @@ Thank you for participating our study. First, I would introduce what FingerMappe
 ## A. FingerMapper and the purpose of this Study
 FingerMapper is a finger mapping technique that allows users to control arm interaction inside Virtual Reality (VR) using small finger motions. In this study, we would like to ask you to evaluate four techniques
 
-- physical hand (baseline)
-- raycasting (baseline)
-- direct (FingerMapper)
-- attach (FingerMapper)
+- physical hand
+- raycasting
+- direct
+- attach
 
-There will be four conditions, each has 30 tasks. After completing each technique, there would be one questionnaire. The instructions and setup time are around 30 mins, and the study time would be 30 mins.
+There will be four conditions, each has 30 tasks. After completing each technique, there would be one questionnaire.
+
+- go through the instructions + environment setup time ~ 30 mins
+- the study time (in VR) ~ 30 mins.
 
 ### Four techniques
 - Physical hand: the virtual hand is your physical hand, which is the one-to-one hand tracking.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/tUxtt1CT49w" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 - Raycasting: using a ray casting from your fingertip to select.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/SkfDhifwz5g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+---
+
 - Direct: the virtual arms would follow the direction of your index finger. The shape of your finger is mapped one-to-one to the bending and shape of your arm. You can control and bend the arms by simply bending your fingers.
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/a_DfuJGGbWY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 - Attach: there is a ray casting through the direction of your index finger. Bending your index finger inwards can retract the virtual hand closer to your shoulder.
 
@@ -40,7 +49,7 @@ Please follow the instruction to setup the study environment, thank you!
 ### B.1 Oculus Quest
 - <a href="https://support.oculus.com/guardian/">Set guardian as stationary.</a>
 - <a href="https://frl.nyu.edu/disable-guardian-on-the-oculus-quest/">Disable guardian in developer tab. The Quest has to be in the Developer Mode to do so.</a>
-- <a href="https://www.dropbox.com/s/bch0xiyiu02yxyh/StudyV3.apk?dl=0">Download the apk</a>
+- <a href="https://www.dropbox.com/s/1wcm1xcsr8qyhr6/StudyV4.apk?dl=0">Download the apk</a>
 - <a href="https://uploadvr.com/sideloading-quest-how-to/">Upload the apk by SideQuest</a>
 
 ### B.2 Space
@@ -48,7 +57,7 @@ Please follow the instruction to setup the study environment, thank you!
 - Remove all the possible obstructions around you.
 
 ### B.3 Body posture
-**Important!!** Please keep the posture in (a) before you start each task!! Try to remember to have your elbows always be in contact with your upper body before you touch the white cube to start. 
+**Important!!** Please keep the posture in (a) before you start each task!! Try to remember to have your elbows always be in contact with your upper body before you touch the white cube to start. This is for simulating posture for using VR in a confined space.
 
 <img width="560" src="https://wenjietseng.github.io/images/technique-body.jpg">
 
@@ -80,6 +89,8 @@ Next, you need to adjust the body dimensions to what you just measured. Remember
 7. For each condition, there is a practicing phase. Get 10 succeed tasks in practicing then you are ready to go. You can also practice the task until you feel completely comfortable with the technique.
 8. Touch the red cube to end practicing and start the formal study.
 
+Note: remember to start and complete with the same arm (pointer) for one task. Throughout the study, you are allowed to change arm for different tasks.
+
 ### B.8 Questionnaire
 <iframe width="560" height="315" src="https://www.youtube.com/embed/HBYe3ZpFeok" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -107,7 +118,7 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 ## C. Consent form and start
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
 - Once I received your consent form, I will send you the user number. 
-- <a href="https://www.dropbox.com/s/bch0xiyiu02yxyh/StudyV3.apk?dl=0">Download the apk</a>
+- <a href="https://www.dropbox.com/s/1wcm1xcsr8qyhr6/StudyV4.apk?dl=0">Download the apk</a>
 - Follow the setup and instructions in part B
 
 ### Final remark
@@ -134,5 +145,5 @@ For example: file20_frameLog.csv, file20_questionnaire.csv, file20_study.csv
 
 ### Links for the study
 - <a href="https://form.jotform.com/202294350144346">The LINK to the Consent Form</a>
-- <a href="https://www.dropbox.com/s/bch0xiyiu02yxyh/StudyV3.apk?dl=0">Download the apk</a>
+- <a href="https://www.dropbox.com/s/1wcm1xcsr8qyhr6/StudyV4.apk?dl=0">Download the apk</a>
 - <a href="https://www.dropbox.com/request/iPF583DXZ8FFwed0nJyv">Upload your `"UserNo".zip` to this LINK</a>
