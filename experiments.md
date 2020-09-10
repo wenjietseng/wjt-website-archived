@@ -49,6 +49,7 @@ Please follow the instruction to setup the study environment, thank you!
 ### B.1 Oculus Quest
 - <a href="https://support.oculus.com/guardian/">Set guardian as stationary.</a>
 - <a href="https://frl.nyu.edu/disable-guardian-on-the-oculus-quest/">Disable guardian in developer tab. The Quest has to be in the Developer Mode to do so.</a>
+- <a href="https://uploadvr.com/how-to-enable-quest-hand-tracking/">Enable hand tracking in your Oculus Quest</a>
 - <a href="https://www.dropbox.com/s/1wcm1xcsr8qyhr6/StudyV4.apk?dl=0">Download the apk</a>
 - <a href="https://uploadvr.com/sideloading-quest-how-to/">Upload the apk by SideQuest</a>
 
