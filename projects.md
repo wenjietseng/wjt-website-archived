@@ -9,7 +9,7 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
-                    <a href="http://wenjietseng.github.io/projects/SkinStrokeDisplay" class="project-title-link">
+                    <a href="https://wenjietseng.github.io/projects/SkinStrokeDisplay" class="project-title-link">
                     A Skin-Stroke Display on the Eye-Ring Through Head-Mounted Displays</a>
                 </h4>
             </td>
@@ -17,7 +17,7 @@ permalink: /projects/
             <td width="150px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="project-img" href="http://wenjietseng.github.io/projects/SkinStrokeDisplay">
+                    <a class="project-img" href="https://wenjietseng.github.io/projects/SkinStrokeDisplay">
                     <img src="https://wenjietseng.github.io/images/skin-stroke.jpg">
                     </a>
                     </span>
@@ -38,7 +38,7 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
-                    <a href="http://wenjietseng.github.io/projects/FaceWidgets" class="project-title-link">
+                    <a href="https://wenjietseng.github.io/projects/FaceWidgets" class="project-title-link">
                     FaceWidgets: Exploring Tangible Interaction on Face with Head-Mounted Displays</a>
                 </h4>
             </td>
@@ -46,7 +46,7 @@ permalink: /projects/
             <td width="150px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
+                    <a class="project-img" href="https://wenjietseng.github.io/projects/FaceWidgets">
                     <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
                     </a>
                     </span>
@@ -67,7 +67,7 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
-                    <a href="http://wenjietseng.github.io/projects/FacePush" class="project-title-link">
+                    <a href="https://wenjietseng.github.io/projects/FacePush" class="project-title-link">
                     FacePush: Introducing Normal Force on Face with Head-Mounted Displays</a>
                 </h4>
             </td>
@@ -75,7 +75,7 @@ permalink: /projects/
             <td width="150px" valign="middle" background-color="#fdfdfd">
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
+                    <a class="project-img" href="https://wenjietseng.github.io/projects/FacePush">
                     <img src="https://wenjietseng.github.io/images/facepush.png">
                     </a>
                     </span>
@@ -95,7 +95,7 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
-                    <a class="project-title-link" href="http://wenjietseng.github.io/projects/npmFishing">
+                    <a class="project-title-link" href="https://wenjietseng.github.io/projects/npmFishing">
                     NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</a>
                 </h4>
             </td>
@@ -103,7 +103,7 @@ permalink: /projects/
             <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="project-img" href="http://wenjietseng.github.io/projects/npmFishing">
+                    <a class="project-img" href="https://wenjietseng.github.io/projects/npmFishing">
                     <img src="https://wenjietseng.github.io/images/fisherman-thumb.png">
                     </a>
                     </span>
@@ -122,14 +122,14 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
-                    <a class="project-title-link" href="http://wenjietseng.github.io/projects/food4u"> FoodForYou: Sharing Surplus Food Efficiently with the Community Nearby</a>
+                    <a class="project-title-link" href="https://wenjietseng.github.io/projects/food4u"> FoodForYou: Sharing Surplus Food Efficiently with the Community Nearby</a>
                 </h4>
             </td>
         </tr>
             <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="project-img" href="http://wenjietseng.github.io/projects/food4u">
+                    <a class="project-img" href="https://wenjietseng.github.io/projects/food4u">
                     <img src="https://wenjietseng.github.io/images/food-for-u.png">
                     </a>
                     </span>
@@ -149,7 +149,7 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
-                    <a class="project-title-link" href="http://wenjietseng.github.io/projects/ShinyStats">
+                    <a class="project-title-link" href="https://wenjietseng.github.io/projects/ShinyStats">
                     Creating Shiny Applications for Teaching Statistical Concepts</a>
                 </h4>
             </td>
@@ -157,7 +157,7 @@ permalink: /projects/
             <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="project-img" href="http://wenjietseng.github.io/projects/ShinyStats">
+                    <a class="project-img" href="https://wenjietseng.github.io/projects/ShinyStats">
                     <img src="https://wenjietseng.github.io/images/sdt-thumb.png">
                     </a>
                     </span>
@@ -177,7 +177,7 @@ permalink: /projects/
         <tr>
             <td width="900px" colspan="3" valign="top">
                 <h4>
-                    <a class="project-title-link" href="http://wenjietseng.github.io/projects/zombie">
+                    <a class="project-title-link" href="https://wenjietseng.github.io/projects/zombie">
                     Zombie Game with Haptic Feedback - IDVR 2017</a>
                 </h4>
             </td>
@@ -185,7 +185,7 @@ permalink: /projects/
             <td width="150px" valign="middle" >
                 <div class="img">
                     <span class="noborderimg">
-                    <a class="project-img" href="http://wenjietseng.github.io/projects/zombie">
+                    <a class="project-img" href="https://wenjietseng.github.io/projects/zombie">
                     <img src="https://wenjietseng.github.io/images/zombie-thumb.png">
                     </a>
                     </span>

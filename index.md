@@ -7,7 +7,7 @@ layout: home
 <center>
 <div class="img">
 <span class="noborderimg">
-<a class="project-img" href="http://wenjietseng.github.io/about/">
+<a class="project-img" href="https://wenjietseng.github.io/about/">
     <img src="https://wenjietseng.github.io/images/me-berlin3.JPG" width="220">
 </a>
 </span>
@@ -18,7 +18,7 @@ layout: home
 <h1>Selected Publications</h1>
 <div style="display: inline-block;">
 <span class="noborderimg">
-<a class="project-img" href="http://wenjietseng.github.io/projects/SkinStrokeDisplay">
+<a class="project-img" href="https://wenjietseng.github.io/projects/SkinStrokeDisplay">
 <img src="https://wenjietseng.github.io/images/skin-stroke2.jpg">
 </a>
 </span>
@@ -31,7 +31,7 @@ layout: home
 <!-- <ul style="list-style-type: none; margin-left: 0px;"> -->
 <!-- <li> -->
 <span class="noborderimg" >
-<a class="project-img" href="http://wenjietseng.github.io/projects/FaceWidgets">
+<a class="project-img" href="https://wenjietseng.github.io/projects/FaceWidgets">
 <img src="https://wenjietseng.github.io/images/facewidgets.JPG">
 </a>
 </span>
@@ -44,7 +44,7 @@ layout: home
 </div>
 <div style="display: inline-block;">
 <span class="noborderimg">
-<a class="project-img" href="http://wenjietseng.github.io/projects/FacePush">
+<a class="project-img" href="https://wenjietseng.github.io/projects/FacePush">
 <img src="https://wenjietseng.github.io/images/facepush.png">
 </a>
 </span>
