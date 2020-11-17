@@ -18,8 +18,8 @@ email: wen-jie.tseng@telecom-paris.fr
 # description: #>- # this means to ignore newlines until "baseurl:"
 #   Welcome to Wen-Jie's homepage!
 baseurl: # the subpath of your site, e.g. /blog
-url: https://www.wenjietseng.com #"http://wenjietseng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-enforce_ssl: www.wenjietseng.com
+url: https://wenjietseng.com #"http://wenjietseng.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+enforce_ssl: wenjietseng.com
 # twitter_username: wenjie_tseng
 github_username:  wenjietseng
 # linkedin_username: wen-jie-tseng-126510113
