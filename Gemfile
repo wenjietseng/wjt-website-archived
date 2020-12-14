@@ -9,7 +9,7 @@ group :jekyll_plugins do
     gem 'jekyll-twitter-plugin'
     gem 'jemoji'
     gem 'unicode_utils'
-    # gem 'bibtex-ruby', '>= 5.1.0'
+    # gem "bibtex-ruby", ">= 5.1.0"
     gem 'kramdown', '>= 2.3.0'
     # gem 'yajl-ruby', '>= 1.3.1'
     # gem 'RedCloth', '>= 4.3.0'

@@ -62,8 +62,8 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: work logs # your blog must have a name for it to show up in the nav bar
-blog_description: about my phd and my life in Paris
+blog_name: phd logs # your blog must have a name for it to show up in the nav bar
+blog_description: #about my phd and my life in Paris
 permalink: /blog/:year/:title/
 
 # Pagination
