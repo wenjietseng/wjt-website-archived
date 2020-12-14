@@ -15,9 +15,9 @@ footer_text: >
 
 # Photos from <a href="https://unsplash.com" target="_blank">Unsplash</a>.
 
-url: https://wenjietseng.com # the base hostname & protocol for your site
-enforce_ssl: wenjietseng.com
+url: # the base hostname & protocol for your site
 baseurl: # the subpath of your site, e.g. /blog/
+enforce_ssl: wenjietseng.com
 last_updated: true # set to true if you want to display last updated in the footer
 
 # -----------------------------------------------------------------------------
