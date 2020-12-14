@@ -1,0 +1,85 @@
+---
+layout: default
+---
+
+<div class="post">
+
+  <header class="post-header">
+    <h1 class="post-title">
+     {% if site.title == blank %}{{ site.title }}{% else %}<span class="font-weight-bold">{{ site.first_name }}</span> {{ site.middle_name }}  {{ site.last_name }}{% endif %}
+    </h1>
+     <p class="desc">{{ page.description }}</p>
+  </header>
+
+  <article>
+    {% if page.profile %}
+    <div class="profile float-{% if page.profile.align == 'left' %}left{% else %}right{% endif %}">
+      {% if page.profile.image %}
+        <img class="img-fluid z-depth-1 rounded" src="{{ page.profile.image | prepend: '/assets/img/' | relative_url }}">
+      {% endif %}
+      {% if page.profile.address %}
+        <div class="address">
+          {{ page.profile.address }}
+        </div>
+      {% endif %}
+    </div>
+    {% endif %}
+
+    <div class="clearfix">
+      {{ content }}
+    </div>
+
+    {% if page.selected_papers %}
+      {% include selected_papers.html %}
+      {% comment %} <center> {% endcomment %}
+        <div style="display: inline-block;">
+        <span class="noborderimg">
+        <a class="project-img" href="https://wenjietseng.github.io/projects/SkinStrokeDisplay">
+        <img style="border-radius: 10px;" src="assets/img/skin-stroke2.jpg">
+        </a>
+        </span>
+        <span>
+        <center>Skin-Stroke Display</center>
+        <center>CHI 2020</center>
+        </span>
+        </div>
+
+        <div style="display: inline-block;">
+        <span class="noborderimg" >
+        <a class="project-img" href="https://wenjietseng.github.io/projects/FaceWidgets">
+        <img style="border-radius: 10px;" src="assets/img/facewidgets.JPG">
+        </a>
+        </span>
+        <span>
+        <center>FaceWidgets</center>
+        <center>UIST 2019</center>
+        </span>
+        </div>
+
+        <div style="display: inline-block;">
+        <span class="noborderimg">
+        <a class="project-img" href="https://wenjietseng.github.io/projects/FacePush">
+        <img style="border-radius: 10px;" src="assets/img/facepush.png">
+        </a>
+        </span>
+        <span>
+        <center>FacePush</center>
+        <center>UIST 2018</center>
+        </span>
+        </div>
+      {% comment %} </center> {% endcomment %}
+    {% endif %}
+
+    {% if page.news %}
+      {% include news.html %}
+    {% endif %}
+
+    {% if page.social %}
+    <div class="social">
+      {% include social.html %}
+      <div class="contact-note">{{ site.contact_note }}</div>
+    </div>
+    {% endif %}
+  </article>
+
+</div>
