@@ -1,13 +1,13 @@
 ---
 layout: page
 title: shiny & stats
-# description: Creating Shiny Applications for Teaching Statistical Concepts
+description: 2015
 img: /assets/img/sdt-thumb.png
 importance: 2
 ---
 <h3><b>Creating Shiny Applications for Teaching Statistical Concepts</b></h3>
 
-<img src="https://wenjietseng.github.io/images/sdt.png">
+<img src="https://wenjietseng.github.io/assets/img/sdt.png">
 
 <br>
 <p>

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Zombie VR
-# description: Zombie Game with Haptic Feedback - IDVR 2017
+description: 2017
 img: /assets/img/zombie-thumb.png
 importance: 3
 ---
@@ -12,13 +12,13 @@ importance: 3
 <p>
 Giving haptic feedback to VR users becomes a very popular idea for VR gaming. In this project, we implement two prototypes to generate haptic feedback for a VR zombie shooting game. The first one is a vest with eight vibrators, which vibrate in a circulation while the player gets hurt.
 </p>
-<img width="400" src="https://wenjietseng.github.io/images/zombie-vest.png">
+<img width="400" src="https://wenjietseng.github.io/assets/img/zombie-vest.png">
 
 <p>
 The second protype contains a fan and a spray. It combines two feedback to simulate the gust in the VR dungeon. The outlook and 3D models are shown as follows. We use a servo motor to press the spray.
 </p>
-<img height="400" src="https://wenjietseng.github.io/images/zombie-gust.png">
-<img height="400" src="https://wenjietseng.github.io/images/zombie-gust3dmodel.png">
+<img height="400" src="https://wenjietseng.github.io/assets/img/zombie-gust.png">
+<img height="400" src="https://wenjietseng.github.io/assets/img/zombie-gust3dmodel.png">
 
 
 <h4><b>Teammates</b></h4>

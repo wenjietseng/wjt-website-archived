@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FoodForYou
-# description: Sharing Surplus Food Efficiently with the Community Nearby
+description: 2018
 img: /assets/img/food-for-u.png
 importance: 3
 ---

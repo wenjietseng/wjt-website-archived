@@ -1,7 +1,7 @@
 ---
 layout: page
 title: FacePush
-# description: Introducing Normal Force on Face with Head-Mounted Displays
+description: 2018 UIST
 img: /assets/img/facepush.png
 importance: 1
 ---
@@ -14,6 +14,6 @@ This paper presents FacePush, a Head-Mounted Display (HMD) integrated with a pul
 [<a href="https://dl.acm.org/citation.cfm?id=3242588">UIST '18 paper</a>]
 <br>
 
-<img src="https://wenjietseng.github.io/images/SA-Tokyo.jpg">
+<img src="https://wenjietseng.github.io/assets/img/SA-Tokyo.jpg">
 <p>Emerging Technology Demo, Siggraph Asia, 2018. [<a href="https://dl.acm.org/citation.cfm?id=3275480">
 SIGGRAPH Asia '18 paper</a>]</p>
