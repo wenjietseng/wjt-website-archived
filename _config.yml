@@ -63,7 +63,7 @@ google_analytics: UA-XXXXXXXXX # out your google-analytics code
 # -----------------------------------------------------------------------------
 
 blog_name: wj_domain # your blog must have a name for it to show up in the nav bar
-blog_description: One sentence is good for a day.
+blog_description: A sentence was a good day. - Daniel Kahneman
 permalink: /blog/:year/:title/
 
 # Pagination
