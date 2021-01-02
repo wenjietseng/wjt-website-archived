@@ -9,3 +9,5 @@ There is a bug report on the GitHub of al-folio, which said Blog post is not sho
 https://github.com/alshedivat/al-folio/issues/150
 
 How to solve it?
+
+*After some trial and error*, it turns out to be the branch. Use `deploy --user` and update the source branch.
