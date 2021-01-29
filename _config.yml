@@ -8,7 +8,7 @@ first_name: Wen-Jie
 last_name: Tseng
 email: wen-jie.tseng@telecom-paris.fr
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  Un thésard vient de Taiwan.
+  Un thésard vient de Taiwan et fait des recherches sur l'interaction homme-machine.
 footer_text: >
   Powered by <a href="http://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
