@@ -11,7 +11,7 @@ Then M, J and I went to a galette des rois meetup, held by the group of A, St an
 
 The rest of Thursday and Friday were still good because S and J and I had many discussions. In the Friday's evening, J and I drank beer together. We talked a lot about grants and phd. In fact, although my position only has three years (plus one LOL), it is more free if we compared to other phd students. I should use it well.
 
-This makes me start to rethink my problem. Why I was feeling bad about Covid and getting lost in my first year? I think it is because the situation so far is not a phd student will usually have. I hoped it's a normal one, but it will never be. Every time I think of this covid stuff, I got the same bad feelings again. 
+This makes me start to rethink my problem. Why I was feeling bad about Covid and getting lost in my first year? I think it is because the situation so far is not a phd student will usually have. I hoped it's a normal one, but it will never be. Every time I think of this covid stuff, I got the same bad feelings again.
 
 Perhaps the only thing I can do is to use my time well. Stop wasting time and do more things. Learn new stuff, work on the current project carefully and explore others. After all, my job is to create new knowledge, no matter what.
 
