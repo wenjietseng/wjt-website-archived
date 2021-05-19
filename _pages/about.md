@@ -24,11 +24,6 @@ Mixed Reality provides interactions that are out of the screen and display. In p
 
 <p>Previously, I worked as a research assistant at NCTU, Taiwan. My research projects explore integrating haptic outputs or input with VR Head-Mounted Displays. Please have a look at my <a href="/projects/">Projects</a> and <a href="assets/pdf/2021_CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
 
-
-
-
-
-
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
