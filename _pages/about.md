@@ -22,7 +22,7 @@ Mixed Reality provides interactions that are out of the screen and display. In p
 
 <!-- <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW">Google Scholar</a>, <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie">dblp</a> -->
 
-<p>Previously, I worked as a research assistant at NCTU, Taiwan. My research projects explore integrating haptic outputs or input with VR Head-Mounted Displays. Please have a look at my <a href="/projects/">Projects</a> and <a href="assets/pdf/2020_CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
+<p>Previously, I worked as a research assistant at NCTU, Taiwan. My research projects explore integrating haptic outputs or input with VR Head-Mounted Displays. Please have a look at my <a href="/projects/">Projects</a> and <a href="assets/pdf/2021_CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
 
 
 
