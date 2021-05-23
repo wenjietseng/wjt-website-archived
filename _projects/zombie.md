@@ -2,7 +2,7 @@
 layout: page
 title: Zombie VR
 description: 2017
-img: /assets/img/zombie-thumb.png
+img: /assets/img/zombie-thumb2.png
 importance: 3
 ---
 <h3><b>Zombie Game with Haptic Feedback - IDVR 2017</b></h3>

@@ -2,8 +2,8 @@
 layout: page
 title: shiny & stats
 description: 2015
-img: /assets/img/sdt-thumb.png
-importance: 2
+img: /assets/img/sdt-thumb2.png
+importance: 3
 ---
 <h3><b>Creating Shiny Applications for Teaching Statistical Concepts</b></h3>
 

@@ -2,7 +2,7 @@
 layout: page
 title: Skin-Stroke
 description: 2020 CHI
-img: /assets/img/skin-stroke.jpg
+img: /assets/img/skin-stroke2.jpg
 importance: 1
 ---
 <h3><b>A Skin-Stroke Display on the Eye-Ring Through Head-Mounted Displays</b></h3>
