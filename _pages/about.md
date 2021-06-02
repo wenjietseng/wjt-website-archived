@@ -18,12 +18,13 @@ social: true  # includes social icons at the bottom of the page
 ---
 Hi, my name is Wen-Jie Tseng. I am a Ph.D. student in <a href="https://diva.telecom-paristech.fr/">DIVA Group</a> at T&eacute;l&eacute;com Paris. My research interest lies in Human-Computer Interaction (HCI), Mixed Reality (VR & AR), and Cognitive Psychology.
 
-Mixed Reality provides interactions that are out of the screen and display. In practice, however, many failures happened when using MR technologies (e.g., falling over, colliding with people or environments). I am particularly interested in why and how people are making these errors. To investigate these phenomenons, I create research prototypes and conduct behaviral experiments. <!-- I am also interested in using computational methods create models for designing interaction or understanding data. -->  
+Currently, I focus on VR fails where people in VR colliding with furniture, falling over, hitting spectators, and experiencing excessive reactions. I am particularly interested in understanding why VR users are making these incidents and how we can design interaction techniques or systems to enforce users doing them to improve and suggest future VR safety mechanisms. My skills are creating prototypes and conducting behavioral experiments to investigate these research questions and phenomena.
+<!-- I am also interested in using computational methods create models for designing interaction or understanding data. -->  
 
-<!-- <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW">Google Scholar</a>, <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie">dblp</a> -->
 
 <p>Previously, I worked as a research assistant at NCTU, Taiwan. My research projects explore integrating haptic outputs or input with VR Head-Mounted Displays. Please have a look at my <a href="/projects/">Projects</a> and <a href="assets/pdf/2021_CV_Wen_Jie_Tseng.pdf">CV</a>.</p>
 
+<!-- <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW">Google Scholar</a>, <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie">dblp</a> -->
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
 Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
