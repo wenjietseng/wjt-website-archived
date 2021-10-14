@@ -6,7 +6,7 @@ description: # <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: me-berlin2.JPG
+  image: # me-berlin2.JPG
   address: >
 #    <p>555 your office number</p>
 #    <p>123 your address street</p>
