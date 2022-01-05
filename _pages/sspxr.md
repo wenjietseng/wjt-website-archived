@@ -55,44 +55,46 @@ The tentative schedule for the workshop is as follows:
 
 ### Organizers:
 
-| :---: | --- |
-| ![image](https://wenjietseng.github.io/assets/img/sspxr-jan.jpg){: width="400px"} | **Jan Gugenheimer** <br> Jan Gugenheimer ([www.gugenheimer.com](https://www.gugenheimer.com)) is an Assistant Professor at the Institute Polytechnique de Paris. His research focuses around upcoming social challenges for mixed reality technology and how to embed HMDs into the fabric of our daily lives. |
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-jan.jpg) | **Jan Gugenheimer** <br> Jan Gugenheimer ([www.gugenheimer.com](https://www.gugenheimer.com)) is an Assistant Professor at the Institute Polytechnique de Paris. His research focuses around upcoming social challenges for mixed reality technology and how to embed HMDs into the fabric of our daily lives. |
 
-
-<!-- style="float: left" -->
+<!-- style="float: left" {: width="300px"}  -->
 ***
 
-Wen-Jie Tseng ([www.wenjietseng.com](https://www.wenjietseng.com)) is a 2nd year PhD student at Telecom Paris, Institute Polytechnique de Paris. His research explores safety issues in XR, particularly focusing on physical harm in VR.
-
-***
-
-Abraham Mhaidli ([mhaidli.github.io](https://mhaidli.github.io/)) is a PhD Candidate at the School of Information at the University of Michigan. His research explores ethical issues in Extended Reality (XR) contexts, with a particular focus on XR advertising.
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-wj.jpg) | **Wen-Jie Tseng** <br> Wen-Jie Tseng ([www.wenjietseng.com](https://www.wenjietseng.com)) is a 2nd year PhD student at Telecom Paris, Institute Polytechnique de Paris. His research explores safety issues in XR, particularly focusing on physical harm in VR. |
 
 ***
 
-Jan-Ole Rixen ([www.uni-ulm.de/in/mi/institut/mitarbeiter/jan-rixen/](https://www.uni-ulm.de/in/mi/institut/mitarbeiter/jan-rixen/)) is a 3rd year PhD student at Ulm University in Germany. His research focuses on exploring how the introduction of XR and the ability to augment people can impact interpersonal communication.
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-mhaidli.jpg) | **Abraham Mhaidli** <br> Abraham Mhaidli ([mhaidli.github.io](https://mhaidli.github.io/)) is a PhD Candidate at the School of Information at the University of Michigan. His research explores ethical issues in Extended Reality (XR) contexts, with a particular focus on XR advertising. |
 
 ***
 
-Mark McGill ([www.markmcgill.co.uk](https://www.markmcgill.co.uk)) is a lecturer (assistant professor) in the School of Computing Science at the University of Glasgow. His research explores the future of XR productivity (e.g. virtual workspaces, ergonomics, augmented peripherals) and XR-enabled passenger experiences.
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-uulm-rixen.jpg) | **Jan-Ole Rixen** <br> Jan-Ole Rixen ([www.uni-ulm.de/in/mi/institut/mitarbeiter/jan-rixen/](https://www.uni-ulm.de/in/mi/institut/mitarbeiter/jan-rixen/)) is a 3rd year PhD student at Ulm University in Germany. His research focuses on exploring how the introduction of XR and the ability to augment people can impact interpersonal communication. |
 
 ***
 
-
-Michael Nebeling ([www.michael-nebeling.de](http://www.michael-nebeling.de)) is an Assistant Professor at the University of Michigan. In his prior research, he developed novel XR prototyping methods and tools with the goal of empowering novice XR content creators. In his current work, he studies how to best guide XR designers in creating safe and inclusive XR experiences.
-
-***
-
-
-Mohamed Khamis ([www.mkhamis.com](http://www.mkhamis.com)) is an Assistant Professor at the University of Glasgow. His research is at the intersection of Human-Computer Interaction and Security. He is interested in understanding the privacy, security and ethical challenges in XR and proposing novel solutions to mitigate said challenges. 
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-MarkMcGill.jpg) | **Mark McGill** <br> Mark McGill ([www.markmcgill.co.uk](https://www.markmcgill.co.uk)) is a lecturer (assistant professor) in the School of Computing Science at the University of Glasgow. His research explores the future of XR productivity (e.g. virtual workspaces, ergonomics, augmented peripherals) and XR-enabled passenger experiences. |
 
 ***
 
-
-Florian Schaub ([www.si.umich.edu/people/florian-schaub](https://www.si.umich.edu/people/florian-schaub)) is an Assistant Professor at the University of Michigan. His research is at the intersection of privacy, security, human-computer interaction, and public policy. He is interested in understanding the privacy and safety implications of emerging technologies such as XR and advance human-centric solutions for safe user experiences.
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-mn2020.jpg) | **Michael Nebeling** <br> Michael Nebeling ([www.michael-nebeling.de](http://www.michael-nebeling.de)) is an Assistant Professor at the University of Michigan. In his prior research, he developed novel XR prototyping methods and tools with the goal of empowering novice XR content creators. In his current work, he studies how to best guide XR designers in creating safe and inclusive XR experiences. |
 
 ***
 
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-mohamed.jpg) | **Mohamed Khamis** <br> Mohamed Khamis ([www.mkhamis.com](http://www.mkhamis.com)) is an Assistant Professor at the University of Glasgow. His research is at the intersection of Human-Computer Interaction and Security. He is interested in understanding the privacy, security and ethical challenges in XR and proposing novel solutions to mitigate said challenges.  |
 
-Sanchari Das ([www.drsancharidas.com](https://www.drsancharidas.com/)) is an Assistant Professor at the department of Computer Science in the Ritchie School of Engineering and Computer Science at University of Denver. Her research lab - Security and Privacy Research in New-Age Technology (SPRINT) focuses on computer security, privacy, education, human-computer interaction, social computing, accessibility, and sustainability of new-age technologies.
+***
 
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-schaub_florian.jpg) | **Florian Schaub** <br> Florian Schaub ([www.si.umich.edu/people/florian-schaub](https://www.si.umich.edu/people/florian-schaub)) is an Assistant Professor at the University of Michigan. His research is at the intersection of privacy, security, human-computer interaction, and public policy. He is interested in understanding the privacy and safety implications of emerging technologies such as XR and advance human-centric solutions for safe user experiences. |
+
+***
+
+| --- | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-sanchari.jpg) | **Sanchari Das** <br> Sanchari Das ([www.drsancharidas.com](https://www.drsancharidas.com/)) is an Assistant Professor at the department of Computer Science in the Ritchie School of Engineering and Computer Science at University of Denver. Her research lab - Security and Privacy Research in New-Age Technology (SPRINT) focuses on computer security, privacy, education, human-computer interaction, social computing, accessibility, and sustainability of new-age technologies. |
