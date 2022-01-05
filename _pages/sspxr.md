@@ -55,43 +55,43 @@ The tentative schedule for the workshop is as follows:
 
 ### Organizers:
 
-<div class="table-project">
-<table width="900px" cellpadding="0" cellspacing="0">
-    <tbody>
-        <tr>
-        </tr>
-            <td width="150px" valign="middle" background-color="#fdfdfd">
-                <div class="img">
-                    <span class="noborderimg">
-                    <a class="project-img" href="https://wenjietseng.github.io/projects/SkinStrokeDisplay">
-                    <img src="https://wenjietseng.github.io/assets/img/sspxr-jan.jpg">
-                    </a>
-                    </span>
-                </div>
-            </td>
-            <td width="750px" valigh="middle" >
-            Jan Gugenheimer ([www.gugenheimer.com](https://www.gugenheimer.com)) is an Assistant Professor at the Institute Polytechnique de Paris. His research focuses around upcoming social challenges for mixed reality technology and how to embed HMDs into the fabric of our daily lives. 
-            </td>
-        <tr>
-        </tr>
-    </tbody>
-</table>
-</div>
+![image](https://wenjietseng.github.io/assets/img/sspxr-jan.jpg){: style="float: left" height="100"}
 
+Jan Gugenheimer ([www.gugenheimer.com](https://www.gugenheimer.com)) is an Assistant Professor at the Institute Polytechnique de Paris. His research focuses around upcoming social challenges for mixed reality technology and how to embed HMDs into the fabric of our daily lives.
+
+***
 
 Wen-Jie Tseng ([www.wenjietseng.com](https://www.wenjietseng.com)) is a 2nd year PhD student at Telecom Paris, Institute Polytechnique de Paris. His research explores safety issues in XR, particularly focusing on physical harm in VR.
 
+***
+
 Abraham Mhaidli ([mhaidli.github.io](https://mhaidli.github.io/)) is a PhD Candidate at the School of Information at the University of Michigan. His research explores ethical issues in Extended Reality (XR) contexts, with a particular focus on XR advertising.
+
+***
 
 Jan-Ole Rixen ([www.uni-ulm.de/in/mi/institut/mitarbeiter/jan-rixen/](https://www.uni-ulm.de/in/mi/institut/mitarbeiter/jan-rixen/)) is a 3rd year PhD student at Ulm University in Germany. His research focuses on exploring how the introduction of XR and the ability to augment people can impact interpersonal communication.
 
+***
+
 Mark McGill ([www.markmcgill.co.uk](https://www.markmcgill.co.uk)) is a lecturer (assistant professor) in the School of Computing Science at the University of Glasgow. His research explores the future of XR productivity (e.g. virtual workspaces, ergonomics, augmented peripherals) and XR-enabled passenger experiences.
+
+***
+
 
 Michael Nebeling ([www.michael-nebeling.de](http://www.michael-nebeling.de)) is an Assistant Professor at the University of Michigan. In his prior research, he developed novel XR prototyping methods and tools with the goal of empowering novice XR content creators. In his current work, he studies how to best guide XR designers in creating safe and inclusive XR experiences.
 
+***
+
+
 Mohamed Khamis ([www.mkhamis.com](http://www.mkhamis.com)) is an Assistant Professor at the University of Glasgow. His research is at the intersection of Human-Computer Interaction and Security. He is interested in understanding the privacy, security and ethical challenges in XR and proposing novel solutions to mitigate said challenges. 
 
+***
+
+
 Florian Schaub ([www.si.umich.edu/people/florian-schaub](https://www.si.umich.edu/people/florian-schaub)) is an Assistant Professor at the University of Michigan. His research is at the intersection of privacy, security, human-computer interaction, and public policy. He is interested in understanding the privacy and safety implications of emerging technologies such as XR and advance human-centric solutions for safe user experiences.
+
+***
+
 
 Sanchari Das ([www.drsancharidas.com](https://www.drsancharidas.com/)) is an Assistant Professor at the department of Computer Science in the Ritchie School of Engineering and Computer Science at University of Denver. Her research lab - Security and Privacy Research in New-Age Technology (SPRINT) focuses on computer security, privacy, education, human-computer interaction, social computing, accessibility, and sustainability of new-age technologies.
 
