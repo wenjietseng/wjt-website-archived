@@ -6,7 +6,7 @@ description: Novel Challenges of Safety, Security and Privacy in Extended Realit
 nav: true
 ---
 
-# Novel Challenges of Safety, Security and Privacy in ExtendedReality (CHI 2022 Workshop)
+# Novel Challenges of Safety, Security and Privacy in Extended Reality (CHI 2022 Workshop)
 
 ## questions ...
 
@@ -55,10 +55,11 @@ The tentative schedule for the workshop is as follows:
 
 ### Organizers:
 
-![image](https://wenjietseng.github.io/assets/img/sspxr-jan.jpg){: style="float: left" height="100"}
+| :---: | --- |
+| ![image](https://wenjietseng.github.io/assets/img/sspxr-jan.jpg){: width="400px"} | **Jan Gugenheimer** <br> Jan Gugenheimer ([www.gugenheimer.com](https://www.gugenheimer.com)) is an Assistant Professor at the Institute Polytechnique de Paris. His research focuses around upcoming social challenges for mixed reality technology and how to embed HMDs into the fabric of our daily lives. |
 
-Jan Gugenheimer ([www.gugenheimer.com](https://www.gugenheimer.com)) is an Assistant Professor at the Institute Polytechnique de Paris. His research focuses around upcoming social challenges for mixed reality technology and how to embed HMDs into the fabric of our daily lives.
 
+<!-- style="float: left" -->
 ***
 
 Wen-Jie Tseng ([www.wenjietseng.com](https://www.wenjietseng.com)) is a 2nd year PhD student at Telecom Paris, Institute Polytechnique de Paris. His research explores safety issues in XR, particularly focusing on physical harm in VR.
