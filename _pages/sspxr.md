@@ -13,6 +13,7 @@ nav: true
 ##### What thical issues will arise, when the digital world is permanently in the eye sight of the users? -->
 
 ![image](https://wenjietseng.github.io/assets/img/sspxr-test.jpg)
+[Refs of the teaser](https://commons.wikimedia.org/wiki/File:Samsung%27s_Virtual_Reality_MWC_2016_Press_Conference_(26666393696).jpg)
 
 #### About
 
