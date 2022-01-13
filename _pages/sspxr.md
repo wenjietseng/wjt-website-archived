@@ -209,7 +209,8 @@ Prof. Dr. Franziska Roesner
 <tbody>
 <tr>
 <td markdown="span">![image](https://wenjietseng.github.io/assets/img/sspxr-sanchari.jpg)</td>
-<td markdown="span">**Sanchari Das** <br> Sanchari Das ([www.drsancharidas.com](https://www.drsancharidas.com/)) is an Assistant Professor at the department of Computer Science in the Ritchie School of Engineering and Computer Science at University of Denver. Her research lab - Security and Privacy Research in New-Age Technology (SPRINT) focuses on computer security, privacy, education, human-computer interaction, social computing, accessibility, and sustainability of new-age technologies.</td>
+<td markdown="span">**Sanchari Das** <br> Sanchari Das ([www.drsancharidas.com](https://www.drsancharidas.com/)) is an Assistant Professor at the University of Denver (Computer Science). Her research lab - Inclusive Security and Privacy - focused Innovative Research in Information Technology (InSPIRIT) focuses on enhancing privacy and security for Online Communication and Devices including IoT, AR/VR/MR, and others.
+</td>
 </tr>
 </tbody>
 </table>
