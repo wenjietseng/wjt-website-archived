@@ -77,7 +77,18 @@ The tentative schedule for the workshop is as follows:
 
 **Title: Security and Privacy for Extended Reality: The Next 10 Years**
 
-![image](https://wenjietseng.github.io/assets/img/franzi2.jpg)
+<table>
+<colgroup>
+<col width="20%" />
+<col width="80%" />
+</colgroup>
+<tbody>
+<tr>
+<td markdown="span">![image](https://wenjietseng.github.io/assets/img/franzi2.jpg)</td>
+<td markdown="span"></td>
+</tr>
+</tbody>
+</table>
 
 **Bio:** Franziska (Franzi) Roesner is an Associate Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where she co-directs the Security and Privacy Research Lab. Her research focuses broadly on computer security and privacy for end users of existing and emerging technologies. Her work has studied topics including online tracking and advertising, security and privacy for sensitive user groups, security and privacy in emerging augmented reality (AR) and IoT platforms, and online mis/disinformation. She is the recipient of a Consumer Reports Digital Lab Fellowship, an MIT Technology Review "Innovators Under 35" Award, an Emerging Leader Alumni Award from the University of Texas at Austin, a Google Security and Privacy Research Award, and an NSF CAREER Award. She serves on the USENIX Security and USENIX Enigma Steering Committees. She received her PhD from the University of Washington in 2014 and her BS from UT Austin in 2008. Her website is at [www.franziroesner.com](https://www.franziroesner.com).
 
