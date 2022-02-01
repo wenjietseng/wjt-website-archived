@@ -13,7 +13,7 @@ nav: true
 ##### What thical issues will arise, when the digital world is permanently in the eye sight of the users? -->
 
 ![image](https://wenjietseng.github.io/assets/img/sspxr-test.jpg)
-[Refs of the teaser](https://commons.wikimedia.org/wiki/File:Samsung%27s_Virtual_Reality_MWC_2016_Press_Conference_(26666393696).jpg)
+[Source](https://commons.wikimedia.org/wiki/File:Samsung%27s_Virtual_Reality_MWC_2016_Press_Conference_(26666393696).jpg)
 
 #### About
 
@@ -60,7 +60,7 @@ The workshop is planned as **a one-day virtual event**. This helps us to be able
 The tentative schedule for the workshop is as follows:
 
 - 09:00 - 09:15 Welcome
-- 09:15 - 10:00 Opening Keynote by Prof. Dr. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
+- 09:15 - 10:00 Opening Keynote by Prof. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
 - 10:00 - 10:15 Break
 - 10:15 - 11:45 Session 1 (Talks) + Panel
 - 11:45 - 12:45 Lunch
@@ -75,7 +75,11 @@ The tentative schedule for the workshop is as follows:
 
 #### Opening Keynote
 
-Prof. Dr. Franziska Roesner
+**Title: Security and Privacy for Extended Reality: The Next 10 Years**
+
+![image](https://wenjietseng.github.io/assets/img/franzi2.jpg)
+
+**Bio:** Franziska (Franzi) Roesner is an Associate Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where she co-directs the Security and Privacy Research Lab. Her research focuses broadly on computer security and privacy for end users of existing and emerging technologies. Her work has studied topics including online tracking and advertising, security and privacy for sensitive user groups, security and privacy in emerging augmented reality (AR) and IoT platforms, and online mis/disinformation. She is the recipient of a Consumer Reports Digital Lab Fellowship, an MIT Technology Review "Innovators Under 35" Award, an Emerging Leader Alumni Award from the University of Texas at Austin, a Google Security and Privacy Research Award, and an NSF CAREER Award. She serves on the USENIX Security and USENIX Enigma Steering Committees. She received her PhD from the University of Washington in 2014 and her BS from UT Austin in 2008. Her website is at [www.franziroesner.com](https://www.franziroesner.com).
 
 <hr style="border:2px solid gray">
 
