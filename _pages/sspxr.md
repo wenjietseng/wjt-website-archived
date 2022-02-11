@@ -23,7 +23,7 @@ Extended Reality (AR/VR/MR) technology is becoming increasingly affordable and c
 
 #### Call for Participation
 
-We invite two types of submissions: **a 2-page position statement** or **a 4-page research statement** (in double-column, please refer to [CHI 2022 Publication Format](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/), references excluded). The 2-page position statement can be a motivation of interest and present an opinion piece or critical position that fits into the larger discussion and topics of the workshop (contribution type "Opinion" as defined by [Wobbrock and Kienz, 2016](https://dl.acm.org/doi/abs/10.1145/2907069)). The 4-page research statement can be a presentation of already ongoing or planned research work in the topics of the workshop.
+We invite two types of submissions: **a 2-page position statement** or **a 4-page research statement** (in double-column and references excluded. Please refer to [CHI 2022 Publication Format](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/)). The 2-page position statement can be a motivation of interest and present an opinion piece or critical position that fits into the larger discussion and topics of the workshop (contribution type "Opinion" as defined by [Wobbrock and Kienz, 2016](https://dl.acm.org/doi/abs/10.1145/2907069)). The 4-page research statement can be a presentation of already ongoing or planned research work in the topics of the workshop. **Submissions are not anonymous and should include all author names, affiliations, and contact information**.
 
 Exemplar topics might come from within the field of, but are not limited to:
 
@@ -57,19 +57,21 @@ The workshop will revolve heavily around interactive discussions which will be f
 
 The workshop is planned as **a one-day virtual event**. This helps us to be able to engage and lead a discussion with attendees that will not travel to CHI 2022. As an infrastructure we will use the streaming service provided by CHI 2022 or alternatively setup own instances of Big Blue Button or Zoom. The discussion during the panels will work as the main form of engaging with the individual topics. All participants will be able to contribute to the discussion by raising hands or writing in the chat. Throughout the panel discussion, multiple organizers will monitor the chat and help participants raise questions and participate in the discussion.
 
-The tentative schedule for the workshop is as follows:
+The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BST / 09:00 EDT) to 23:00 CEST**.
 
-- 09:00 - 09:15 Welcome
-- 09:15 - 10:00 Opening Keynote by Prof. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
-- 10:00 - 10:15 Break
-- 10:15 - 11:45 Session 1 (Talks) + Panel
-- 11:45 - 12:45 Lunch
-- 12:45 - 14:15 Session 2 (Talks) + Panel
-- 14:15 - 14:30 Break
-- 14:30 - 16:00 Session 3 (Talks) + Panel
+This would result in a 5 am keynote for Franzi, but we could also shuffle the talk to fit her schedule better.
+
+- 15:00 - 15:15 Welcome
+- 15:15 - 16:00 Opening Keynote by Prof. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
 - 16:00 - 16:15 Break
-- 16:15 - 17:00 Reflection and Overall discussion with panelists and workshop participants
-- 17:00 Wrap Up
+- 16:15 - 17:45 Session 1 (Talks) + Panel
+- 17:45 - 18:45 Lunch
+- 18:45 - 20:15 Session 2 (Talks) + Panel
+- 20:15 - 20:30 Break
+- 20:30 - 22:00 Session 3 (Talks) + Panel
+- 22:00 - 22:15 Break
+- 22:15 - 23:00 Reflection and Overall discussion with panelists and workshop participants
+- 23:00 Wrap Up
 
 <hr style="border:2px solid gray">
 
