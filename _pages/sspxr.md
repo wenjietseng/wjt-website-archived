@@ -119,7 +119,7 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
 <tbody>
 <tr>
 <td markdown="span">![image](https://wenjietseng.github.io/assets/img/sspxr-wj.jpg)</td>
-<td markdown="span">**Wen-Jie Tseng** <br> Wen-Jie Tseng ([www.wenjietseng.com](https://www.wenjietseng.com)) is a 2nd year PhD student at Telecom Paris, Institute Polytechnique de Paris. His research explores safety issues in XR, particularly focusing on physical harm in VR.</td>
+<td markdown="span">**Wen-Jie Tseng** <br> Wen-Jie Tseng ([www.wenjietseng.com](https://www.wenjietseng.com)) is a 2nd year PhD student at Telecom Paris, IP Paris. His research explores safety issues in XR, particularly focusing on physical harm in VR.</td>
 </tr>
 </tbody>
 </table>
