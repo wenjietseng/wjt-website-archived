@@ -59,8 +59,6 @@ The workshop is planned as **a one-day virtual event**. This helps us to be able
 
 The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BST / 09:00 EDT) to 23:00 CEST**.
 
-This would result in a 5 am keynote for Franzi, but we could also shuffle the talk to fit her schedule better.
-
 - 15:00 - 15:15 Welcome
 - 15:15 - 16:00 Opening Keynote by Prof. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
 - 16:00 - 16:15 Break
