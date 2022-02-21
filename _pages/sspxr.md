@@ -43,7 +43,8 @@ Please note that one author of each accepted position paper must attend the work
 <center>
 <h4>Important Dates</h4>
 <td markdown="span">
-**Submission Deadline:** 24th February (Anywhere on Earth) <br>
+~~**Submission Deadline:** 24th February (Anywhere on Earth)~~ <br>
+**Submission Deadline:** 2nd March (Anywhere on Earth) <br>
 **Submision via EasyChair:** [https://easychair.org/my/conference?conf=sspxr22#](https://easychair.org/my/conference?conf=sspxr22#)<br>
 **Notification:** 7th of March
 </td>
