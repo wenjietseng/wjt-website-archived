@@ -230,3 +230,11 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
 </tr>
 </tbody>
 </table>
+
+<hr style="border:2px solid gray">
+
+#### Acknowledgments
+
+This workshop was partially conducted within the HARMFULVR JCJC project (ANR-21-CE33-0013) funded by French National Research Agency (ANR).
+
+![image](https://wenjietseng.github.io/assets/img/ANR-logo.png)
