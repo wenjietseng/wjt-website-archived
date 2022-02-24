@@ -23,18 +23,24 @@ Extended Reality (AR/VR/MR) technology is becoming increasingly affordable and c
 
 #### Call for Participation
 
-We invite two types of submissions: **a 2-page position statement** or **a 4-page research statement** (in double-column and references excluded. Please refer to [CHI 2022 Publication Format](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/)). The 2-page position statement can be a motivation of interest and present an opinion piece or critical position that fits into the larger discussion and topics of the workshop (contribution type "Opinion" as defined by [Wobbrock and Kienz, 2016](https://dl.acm.org/doi/abs/10.1145/2907069)). The 4-page research statement can be a presentation of already ongoing or planned research work in the topics of the workshop. **Submissions are not anonymous and should include all author names, affiliations, and contact information.**
+We invite two types of submissions: **a 2-page position statement** or **a 4-page research statement**. The 2-page position statement can be a motivation of interest and present an opinion piece or critical position that fits into the larger discussion and topics of the workshop (contribution type "Opinion" as defined by [Wobbrock and Kienz, 2016](https://dl.acm.org/doi/abs/10.1145/2907069)). The 4-page research statement can be a presentation of already ongoing or planned research work in the topics of the workshop.
+
+* Please use the **template for publication** in [CHI 2022 Publication Format](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/).
+* **Submissions are not anonymous and should include all author names, affiliations, and contact information.**
+* Submission should be in **double-column**, and **references excluded**.
+* LaTeX template user, please use `\documentclass[sigconf]{acmart}`.
+* Word template user, please refer to Interim Template [on this page](https://www.acm.org/publications/proceedings-template).
 
 Exemplar topics might come from within the field of, but are not limited to:
 
-- Privacy implications for the user of XR
-- Privacy implications for bystanders in XR
-- Safety concerns around physiological harm to the XR user
-- Safety concerns around psychological harm to the XR user
-- Security challenges for future XR technology
-- Security challenges on manipulating the XR user
-- Immersive Attacks and Human Perceptual Hacking
-- Societal implications of XR technology
+* Privacy implications for the user of XR
+* Privacy implications for bystanders in XR
+* Safety concerns around physiological harm to the XR user
+* Safety concerns around psychological harm to the XR user
+* Security challenges for future XR technology
+* Security challenges on manipulating the XR user
+* Immersive Attacks and Human Perceptual Hacking
+* Societal implications of XR technology
 
 Once accepted, **one author will have the chance to present their work in a 5-minute talk, followed by participation in a 45 minute panel discussion around the topic of the submission**. The workshop will consist of three panel session, each consisting of four authors, one organizer and one external expert. We are highly encouraging submissions that are presenting new perspectives on XR, HCI and Safety, Security and Privacy. Submissions are not expected to be finished research projects but should be seen more as motivational and/or provocative piece. The workshop organizers aim for a mix of participants in terms of experience and research topics to maximize diversity of interests and viewpoints at the workshop.
 
