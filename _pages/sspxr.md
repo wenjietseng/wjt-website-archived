@@ -21,62 +21,47 @@ Extended Reality (AR/VR/MR) technology is becoming increasingly affordable and c
 
 <hr style="border:2px solid gray">
 
-#### Call for Participation
+#### Program
 
-We invite two types of submissions: **a 2-page position statement** or **a 4-page research statement**. The 2-page position statement can be a motivation of interest and present an opinion piece or critical position that fits into the larger discussion and topics of the workshop (contribution type "Opinion" as defined by [Wobbrock and Kienz, 2016](https://dl.acm.org/doi/abs/10.1145/2907069)). The 4-page research statement can be a presentation of already ongoing or planned research work in the topics of the workshop.
-
-* Please use the **template for publication** in [CHI 2022 Publication Format](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/).
-* **Submissions are not anonymous and should include all author names, affiliations, and contact information.**
-* Submission should be in **double-column**, and **references excluded**.
-* LaTeX template user, please use `\documentclass[sigconf]{acmart}`.
-* Word template user, please refer to Interim Template [on this page](https://www.acm.org/publications/proceedings-template).
-
-Exemplar topics might come from within the field of, but are not limited to:
-
-* Privacy implications for the user of XR
-* Privacy implications for bystanders in XR
-* Safety concerns around physiological harm to the XR user
-* Safety concerns around psychological harm to the XR user
-* Security challenges for future XR technology
-* Security challenges on manipulating the XR user
-* Immersive Attacks and Human Perceptual Hacking
-* Societal implications of XR technology
-
-Once accepted, **one author will have the chance to present their work in a 5-minute talk, followed by participation in a 45 minute panel discussion around the topic of the submission**. The workshop will consist of three panel session, each consisting of four authors, one organizer and one external expert. We are highly encouraging submissions that are presenting new perspectives on XR, HCI and Safety, Security and Privacy. Submissions are not expected to be finished research projects but should be seen more as motivational and/or provocative piece. The workshop organizers aim for a mix of participants in terms of experience and research topics to maximize diversity of interests and viewpoints at the workshop.
-
-Please note that one author of each accepted position paper must attend the workshop. Attendance can be either in person or remote. All workshop participants must register for both the workshop and for at least one day of ACM CHI 2022.
-
-<center>
-<h4>Important Dates</h4>
-<td markdown="span">
-~~Submission Deadline: 24th February (Anywhere on Earth)~~ <br>
-**Submission Deadline:** 2nd March (Anywhere on Earth) <br>
-**Submision via EasyChair:** [https://easychair.org/my/conference?conf=sspxr22#](https://easychair.org/my/conference?conf=sspxr22#)<br>
-**Notification:** 13th of March
-</td>
-</center>
-
-<hr style="border:2px solid gray">
-
-#### Workshop Program
-
-The workshop will revolve heavily around interactive discussions which will be facilitated within three panel sessions, each focusing on topics and themes that are representing the submissions. Participants will be invited to submit either a 2-page position statement or a 4-page research statement and will each get the opportunity to present their work in a 5 minute talk as part of their panel session. Each panel session will start with introductions and short paper presentations, followed by a panel discussion, including audience questions. The panel will consist of one author of each submission, and one organizer and or external expert. The external experts will be invited to add further expert perspectives to the discussion. Organizers will moderate the panel and facilitate the discussion. The workshop will end with a final discussion panel consisting of volunteers of the former sessions and a subset of organizers and external experts.
+The workshop will revolve heavily around interactive discussions which will be facilitated within three panel sessions, each focusing on topics and themes that are representing the submissions.
+<!-- will be invited to submit either a 2-page position statement or a 4-page research statement and will each get the opportunity to  -->
+**Participants will present their work in a 10-minute talk as part of their panel session.** Each panel session will start with introductions and short paper presentations, followed by a panel discussion, including audience questions. The panel will consist of one author of each submission, one organizer, and/or external expert. Organizers will moderate the panel and facilitate the discussion. The external expert(s) will be invited to add further expert perspectives to the discussion. The workshop will end with a final discussion panel consisting of volunteers of the former sessions and a subset of organizers and external experts.
 
 The workshop is planned as **a one-day virtual event**. This helps us to be able to engage and lead a discussion with attendees that will not travel to CHI 2022. As an infrastructure we will use the streaming service provided by CHI 2022 or alternatively setup own instances of Big Blue Button or Zoom. The discussion during the panels will work as the main form of engaging with the individual topics. All participants will be able to contribute to the discussion by raising hands or writing in the chat. Throughout the panel discussion, multiple organizers will monitor the chat and help participants raise questions and participate in the discussion.
 
 The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BST / 09:00 EDT) to 23:00 CEST**.
 
-- 15:00 - 15:15 Welcome
-- 15:15 - 16:00 Opening Keynote by Prof. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
-- 16:00 - 16:15 Break
-- 16:15 - 17:45 Session 1 (Talks) + Panel
-- 17:45 - 18:45 Lunch
-- 18:45 - 20:15 Session 2 (Talks) + Panel
-- 20:15 - 20:30 Break
-- 20:30 - 22:00 Session 3 (Talks) + Panel
-- 22:00 - 22:15 Break
-- 22:15 - 23:00 Reflection and Overall discussion with panelists and workshop participants
-- 23:00 Wrap Up
+* 15:00 - 15:15 Welcome
+* 15:15 - 16:00 **Opening Keynote** by Prof. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
+* 16:00 - 16:15 Break
+* 16:15 - 17:45 **Session 1: Vulnerable Groups in XR**
+  * Development and Evaluation of Virtual Reality Classrooms Through User-Centered Design During COVID-19
+  * Digital Boundaries: Understanding the Risks to Youth in Extended Reality
+  * The...Tinderverse?: Opportunities and Challenges for User Safety in Extended Reality (XR) Dating Apps
+  * All Too Real: A Typology of User Vulnerabilities in Extended Reality
+  * Supporting A Safe and Healthy Immersive Environment for Teenagers
+  * Facing the Illusion and Reality of Safety in Metaverse
+  * Panel Discussion (30 mins)
+* 17:45 - 18:45 Lunch
+* 18:45 - 20:15 **Session 2: Privacy and Security in XR + Panel**
+  * Security and Privacy in the Metaverse: The Threat of the Digital Human
+  * Extending AR Authoring Tools with Built-in Support for Privacy and Security Analysis
+  * Safeguarding Privacy in the Age of Everyday XR
+  * Understanding Spatial Orientation of VR Users in the Physical Environment
+  * Exploring Dark Patterns in XR
+  * Panel Discussion (40 mins)
+* 20:15 - 20:30 Break
+* 20:30 - 22:00 **Session 3: Novel Safety Challenges in XR**
+  * Novel Safety Challenges in XR
+  * Exploring Memory Manipulation in Extended Reality Using Scenario Construction
+  * Perception Hacking for 2D Cursorjacking in Virtual Reality
+  * Potential Risks of Ultra Realistic Haptic Devices in XR
+  * Virtual Spillover of preferences and behavior from extended reality
+  * Safety in the Emerging Holodeck Applications
+  * Panel Discussion (30 mins)
+* 22:00 - 22:15 Break
+* 22:15 - 23:00 Reflection and Overall discussion with panelists and workshop participants
+* 23:00 Wrap Up
 
 <hr style="border:2px solid gray">
 
@@ -98,6 +83,56 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
 </table>
 
 **Bio:** Franziska (Franzi) Roesner is an Associate Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where she co-directs the Security and Privacy Research Lab. Her research focuses broadly on computer security and privacy for end users of existing and emerging technologies. Her work has studied topics including online tracking and advertising, security and privacy for sensitive user groups, security and privacy in emerging augmented reality (AR) and IoT platforms, and online mis/disinformation. She is the recipient of a Consumer Reports Digital Lab Fellowship, an MIT Technology Review "Innovators Under 35" Award, an Emerging Leader Alumni Award from the University of Texas at Austin, a Google Security and Privacy Research Award, and an NSF CAREER Award. She serves on the USENIX Security and USENIX Enigma Steering Committees. She received her PhD from the University of Washington in 2014 and her BS from UT Austin in 2008. Her website is at [www.franziroesner.com](https://www.franziroesner.com).
+
+<hr style="border:2px solid gray">
+
+#### Proceedings
+
+Coming soon!
+
+<!-- <hr style="border:2px solid gray">
+
+#### Post-Workshop Plan
+
+Coming soon! -->
+
+<hr style="border:2px solid gray">
+
+#### Call for Participation
+
+We invite two types of submissions: **a 2-page position statement** or **a 4-page research statement**. The 2-page position statement can be a motivation of interest and present an opinion piece or critical position that fits into the larger discussion and topics of the workshop (contribution type "Opinion" as defined by [Wobbrock and Kienz, 2016](https://dl.acm.org/doi/abs/10.1145/2907069)). The 4-page research statement can be a presentation of already ongoing or planned research work in the topics of the workshop.
+
+* Please use the **template for publication** in [CHI 2022 Publication Format](https://chi2022.acm.org/for-authors/presenting/papers/chi-publication-formats/).
+* **Submissions are not anonymous and should include all author names, affiliations, and contact information.**
+* Submission should be in **double-column**, and **references excluded**.
+* LaTeX template user, please use `\documentclass[sigconf]{acmart}`.
+* Word template user, please refer to Interim Template [on this page](https://www.acm.org/publications/proceedings-template).
+
+Exemplar topics might come from within the field of, but are not limited to:
+
+* Privacy implications for the user of XR
+* Privacy implications for bystanders in XR
+* Safety concerns around physiological harm to the XR user
+* Safety concerns around psychological harm to the XR user
+* Security challenges for future XR technology
+* Security challenges on manipulating the XR user
+* Immersive Attacks and Human Perceptual Hacking
+* Societal implications of XR technology
+
+Once accepted, **one author will have the chance to present their work in a 10-minute talk, followed by participation in a 30-40 minute panel discussion around the topic of the submission**. The workshop will consist of three panel session, each consisting of four authors, one organizer and one external expert. We are highly encouraging submissions that are presenting new perspectives on XR, HCI and Safety, Security and Privacy. Submissions are not expected to be finished research projects but should be seen more as motivational and/or provocative piece. The workshop organizers aim for a mix of participants in terms of experience and research topics to maximize diversity of interests and viewpoints at the workshop.
+
+Please note that one author of each accepted position paper must attend the workshop. Attendance can be either in person or remote. All workshop participants must register for both the workshop and for at least one day of ACM CHI 2022.
+
+<center>
+<h4>Important Dates</h4>
+<td markdown="span">
+~~Submission Deadline: 24th February (Anywhere on Earth)~~ <br>
+~~**Submission Deadline:** 2nd March (Anywhere on Earth)~~ <br>
+~~**Submision via EasyChair:** [https://easychair.org/my/conference?conf=sspxr22#](https://easychair.org/my/conference?conf=sspxr22#)~~ <br>
+~~**Notification:** 13th of March~~ <br>
+**April 25th, from 15:00 CEST (14:00 BST / 09:00 EDT) to 23:00 CEST**
+</td>
+</center>
 
 <hr style="border:2px solid gray">
 
