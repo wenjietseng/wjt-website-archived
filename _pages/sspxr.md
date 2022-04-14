@@ -38,33 +38,33 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
 <hr style="border:1px solid gray">
 
 * 16:15 - 17:45 **Session 1: Vulnerable Groups in XR**, Chairs: *Wen-Jie Tseng & Jan Gugenheimer*
-  * [Development and Evaluation of Virtual Reality Classrooms Through User-Centered Design During COVID-19](https://wenjietseng.com/assets/pdf/SSPXR22_paper_1.pdf)<br>*Victoria Reddington, Kerstin Haring, Sanchari Das, and Daniel Pittman*
-  * Digital Boundaries: Understanding the Risks to Youth in Extended Reality<br>*Diana Freed*<br>Supporting A Safe and Healthy Immersive Environment for Teenagers<br>*Elmira Deldari and Yaxing Yao*
-  * The...Tinderverse?: Opportunities and Challenges for User Safety in Extended Reality (XR) Dating Apps<br>*Sarath S. Shanker and Douglas Zytko*
-  * All Too Real: A Typology of User Vulnerabilities in Extended Reality<br>*James J. Cummings and Alexis Shore*
-  * Facing the Illusion and Reality of Safety in Metaverse.<br>*Qingxiao Zheng, Tue Ngoc Do, Lingqing Wang, and Yun Huang*
+  * [Development and Evaluation of Virtual Reality Classrooms Through User-Centered Design During COVID-19](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_1.pdf) <br>*Victoria Reddington, Kerstin Haring, Sanchari Das, and Daniel Pittman*
+  * [All Too Real: A Typology of User Vulnerabilities in Extended Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_3.pdf) <br>*James J. Cummings and Alexis Shore*
+  * [Supporting A Safe and Healthy Immersive Environment for Teenagers](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_9.pdf) <br>*Elmira Deldari and Yaxing Yao* <br> [Digital Boundaries: Understanding the Risks to Youth in Extended Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_12.pdf) <br>*Diana Freed* 
+  * [The...Tinderverse?: Opportunities and Challenges for User Safety in Extended Reality (XR) Dating Apps](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_13.pdf) <br>*Sarath S. Shanker and Douglas Zytko*
+  * [Facing the Illusion and Reality of Safety in Metaverse](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_16.pdf) <br>*Qingxiao Zheng, Tue Ngoc Do, Lingqing Wang, and Yun Huang*
   * Panel Discussion (30 mins)
 * 17:45 - 18:45 Break
 
 <hr style="border:1px solid gray">
 
 * 18:45 - 20:15 **Session 2: Privacy and Security in XR + Panel**, Chairs: *Michael Nebeling & Mohamed Khamis*
-  * Security and Privacy in the Metaverse: The Threat of the Digital Human<br>*Lauren Buck and Rachel McDonnell*
-  * Extending AR Authoring Tools with Built-in Support for Privacy and Security Analysis<br>*Shwetha Rajaram and Michael Nebeling*
-  * Safeguarding Privacy in the Age of Everyday XR<br>*Pejman Saeghe, Mark McGill, and Mohamed Khamis*
-  * Understanding Spatial Orientation of VR Users in the Physical Environment<br>*Wen-Jie Tseng, Eric Lecolinet, Samuel Huron, and Jan Gugenheimer*
-  * Exploring Dark Patterns in XR<br>*Veronika Krauß*
+  * [Security and Privacy in the Metaverse: The Threat of the Digital Human](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_2.pdf) <br>*Lauren Buck and Rachel McDonnell*
+  * [Extending AR Authoring Tools with Built-in Support for Privacy and Security Analysis](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_4.pdf) <br>*Shwetha Rajaram and Michael Nebeling*
+  * [Understanding Spatial Orientation of VR Users in the Physical Environment](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_7.pdf) <br>*Wen-Jie Tseng, Eric Lecolinet, Samuel Huron, and Jan Gugenheimer*
+  * [Exploring Dark Patterns in XR](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_8.pdf) <br>*Veronika Krauß*
+  * [Safeguarding Privacy in the Age of Everyday XR](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_10.pdf) <br>*Pejman Saeghe, Mark McGill, and Mohamed Khamis*
   * Panel Discussion (40 mins)
 * 20:15 - 20:30 Break
 
 <hr style="border:1px solid gray">
 
 * 20:30 - 22:00 **Session 3: Novel Safety Challenges in XR**, Chairs: *Mark McGill & Abraham Mhaidli*
-  * Exploring Memory Manipulation in Extended Reality Using Scenario Construction<br>*Elise Bonnail, Wen-Jie Tseng, Eric Lecolinet, Samuel Huron, and Jan Gugenheimer*
-  * Perception Hacking for 2D Cursorjacking in Virtual Reality<br>*Zhihao Su, Faysal Hossain Shezan, Yuan Tian, David Evans, and Seongkook Heo*
-  * Potential Risks of Ultra Realistic Haptic Devices in XR<br>*Gaëlle Clavelin, Jan Gugenheimer, and Mickael Bouhier*
-  * Virtual Spillover of preferences and behavior from extended reality<br>*Matija Franklin*
-  * Safety in the Emerging Holodeck Applications<br>*Shahram Ghandeharizadeh and Luis Garcia*
+  * [Safety in the Emerging Holodeck Applications](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_5.pdf) <br> *Shahram Ghandeharizadeh and Luis Garcia*
+  * [Exploring Memory Manipulation in Extended Reality Using Scenario Construction](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_6.pdf) <br> *Elise Bonnail, Wen-Jie Tseng, Eric Lecolinet, Samuel Huron, and Jan Gugenheimer*
+  * [Perception Hacking for 2D Cursorjacking in Virtual Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_11.pdf) <br> *Zhihao Su, Faysal Hossain Shezan, Yuan Tian, David Evans, and Seongkook Heo*
+  * [Virtual Spillover of Preferences and Behavior from Extended Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_14.pdf) <br> *Matija Franklin*
+  * [Potential Risks of Ultra Realistic Haptic Devices in XR](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_15.pdf) <br> *Gaëlle Clavelin, Jan Gugenheimer, and Mickael Bouhier*
   * Panel Discussion (30 mins)
 * 22:00 - 22:15 Break
 
@@ -96,11 +96,11 @@ Note: This workshop will not be recorded or streamed.
 
 **Bio:** Franziska (Franzi) Roesner is an Associate Professor in the Paul G. Allen School of Computer Science & Engineering at the University of Washington, where she co-directs the Security and Privacy Research Lab. Her research focuses broadly on computer security and privacy for end users of existing and emerging technologies. Her work has studied topics including online tracking and advertising, security and privacy for sensitive user groups, security and privacy in emerging augmented reality (AR) and IoT platforms, and online mis/disinformation. She is the recipient of a Consumer Reports Digital Lab Fellowship, an MIT Technology Review "Innovators Under 35" Award, an Emerging Leader Alumni Award from the University of Texas at Austin, a Google Security and Privacy Research Award, and an NSF CAREER Award. She serves on the USENIX Security and USENIX Enigma Steering Committees. She received her PhD from the University of Washington in 2014 and her BS from UT Austin in 2008. Her website is at [www.franziroesner.com](https://www.franziroesner.com).
 
-<hr style="border:2px solid gray">
+<!-- <hr style="border:2px solid gray">
 
 #### Proceedings
 
-Coming soon!
+Coming soon! -->
 
 <!-- <hr style="border:2px solid gray">
 
