@@ -34,34 +34,46 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
 * 15:00 - 15:15 Welcome
 * 15:15 - 16:00 **Opening Keynote** by Prof. Franziska Roesner [www.franziroesner.com](https://www.franziroesner.com/)
 * 16:00 - 16:15 Break
-* 16:15 - 17:45 **Session 1: Vulnerable Groups in XR**
-  * Development and Evaluation of Virtual Reality Classrooms Through User-Centered Design During COVID-19
-  * Digital Boundaries: Understanding the Risks to Youth in Extended Reality
-  * The...Tinderverse?: Opportunities and Challenges for User Safety in Extended Reality (XR) Dating Apps
-  * All Too Real: A Typology of User Vulnerabilities in Extended Reality
-  * Supporting A Safe and Healthy Immersive Environment for Teenagers
-  * Facing the Illusion and Reality of Safety in Metaverse
+
+<hr style="border:1px solid gray">
+
+* 16:15 - 17:45 **Session 1: Vulnerable Groups in XR**, Chairs: *Wen-Jie Tseng & Jan Gugenheimer*
+  * [Development and Evaluation of Virtual Reality Classrooms Through User-Centered Design During COVID-19](https://wenjietseng.com/assets/pdf/SSPXR22_paper_1.pdf)<br>*Victoria Reddington, Kerstin Haring, Sanchari Das, and Daniel Pittman*
+  * Digital Boundaries: Understanding the Risks to Youth in Extended Reality<br>*Diana Freed*<br>Supporting A Safe and Healthy Immersive Environment for Teenagers<br>*Elmira Deldari and Yaxing Yao*
+  * The...Tinderverse?: Opportunities and Challenges for User Safety in Extended Reality (XR) Dating Apps<br>*Sarath S. Shanker and Douglas Zytko*
+  * All Too Real: A Typology of User Vulnerabilities in Extended Reality<br>*James J. Cummings and Alexis Shore*
+  * Facing the Illusion and Reality of Safety in Metaverse.<br>*Qingxiao Zheng, Tue Ngoc Do, Lingqing Wang, and Yun Huang*
   * Panel Discussion (30 mins)
-* 17:45 - 18:45 Lunch
-* 18:45 - 20:15 **Session 2: Privacy and Security in XR + Panel**
-  * Security and Privacy in the Metaverse: The Threat of the Digital Human
-  * Extending AR Authoring Tools with Built-in Support for Privacy and Security Analysis
-  * Safeguarding Privacy in the Age of Everyday XR
-  * Understanding Spatial Orientation of VR Users in the Physical Environment
-  * Exploring Dark Patterns in XR
+* 17:45 - 18:45 Break
+
+<hr style="border:1px solid gray">
+
+* 18:45 - 20:15 **Session 2: Privacy and Security in XR + Panel**, Chairs: *Michael Nebeling & Mohamed Khamis*
+  * Security and Privacy in the Metaverse: The Threat of the Digital Human<br>*Lauren Buck and Rachel McDonnell*
+  * Extending AR Authoring Tools with Built-in Support for Privacy and Security Analysis<br>*Shwetha Rajaram and Michael Nebeling*
+  * Safeguarding Privacy in the Age of Everyday XR<br>*Pejman Saeghe, Mark McGill, and Mohamed Khamis*
+  * Understanding Spatial Orientation of VR Users in the Physical Environment<br>*Wen-Jie Tseng, Eric Lecolinet, Samuel Huron, and Jan Gugenheimer*
+  * Exploring Dark Patterns in XR<br>*Veronika Krauß*
   * Panel Discussion (40 mins)
 * 20:15 - 20:30 Break
-* 20:30 - 22:00 **Session 3: Novel Safety Challenges in XR**
-  * Novel Safety Challenges in XR
-  * Exploring Memory Manipulation in Extended Reality Using Scenario Construction
-  * Perception Hacking for 2D Cursorjacking in Virtual Reality
-  * Potential Risks of Ultra Realistic Haptic Devices in XR
-  * Virtual Spillover of preferences and behavior from extended reality
-  * Safety in the Emerging Holodeck Applications
+
+<hr style="border:1px solid gray">
+
+* 20:30 - 22:00 **Session 3: Novel Safety Challenges in XR**, Chairs: *Mark McGill & Abraham Mhaidli*
+  * Exploring Memory Manipulation in Extended Reality Using Scenario Construction<br>*Elise Bonnail, Wen-Jie Tseng, Eric Lecolinet, Samuel Huron, and Jan Gugenheimer*
+  * Perception Hacking for 2D Cursorjacking in Virtual Reality<br>*Zhihao Su, Faysal Hossain Shezan, Yuan Tian, David Evans, and Seongkook Heo*
+  * Potential Risks of Ultra Realistic Haptic Devices in XR<br>*Gaëlle Clavelin, Jan Gugenheimer, and Mickael Bouhier*
+  * Virtual Spillover of preferences and behavior from extended reality<br>*Matija Franklin*
+  * Safety in the Emerging Holodeck Applications<br>*Shahram Ghandeharizadeh and Luis Garcia*
   * Panel Discussion (30 mins)
 * 22:00 - 22:15 Break
+
+<hr style="border:1px solid gray">
+
 * 22:15 - 23:00 Reflection and Overall discussion with panelists and workshop participants
 * 23:00 Wrap Up
+
+Note: This workshop will not be recorded or streamed.
 
 <hr style="border:2px solid gray">
 
