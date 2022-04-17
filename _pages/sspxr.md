@@ -40,7 +40,7 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
 * 16:15 - 17:45 **Session 1: Vulnerable Groups in XR**, Chairs: *Wen-Jie Tseng & Jan Gugenheimer*
   * [Development and Evaluation of Virtual Reality Classrooms Through User-Centered Design During COVID-19](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_1.pdf) <br>*Victoria Reddington, Kerstin Haring, Sanchari Das, and Daniel Pittman*
   * [All Too Real: A Typology of User Vulnerabilities in Extended Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_3.pdf) <br>*James J. Cummings and Alexis Shore*
-  * [Supporting A Safe and Healthy Immersive Environment for Teenagers](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_9.pdf) <br>*Elmira Deldari and Yaxing Yao* <br> [Digital Boundaries: Understanding the Risks to Youth in Extended Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_12.pdf) <br>*Diana Freed* 
+  * [Supporting A Safe and Healthy Immersive Environment for Teenagers](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_9.pdf) <br>*Elmira Deldari, Diana Freed, and Yaxing Yao* 
   * [The...Tinderverse?: Opportunities and Challenges for User Safety in Extended Reality (XR) Dating Apps](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_13.pdf) <br>*Sarath S. Shanker and Douglas Zytko*
   * [Facing the Illusion and Reality of Safety in Metaverse](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_16.pdf) <br>*Qingxiao Zheng, Tue Ngoc Do, Lingqing Wang, and Yun Huang*
   * Panel Discussion (30 mins)
