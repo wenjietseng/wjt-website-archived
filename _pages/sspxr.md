@@ -43,7 +43,7 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
   * [Supporting A Safe and Healthy Immersive Environment for Teenagers](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_9.pdf) <br>*Elmira Deldari, Diana Freed, and Yaxing Yao* 
   * [The...Tinderverse?: Opportunities and Challenges for User Safety in Extended Reality (XR) Dating Apps](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_13.pdf) <br>*Sarath S. Shanker and Douglas Zytko*
   * [Facing the Illusion and Reality of Safety in Metaverse](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_16.pdf) <br>*Qingxiao Zheng, Tue Ngoc Do, Lingqing Wang, and Yun Huang*
-  * Panel Discussion (30 mins)
+  * Panel Discussion (40 mins)
 * 17:45 - 18:45 Break
 
 <hr style="border:1px solid gray">
@@ -65,7 +65,7 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
   * [Perception Hacking for 2D Cursorjacking in Virtual Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_11.pdf) <br> *Zhihao Su, Faysal Hossain Shezan, Yuan Tian, David Evans, and Seongkook Heo*
   * [Virtual Spillover of Preferences and Behavior from Extended Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_14.pdf) <br> *Matija Franklin*
   * [Potential Risks of Ultra Realistic Haptic Devices in XR](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_15.pdf) <br> *Gaëlle Clavelin, Jan Gugenheimer, and Mickael Bouhier*
-  * Panel Discussion (30 mins)
+  * Panel Discussion (40 mins)
 * 22:00 - 22:15 Break
 
 <hr style="border:1px solid gray">
