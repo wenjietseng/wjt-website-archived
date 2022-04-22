@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 Salut !
 
-My name is Wen-Jie. I am a 2nd Ph.D. student in [DIVA Group](https://diva.telecom-paristech.fr/) at Telecom Paris, working on Human-Computer Interaction (HCI) and Virtual Reality (VR). My research aims to understand how physical breakdowns of a VR user (e.g., colliding with the wall) could happen with the Head-Mounted Display (HMD) based VR. My skills include implementing research prototype and conducting user experiment to better understand the VR user's behavior and inform the design of future safety mechanisms.
+My name is Wen-Jie. I am a 2nd Ph.D. student in [DIVA Group](https://diva.telecom-paristech.fr/) at Telecom Paris, working on Human-Computer Interaction (HCI) and Virtual Reality (VR). My research aims to understand how physical breakdowns (e.g., colliding with the environment) of a user could happen in VR with Head-Mounted Display (HMD) technology. My skills include implementing research prototype and conducting user experiment to better understand the VR user's behavior and inform the design of future safety mechanisms.
 
 <!-- Hi, my name is Wen-Jie Tseng. I am a Ph.D. student in <a href="https://diva.telecom-paristech.fr/">DIVA Group</a> at T&eacute;l&eacute;com Paris. My research interest lies in Human-Computer Interaction (HCI), Mixed Reality (VR & AR), and Cognitive Psychology. -->
 
