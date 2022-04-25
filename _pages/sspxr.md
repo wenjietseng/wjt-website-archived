@@ -62,7 +62,7 @@ The tentative schedule for the workshop: **April 25th, from 15:00 CEST (14:00 BS
 * 20:30 - 22:00 **Session 3: Novel Safety Challenges in XR**, Chairs: *Mark McGill & Abraham Mhaidli*
   * [Safety in the Emerging Holodeck Applications](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_5.pdf) <br> *Shahram Ghandeharizadeh and Luis Garcia*
   * [Exploring Memory Manipulation in Extended Reality Using Scenario Construction](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_6.pdf) <br> *Elise Bonnail, Wen-Jie Tseng, Eric Lecolinet, Samuel Huron, and Jan Gugenheimer*
-  * [Perception Hacking for 2D Cursorjacking in Virtual Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_11.pdf) <br> *Zhihao Su, Faysal Hossain Shezan, Yuan Tian, David Evans, and Seongkook Heo*
+  * [Perception Hacking for 2D Cursorjacking in Virtual Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_11.pdf) <br> *Zihao Su, Faysal Hossain Shezan, Yuan Tian, David Evans, and Seongkook Heo*
   * [Virtual Spillover of Preferences and Behavior from Extended Reality](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_14.pdf) <br> *Matija Franklin*
   * [Potential Risks of Ultra Realistic Haptic Devices in XR](https://wenjietseng.com/assets/pdf/SSPXR22_submissions/SSPXR22_paper_15.pdf) <br> *Gaëlle Clavelin, Jan Gugenheimer, and Mickael Bouhier*
   * Panel Discussion (40 mins)
