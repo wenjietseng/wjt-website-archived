@@ -2,7 +2,7 @@
 layout: page
 title: HouseVibe
 description: 2021
-img: /assets/img/housevibe.png
+img: /assets/img/housevibe.jpg
 importance: 3
 ---
 
