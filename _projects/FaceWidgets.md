@@ -1,9 +1,9 @@
 ---
 layout: page
 title: FaceWidgets
-description: 2019 UIST
+description: 2019
 img: /assets/img/facewidgets.JPG
-importance: 2
+importance: 1
 ---
 <h3><b>Exploring Tangible Interaction on Face with Head-Mounted Displays</b></h3>
 

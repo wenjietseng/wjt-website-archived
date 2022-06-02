@@ -3,7 +3,7 @@ layout: page
 title: VR Fishing
 description: 2018
 img: /assets/img/fisherman-thumb.png
-importance: 3
+importance: 1
 ---
 <h3><b>NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</b></h3>
 <iframe src="https://player.vimeo.com/video/274839879" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>

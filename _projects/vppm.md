@@ -1,7 +1,7 @@
 ---
 layout: page
 title: VPPM
-description: 2022 CHI
+description: 2022
 img: /assets/img/vppm.jpg
 importance: 1
 ---

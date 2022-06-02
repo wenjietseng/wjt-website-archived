@@ -3,7 +3,7 @@ layout: page
 title: HouseVibe
 description: 2021
 img: /assets/img/housevibe.jpg
-importance: 3
+importance: 1
 ---
 
 In August 2021, I participated in [creartathon](https://creartathon.com/2021_archive/) at Inria Saclay.

@@ -8,8 +8,8 @@ nav: true
 
 <div class="projects grid">
 
-  {% assign sorted_projects = site.projects | sort: "importance" %}
-  {% for project in sorted_projects %}
+  {% assign sorted_projects = site.projects | sort: "description" %}
+  {% for project in sorted_projects reversed %}
   <div class="grid-item">
     {% if project.redirect %}
     <a href="{{ project.redirect }}" target="_blank">
