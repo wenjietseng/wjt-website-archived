@@ -5,6 +5,7 @@ description: 2022
 img: /assets/img/vppm.jpg
 importance: 1
 ---
+
 ### The Dark Side of Perceptual Manipulations in Virtual Reality
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uJRCchb_kAI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

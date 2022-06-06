@@ -5,7 +5,9 @@ description: 2017
 img: /assets/img/zombie-thumb2.png
 importance: 1
 ---
-<h3><b>Zombie Game with Haptic Feedback - IDVR 2017</b></h3>
+
+### Zombie Game with Haptic Feedback - IDVR 2017
+
 <br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/WqlWWmMPm7A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

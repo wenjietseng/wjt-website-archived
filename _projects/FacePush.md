@@ -5,7 +5,9 @@ description: 2018
 img: /assets/img/facepush.png
 importance: 1
 ---
-<h3><b>Introducing Normal Force on Face with Head-Mounted Displays</b></h3>
+
+### Introducing Normal Force on Face with Head-Mounted Displays
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/IPLVCdbvWyI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <br>
 <p>

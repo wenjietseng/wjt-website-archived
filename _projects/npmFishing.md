@@ -5,7 +5,9 @@ description: 2018
 img: /assets/img/fisherman-thumb.png
 importance: 1
 ---
-<h3><b>NCTU Museum-School Collaboration Showcase—VR Creative Exhibition</b></h3>
+
+### NCTU Museum-School Collaboration Showcase—VR Creative Exhibition
+
 <iframe src="https://player.vimeo.com/video/274839879" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 
 <h3>Fishermen's Delights VR Installation</h3>

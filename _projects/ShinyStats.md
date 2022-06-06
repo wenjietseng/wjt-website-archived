@@ -5,7 +5,8 @@ description: 2015
 img: /assets/img/sdt-thumb2.png
 importance: 1
 ---
-<h3><b>Creating Shiny Applications for Teaching Statistical Concepts</b></h3>
+
+### Creating Shiny Applications for Teaching Statistical Concepts
 
 <img src="https://wenjietseng.github.io/assets/img/sdt.png">
 
