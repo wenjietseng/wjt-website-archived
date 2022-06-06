@@ -12,11 +12,9 @@ In August 2021, I participated in [creartathon](https://creartathon.com/2021_arc
 
 House Vibes expresses the emotional state of the house through an interactive visualization. Resident comprehends how they affect the ecosystem, empathise with their house environment needs and tries to bring back the balance through their interaction with the generative sculptural lights.
 
-<img src="https://wenjietseng.github.io/assets/img/housevibe1.jpg">
+<img src="https://wenjietseng.github.io/assets/img/housevibe1.jpg" width="560">
 
-video
-
-<img src="https://wenjietseng.github.io/assets/img/housevibe2.jpg">
+<img src="https://wenjietseng.github.io/assets/img/housevibe2.jpg" width="560">
 
 #### My teammates (contributions)
 
