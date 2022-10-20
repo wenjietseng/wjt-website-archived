@@ -6,7 +6,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-<title>Wen-Jie  Tseng | wen-jie.tseng</title>
+<title>Wen-Jie  Tseng | Setup PyTorch</title>
 <meta name="description" content="Un thésard vient de Taiwan et fait des recherches sur l'interaction homme-machine.
 ">
 
@@ -29,7 +29,7 @@
 <link rel="shortcut icon" href="/assets/img/favicon.ico">
 <link rel="stylesheet" href="/assets/css/main.css">
 
-<link rel="canonical" href="/blog/">
+<link rel="canonical" href="/blog/2021/setuppytorch/">
 
 <!-- Theming-->
 
@@ -161,74 +161,54 @@
     <!-- Content -->
 
     <div class="container mt-5">
-      <div class="post">
+      
 
-  <div class="header-bar">
-    <h1>wj_domain</h1>
-    <h2></h2>
-  </div>
+<div class="post">
 
+  <header class="post-header">
+    <h1 class="post-title">Setup PyTorch</h1>
+    <p class="post-meta">May 20, 2021</p>
+  </header>
 
-  <ul class="post-list">
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2022/thecravingofworking/">The craving of working</a></h3>
-        <p class="post-meta">April 19, 2022</p>
-        <p></p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2022/thefearofimplementingskill/">The fear of coding skills</a></h3>
-        <p class="post-meta">April 17, 2022</p>
-        <p></p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2022/shapingaproj/">Shaping a Project</a></h3>
-        <p class="post-meta">April 15, 2022</p>
-        <p></p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2022/update/">Lots of updates in the 1st post of 2022</a></h3>
-        <p class="post-meta">February 10, 2022</p>
-        <p></p>
-      </li>
-    
-      <li>
-        <h3><a class="post-title" href="/blog/2021/secondhalf/">Second half</a></h3>
-        <p class="post-meta">November 2, 2021</p>
-        <p></p>
-      </li>
-    
-  </ul>
+  <article class="post-content">
+    <p>Follow the setup steps on <a href="https://github.com/pytorch/pytorch#installation">the GitHub homepage of PyTorch</a>.</p>
+
+<ul>
+  <li>Install <a href="https://www.anaconda.com/products/individual#download-section">Anaconda</a></li>
+  <li>Install <a href="https://developer.nvidia.com/cuda-downloads">cuda</a></li>
+  <li>Install <a href="https://developer.nvidia.com/cudnn">cudnn</a></li>
+  <li><a href="https://docs.nvidia.com/deeplearning/cudnn/install-guide/index.html">tutorial</a>: unzip the cudnn…..zip and put files into cuda’s folder.</li>
+</ul>
+
+<p>What I got: Anaconda3, cuda 11.3, cudnn 8.2</p>
+
+<p>check cuda version: <code class="language-plaintext highlighter-rouge">nvcc</code>
+check GPU: <code class="language-plaintext highlighter-rouge">nvidia-smi</code></p>
+
+<p>Install on Windows</p>
+
+<pre><code class="language-{shell}">conda install astunparse numpy ninja pyyaml mkl mkl-include setuptools cmake cffi typing_extensions future six requests dataclasses
+conda install -c conda-forge libuv=1.39
+</code></pre>
+
+<p>Conda did not find  I eventually used pip because conda already includes pip. Also, I realized I don’t have to build from source. Using binary installation is much easier.</p>
+
+<pre><code class="language-{shell}">pip3 install torch==1.8.1+cu111 torchvision==0.9.1+cu111 torchaudio===0.8.1 -f https://download.pytorch.org/whl/torch_stable.html
+</code></pre>
+
+<p>Then I created a new python project for testing installation and it worked. I change the python into anacoda python (shows at the buttom-left of VScode) by modifying python.pythonPath and Ctrl+Shift+P select interpreter. Another setting is switching powershell in Terminal into Cmd prompt of anaconda. Therefore I can use python and venv of anaconda to develop PyTorch.</p>
+
+<p>It taked quite some time to organize the environment. Perhaps I should just use pip and my original python. However, everything seemed ready. Next steps:</p>
+
+<ul>
+  <li>easy PyTorch examples: play with datasets (e.g., MNIST), learn from examples will be quick</li>
+  <li>we will also need to setup RL env (seems easier?) and play with RL examples.</li>
+  <li>think about the VR project with computational techniques. (reading paper and collect ideas)</li>
+</ul>
+
+  </article>
 
   
-<nav aria-label="Blog page naviation">
-  <ul class="pagination pagination-lg justify-content-center">
-    <li class="page-item disabled">
-      <a class="page-link" href="" tabindex="-1" aria-disabled="">Newer</a>
-    </li>
-    
-      
-        <li class="page-item active"><a class="page-link" href="/blog/index.html" title="wen-jie.tseng">1</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/2/index.html" title="wen-jie.tseng - page 2">2</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/3/index.html" title="wen-jie.tseng - page 3">3</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/4/index.html" title="wen-jie.tseng - page 4">4</a></li>
-      
-        <li class="page-item "><a class="page-link" href="/blog/page/5/index.html" title="wen-jie.tseng - page 5">5</a></li>
-      
-    
-    <li class="page-item ">
-      <a class="page-link" href="/blog/page/2/">Older</a>
-    </li>
-  </ul>
-</nav>
-
-
 
 </div>
 
