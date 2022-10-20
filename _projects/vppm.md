@@ -18,6 +18,10 @@ importance: 1
 
 Paper is available on [arXiv](https://arxiv.org/abs/2202.13200) and [ACM](https://dl.acm.org/doi/10.1145/3491102.3517728).
 
+#### Media
+
+Interviewed by _Le Monde_: [link](https://www.lemonde.fr/sciences/article/2022/10/18/la-realite-virtuelle-face-au-risque-de-detournement-malveillant-de-ses-outils_6146356_1650684.html)
+
 #### Video Presentation
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/46qd0RQOQkc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
