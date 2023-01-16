@@ -3,7 +3,7 @@ layout: page
 title: SSPXR
 permalink: /sspxr/
 description: Novel Challenges of Safety, Security and Privacy in Extended Reality
-nav: true
+nav: false
 ---
 
 ## Novel Challenges of Safety, Security and Privacy in Extended Reality (CHI 2022 Workshop)
