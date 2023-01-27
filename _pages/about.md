@@ -19,9 +19,10 @@ social: true  # includes social icons at the bottom of the page
 
 <br>
 
-Wen-Jie Tseng is a 3rd year PhD student and Human-Computer Interaction (HCI) researcher in [DIVA](https://diva.telecom-paristech.fr/) Group at Telecom Paris, France. His research investigates the physical breakdown in Virtual Reality (VR) - an abrupt disruption of the VR experience caused by a collision with the physical environment. His research aims to understand the behavior process for physical breakdowns by conducting user experiments, provide solutions through prototyping, and explore future mechanisms that could perpetuate safety risks.
+Hi, I am a Ph.D. student and Human-Computer Interaction (HCI) researcher in [the DIVA Group](https://diva.telecom-paristech.fr/) at Telecom Paris, France. My thesis investigates the physical breakdown in Virtual Reality (VR) - an abrupt disruption of the VR experience caused by a collision with the physical environment. My research goal aims to understand the behavior process for physical breakdowns by conducting user experiments, providing solutions through prototyping, and exploring future mechanisms that could perpetuate safety risks.
 
-In 2023, he will continue his PhD at the Department of Computer Science, TU Darmstadt, Germany. Previously, he finished his Master degree at National Chiao Tung University, Taiwan, exploring how to integrate input controls and haptic outputs with VR head-mounted displays. Have a look at his [Projects](https://wenjietseng.com/projects/) and [CV](https://wenjietseng.com/assets/pdf/2023_CV_Wen_Jie_Tseng.pdf) for more details.
+In 2023, I will continue my Ph.D. research at the Department of Computer Science, TU Darmstadt, Germany. Previously, I finished my Master's degree at National Chiao Tung University, Taiwan, exploring how to integrate input controls and haptic outputs with VR head-mounted displays. Have a look at my [Projects](https://wenjietseng.com/projects/) and [CV](https://wenjietseng.com/assets/pdf/2023_CV_Wen_Jie_Tseng.pdf) for more details.
+
 
 <!-- <a href="https://scholar.google.com.tw/citations?user=1XUzM-UAAAAJ&hl=zh-TW">Google Scholar</a>, <a href="https://dblp.uni-trier.de/pers/hd/t/Tseng_0002:Wen=Jie">dblp</a> -->
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
