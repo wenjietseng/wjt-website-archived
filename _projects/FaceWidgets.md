@@ -3,7 +3,7 @@ layout: page
 title: FaceWidgets
 description: 2019
 img: /assets/img/facewidgets.JPG
-importance: 1
+importance: 6
 ---
 
 ### Exploring Tangible Interaction on Face with Head-Mounted Displays

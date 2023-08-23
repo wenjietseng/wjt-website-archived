@@ -3,7 +3,7 @@ layout: page
 title: HouseVibe
 description: 2021
 img: /assets/img/housevibe.jpg
-importance: 1
+importance: 4
 ---
 
 In August 2021, I participated in [creartathon](https://creartathon.com/2021_archive/) at Inria Saclay. Participants have to create an idea around AI, art and HCI. In one week, we have to prototype the idea and exhibit our work.

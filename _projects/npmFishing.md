@@ -3,7 +3,7 @@ layout: page
 title: VR Fishing
 description: 2018
 img: /assets/img/fisherman-thumb.png
-importance: 1
+importance: 2
 ---
 
 ### NCTU Museum-School Collaboration Showcase—VR Creative Exhibition
