@@ -6,9 +6,11 @@ title: teaching
 nav: true
 ---
 
-## Thesis topics
+## BS/MS Thesis topics 2023/24
 
-Coming soon... 😀
+- [Measuring the Sense of Presence in Virtual Reality Using Physiological Measurements While Inducing Fear](https://wenjietseng.com/assets/pdf/thesis-topics/2023-fear-presence.pdf)
+
+If you are interested in these topics, or you want to do your oiriginal idea, feel free to contact me!
 
 ## VR related
 
