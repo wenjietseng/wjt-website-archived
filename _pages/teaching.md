@@ -8,7 +8,9 @@ nav: true
 
 ## BS/MS Thesis topics 2023/24
 
-- [Measuring the Sense of Presence in Virtual Reality Using Physiological Measurements While Inducing Fear](https://wenjietseng.com/assets/pdf/thesis-topics/2023-fear-presence.pdf)
+- Spatial Updating in VR (BS)
+- fNIRS and VR  (Project Seminar/BS/MS)
+- Computational Cognitive Modeling (Project Seminar/BS/MS)
 
 If you are interested in these topics, or you want to do your oiriginal idea, feel free to contact me!
 
